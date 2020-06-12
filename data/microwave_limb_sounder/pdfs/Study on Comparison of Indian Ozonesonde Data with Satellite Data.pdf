@@ -1,0 +1,1329 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" class="no-js">
+    <head>
+        <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.5,user-scalable=yes">
+    <meta name="citation_publisher" content="Springer India"/>
+    <meta name="citation_title" content="Study on Comparison of Indian Ozonesonde Data with Satellite Data"/>
+    <meta name="citation_doi" content="10.1007/s12647-016-0174-4"/>
+    <meta name="citation_language" content="en"/>
+    <meta name="citation_abstract_html_url" content="https://link.springer.com/article/10.1007/s12647-016-0174-4"/>
+    <meta name="citation_fulltext_html_url" content="https://link.springer.com/article/10.1007/s12647-016-0174-4"/>
+    <meta name="citation_pdf_url" content="https://link.springer.com/content/pdf/10.1007%2Fs12647-016-0174-4.pdf"/>
+    <meta name="citation_springer_api_url" content="http://api.springer.com/metadata/pam?q=doi:10.1007/s12647-016-0174-4&amp;api_key="/>
+    <meta name="citation_firstpage" content="197"/>
+    <meta name="citation_lastpage" content="217"/>
+    <meta name="citation_author" content="Rohtash"/>
+    <meta name="citation_author_institution" content="National Physical Laboratory"/>
+    <meta name="citation_author" content="T. K. Mandal"/>
+    <meta name="citation_author_institution" content="National Physical Laboratory"/>
+    <meta name="citation_author_email" content="tuhin@nplindia.org"/>
+    <meta name="citation_author" content="S. K. Peshin"/>
+    <meta name="citation_author_institution" content="India Meteorological Department"/>
+    <meta name="citation_author" content="S. K. Sharma"/>
+    <meta name="citation_author_institution" content="National Physical Laboratory"/>
+    <meta name="dc.identifier" content="10.1007/s12647-016-0174-4"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="description" content="This paper assesses the quality of ozone data of modified Brewer Mast (MBM) balloonborne ozonesonde and its comparison with MOZAIC Data (version 4), TES data (version 6), UARS MLS (version 5), EOS Aur"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="Study on Comparison of Indian Ozonesonde Data with Satellite Data"/>
+    <meta name="twitter:image" content="https://static-content.springer.com/cover/journal/12647/31/3.jpg"/>
+    <meta name="twitter:image:alt" content="Content cover image"/>
+    <meta name="twitter:site" content="SpringerLink"/>
+    <meta name="twitter:description" content="This paper assesses the quality of ozone data of modified Brewer Mast (MBM) balloonborne ozonesonde and its comparison with MOZAIC Data (version 4), TES data (version 6), UARS MLS (version 5), EOS Aur"/>
+    <meta name="citation_journal_title" content="MAPAN"/>
+    <meta name="citation_journal_abbrev" content="MAPAN"/>
+    <meta name="citation_volume" content="31"/>
+    <meta name="citation_issue" content="3"/>
+    <meta name="citation_issn" content="0970-3950"/>
+    <meta name="citation_issn" content="0974-9853"/>
+    <meta name="citation_online_date" content="2016/06/22"/>
+    <meta name="citation_cover_date" content="2016/09/01"/>
+    <meta name="citation_article_type" content="Original Paper"/>
+    <meta property="og:title" content="Study on Comparison of Indian Ozonesonde Data with Satellite Data"/>
+    <meta property="og:type" content="Article"/>
+    <meta property="og:url" content="https://link.springer.com/article/10.1007/s12647-016-0174-4"/>
+    <meta property="og:image" content="https://static-content.springer.com/cover/journal/12647/31/3.jpg"/>
+    <meta property="og:site_name" content="SpringerLink"/>
+    <meta property="og:description" content="This paper assesses the quality of ozone data of modified Brewer Mast (MBM) balloonborne ozonesonde and its comparison with MOZAIC Data (version 4), TES data (version 6), UARS MLS (version 5), EOS Aur"/>
+
+        <title>Study on Comparison of Indian Ozonesonde Data with Satellite Data | SpringerLink</title>
+        <link rel="canonical" href="https://link.springer.com/article/10.1007/s12647-016-0174-4"/>
+        <link rel="shortcut icon" href="/springerlink-static/1292581672/images/favicon/favicon.ico" />
+<link rel="icon" sizes="16x16 32x32 48x48" href="/springerlink-static/1292581672/images/favicon/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/springerlink-static/1292581672/images/favicon/favicon-16x16.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/springerlink-static/1292581672/images/favicon/favicon-32x32.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/springerlink-static/1292581672/images/favicon/favicon-48x48.png">
+<link rel="apple-touch-icon" href="/springerlink-static/1292581672/images/favicon/app-icon-iphone@3x.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/springerlink-static/1292581672/images/favicon/ic_launcher_hdpi.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/springerlink-static/1292581672/images/favicon/app-icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/springerlink-static/1292581672/images/favicon/app-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/springerlink-static/1292581672/images/favicon/app-icon-iphone@2x.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/springerlink-static/1292581672/images/favicon/ic_launcher_xxhdpi.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/springerlink-static/1292581672/images/favicon/app-icon-ipad@2x.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/springerlink-static/1292581672/images/favicon/app-icon-iphone@3x.png" />
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/springerlink-static/1292581672/images/favicon/ic_launcher_xxhdpi.png">
+        <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.googletagservices.com" />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<link rel="dns-prefetch" href="//static-content.springer.com" />
+        <link rel="stylesheet" href="/springerlink-static/1292581672/css/basic.css" media="screen">
+<link rel="stylesheet" href="/springerlink-static/1292581672/css/styles.css" class="js-ctm" media="only screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0), (-ms-high-contrast: none), only all and (min--moz-device-pixel-ratio:0) and (min-resolution: 3e1dpcm)">
+<link rel="stylesheet" href="/springerlink-static/1292581672/css/print.css" media="print">
+
+
+            <script id="webtrekk-properties">
+    var webtrekkProperties = {
+          trackDomain : "springergmbh01.webtrekk.net",
+          trackId : "935649882378213",
+            bpJson: {1:"8200834721",2:"NASA Jet Propulsion Laboratory - US MS111-113"}
+      };
+    </script>
+    <script type="text/javascript" async src="/springerlink-static/1292581672/js/webtrekk_v4.min.js"></script>
+
+            <script>
+        var dataLayer = [{
+                'GA Key':'UA-26408784-1',
+                'Event Category':'Article',
+                'Open Access':'N',
+                'Labs':'Y',
+                'DOI':'10.1007\/s12647-016-0174-4',
+                'VG Wort Identifier':'pw-vgzm.415900-10.1007-s12647-016-0174-4',
+                'HasAccess':'N',
+                'Full HTML':'N',
+                'Has Body':'Y',
+                'Static Hash':'1292581672',
+                'Has Preview':'N',
+                'user':{'license': {'businessPartnerID': ['8200834721'], 'businessPartnerIDString': '8200834721'}},
+                'content':{'type': 'article', 'category': {'pmc': {'primarySubject': 'Physics', 'primarySubjectCode': 'P', 'secondarySubjects': {'1': 'Measurement Science and Instrumentation', '2': 'Theoretical, Mathematical and Computational Physics', '3': 'Mathematical Methods in Physics', '4': 'Numerical and Computational Physics'}, 'secondarySubjectCodes': {'1': 'P31040', '2': 'P19005', '3': 'P19013', '4': 'P19021'}}}},
+                'Access Type':'noaccess',
+                'Page':'article',
+                'Bpids':'8200834721',
+                'Bpnames':'NASA Jet Propulsion Laboratory - US MS111-113',
+                'SubjectCodes':'SCP, SCP31040, SCP19005, SCP19013, SCP19021',
+                'Keywords':'Ozonesonde, Satellite data, MOZAIC data',
+                'Webtrekk parent prefix':'journal',
+                'Webtrekk leaf prefix':'article',
+                'Webtrekk toc prefix':'journal',
+                'Country':'US',
+                'Journal Id':'12647',
+                'Journal Title':'MAPAN',
+        }];
+    </script>
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?cache-busting=' + new Date().getTime() + '&id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCF9Z9');</script>
+
+    </head>
+    <body>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCF9Z9"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <nav class="skip-to">
+    <a class="skip-to__link skip-to__link--article" href="#main-content">Skip to main content</a>
+</nav>
+        <div class="page-wrapper">
+            <noscript>
+    <div class="nojs-banner u-interface">
+        <p>This service is more advanced with JavaScript available, learn more at <a
+                href="http://activatejavascript.org" target="_blank" rel="noopener">http://activatejavascript.org</a>
+        </p>
+    </div>
+</noscript>
+                    <div id="leaderboard" class="leaderboard u-hide" data-component="SpringerLink.GoogleAds" data-namespace="leaderboard"></div>
+
+                <header id="header" class="header u-interface" role="banner">
+        <div class="header__content">
+            <div class="header__menu-container">
+                    <a id="logo" class="site-logo" href="/" title="Go to homepage">
+                <div class="u-screenreader-only">SpringerLink</div>
+    <svg class="site-logo__springer" width="148" height="30" role="img" aria-label="SpringerLink Logo">
+        <image width="148" height="30" alt="SpringerLink Logo" src="/springerlink-static/1292581672/images/png/springerlink.png" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/springerlink-static/1292581672/images/svg/springerlink.svg"></image>
+    </svg>
+
+    </a>
+
+
+                    <nav id="search-container" class="u-inline-block">
+                        <div class="search">
+                            <div class="search__content">
+                                <form class="u-form-single-input" action="/search" method="get" role="search">
+    <input aria-label="Search" name="query" type="text" autocomplete="off" value="" placeholder="Search">
+    <input class="u-hide-text" type="submit" value="Submit" title="Submit">
+    <svg class="u-vertical-align-absolute" width="13" height="13" viewBox="222 151 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <path d="M227 159C228.7 159 230 157.7 230 156 230 154.3 228.7 153 227 153 225.3 153 224 154.3 224 156 224 157.7 225.3 159 227 159L227 159 227 159 227 159ZM230 160.1L231.1 159 233.9 161.7C234.2 162.1 234.2 162.6 233.9 162.9 233.6 163.2 233.1 163.2 232.7 162.9L230 160.1 230 160.1 230 160.1 230 160.1ZM227 161L227 161C224.2 161 222 158.8 222 156 222 153.2 224.2 151 227 151 229.8 151 232 153.2 232 156 232 158.8 229.8 161 227 161L227 161 227 161 227 161 227 161Z" stroke="none" fill-rule="evenodd"/>
+    </svg>
+</form>
+                            </div>
+                        </div>
+                    </nav>
+
+                    <nav class="nav-container u-interface">
+    <div class="global-nav__wrapper">
+        <div class="search-button">
+            <a class="search-button__label" href="#search-container">
+                <span class="search-button__title">Search</span><svg width="12" height="12" viewBox="222 151 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M227 159C228.7 159 230 157.7 230 156 230 154.3 228.7 153 227 153 225.3 153 224 154.3 224 156 224 157.7 225.3 159 227 159L227 159 227 159 227 159ZM230 160.1L231.1 159 233.9 161.7C234.2 162.1 234.2 162.6 233.9 162.9 233.6 163.2 233.1 163.2 232.7 162.9L230 160.1 230 160.1 230 160.1 230 160.1ZM227 161L227 161C224.2 161 222 158.8 222 156 222 153.2 224.2 151 227 151 229.8 151 232 153.2 232 156 232 158.8 229.8 161 227 161L227 161 227 161 227 161 227 161Z" stroke="none" fill-rule="evenodd"></path>
+                </svg>
+            </a>
+        </div>
+
+        <ul class="global-nav" data-component="SpringerLink.Menu" data-title="Navigation menu" data-text="Menu">
+            <li>
+                <a href="/">
+                    <span class="u-overflow-ellipsis">Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="/contactus">
+                    <span class="u-overflow-ellipsis">Contact us</span>
+                </a>
+            </li>
+
+                <li class="global-nav__logged-out">
+                    <a class="test-login-link" href="//link.springer.com/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4%3Fno-access%3Dtrue">
+                        <span class="u-overflow-ellipsis">Log in</span>
+                    </a>
+                </li>
+
+        </ul>
+    </div> 
+</nav> 
+            </div>
+
+        </div>
+    </header>
+
+            
+            
+
+            <main id="main-content" class="main-wrapper">
+                <div class="main-container uptodate-recommendations-off">
+                    <aside class="main-sidebar-left">
+                        <div class="main-sidebar-left__content">
+                            <div class="test-cover cover-image" itemscope>
+        <a class="test-cover-link" href="/journal/12647" title="MAPAN">
+            <img class="test-cover-image" src="https://static-content.springer.com/cover/journal/12647/31/3.jpg" alt="MAPAN" itemprop="image"/>
+        </a>
+
+</div>
+                        </div>
+                    </aside>
+                    <div class="main-body" data-role="NavigationContainer">
+                        
+
+
+                        <article class="main-body__content">
+                            <div xmlns="http://www.w3.org/1999/xhtml" class="FulltextWrapper"><div class="ArticleHeader main-context"><div id="enumeration" class="enumeration"><p><a href="/journal/12647" title="MAPAN"><span class="JournalTitle">MAPAN</span></a></p><p class="icon--meta-keyline-before"><span class="ArticleCitation_Year"><time datetime="2016-09">September 2016</time>, </span><span class="ArticleCitation_Volume">Volume 31, </span><a class="ArticleCitation_Issue" href="/journal/12647/31/3/page/1">Issue 3</a>,
+                       <span class="ArticleCitation_Pages"> pp 197–217</span><span class="u-inline-block u-ml-4"> | <a class="gtm-cite-link" href="#citeas">Cite as</a></span></p></div><div class="MainTitleSection"><h1 class="ArticleTitle" lang="en">Study on Comparison of Indian Ozonesonde Data with Satellite Data</h1></div><div class="authors u-clearfix" data-component="SpringerLink.Authors"><ul class="u-interface u-inline-list authors__title" data-role="AuthorsNavigation"><li><span>Authors</span></li><li><a href="#authorsandaffiliations" class="gtm-tab-authorsandaffiliations">Authors and affiliations</a></li></ul><div class="authors__list" data-role="AuthorsList"><ul class="test-contributor-names"><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors__name">Rohtash</span></li><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors__name">T. K. Mandal</span><span class="author-information"><span class="authors__contact"><a href="mailto:tuhin@nplindia.org" title="tuhin@nplindia.org" itemprop="email" class="gtm-email-author">Email author</a></span></span></li><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors__name">S. K. Peshin</span></li><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors__name">S. K. Sharma</span></li></ul></div></div><div class="main-context__container" data-component="SpringerLink.ArticleMetrics"><div class="main-context__column"><span><span class="test-render-category">Original Paper</span></span><div class="article-dates" data-component="SpringerLink.ArticleDates"><div class="article-dates__entry"><span class="article-dates__label">First Online: </span><span class="article-dates__first-online"><time datetime="2016-06-22">22 June 2016</time></span></div><div class="article-dates__history"><div class="article-dates__entry"><span class="article-dates__label">Received: </span><span><time datetime="2015-11-06">06 November 2015</time></span></div><div class="article-dates__entry"><span class="article-dates__label">Accepted: </span><span><time datetime="2016-05-23">23 May 2016</time></span></div></div></div></div></div></div><section class="Abstract" id="Abs1" tabindex="-1" lang="en"><h2 class="Heading">Abstract</h2><p id="Par1" class="Para">This paper assesses the quality of ozone data of modified Brewer Mast (MBM) balloonborne ozonesonde and its comparison with MOZAIC Data (version 4), TES data (version 6), UARS MLS (version 5), EOS Aura MLS Data (version 5) and SBUV (version 8.1). The stations that have been used for this analysis: Delhi (28.58N, 77.20E) (Ozonesonde, MOZAIC, TES, UARS MLS, AURA MLS and SBUV), Pune (18.53N, 73.85E) Ozonesonde, UARS MLS, AURA MLS, SBUV and MOZAIC over Bombay presently called Mumbai (20.19N, 72.34E)), Madras presently called Chennai (13N, 80.18E) (MOZAIC and MLS) and Trivandrum (8.48N, 76.95E) (Ozonesonde, UARS MLS, AURA MLS and SBUV). Analysis shows that reasonable amounts of ozonesonde data are of good quality according to WMO criteria (1982) as 70–80 % of data over all the three stations are within the normalization factor of 1.3–0.8 ± (0.05–0.1) although some major changes in instrumentation e.g., new fast running nonreactive Teflon pump, modernized electronics, and smaller case since 1971. Several international intercomparisons carried out in 1970, 1982, 1991 and 1996 respectively, has also been confirmed the same, in spite of fundamental differences among the methods of these intercomparisons as well as ozonesonde types on procedure for sonde preparation, data processing and analysis. The intercomparison of Indian ozonesonde data (1995–1999) is made at troposphere with MOZAIC data (1995–2000) over Delhi and Pune/Mumbai, ozonesonde data (2013–2014) also compare with TES (2013–2014) special observation data over particular station Delhi at troposphere and at stratosphere with UARS MLS (1995–1999), EOS Aura MLS (2005–2014) and SBUV (2005–2013) data at Delhi, Pune and Trivandrum. Tropospheric value of Ozonesonde shows on average 10–20 % higher value than MOZAIC value over Delhi and Pune except in the lower height (&lt;800 hPa) but ozonesonde show 10–15 % higher value than TES over Delhi in the lower height (&lt;800 hPa). The percentage difference between ozonesonde data and UARS MLS data at Delhi, Pune and Trivandrum show variation of ±15 % and ozonesonde data, EOS Aura MLS and SBUV data at Delhi, Pune and Trivandrum show variation of ±45 % in the vertical range of 46 to 10 hPa, where, MLS data show highest accuracy.
+</p></section><div class="KeywordGroup" lang="en"><h3 class="Heading">Keywords</h3><span class="Keyword">Ozonesonde </span><span class="Keyword">Satellite data </span><span class="Keyword">MOZAIC data </span></div><div class="article-actions--inline" id="article-actions--inline" data-component="article-actions--inline"></div><section id="Notes" class="Section1 RenderAsSection1"><h2 class="Heading">Notes</h2><div class="content"><section><h3 class="Heading">Acknowledgments</h3><p class="SimplePara">Authors acknowledge the Director, National Physical Laboratory and Director General, India Meteorological Department for providing the infrastructure during this analysis. Authors are thankful to ISRO/DOS for funding under CAWSES-India Program. Authors acknowledged the entire MLS &amp; TES team for providing EOS Aura &amp; UARS data. Authors are indebted to the SBUV/2 NOAA-16 &amp; NOAA-18 Team members for providing the SBUV/2 data. Authors are also thankful to the MOZAIC Team members for providing the MOZAIC data for the above study. Rohtash (SRF) is thankful to Department of Space (ISRO/DOS) for funding his fellowship under CAWSES-India program.</p></section></div></section><section class="Section1 RenderAsSection1" id="Bib1" tabindex="-1"><h3 class="Heading">References</h3><div class="content"><ol class="BibliographyWrapper"><li class="Citation"><div class="CitationNumber">[1]</div><div class="CitationContent" id="CR1">McPeters, R.D., T. Miles, L.E. Flynn, C.G. Wellemeyer, and J.M. Zawodny, Comparison of SBUV and SAGE II ozone profiles, Implications for ozone trends, J. Geophys. Res. <strong class="EmphasisTypeBold ">99</strong> (1994) 20513–20524.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=McPeters%2C%20R.D.%2C%20T.%20Miles%2C%20L.E.%20Flynn%2C%20C.G.%20Wellemeyer%2C%20and%20J.M.%20Zawodny%2C%20Comparison%20of%20SBUV%20and%20SAGE%20II%20ozone%20profiles%2C%20Implications%20for%20ozone%20trends%2C%20J.%20Geophys.%20Res.%2099%20%281994%29%2020513%E2%80%9320524."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[2]</div><div class="CitationContent" id="CR2">Logan, J.A., Tropospheric ozone: seasonal behavior, trends and anthropogenic influence, J. Geophys. Res. <strong class="EmphasisTypeBold ">90</strong> (1985) 10463–10482.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Logan%2C%20J.A.%2C%20Tropospheric%20ozone%3A%20seasonal%20behavior%2C%20trends%20and%20anthropogenic%20influence%2C%20J.%20Geophys.%20Res.%2090%20%281985%29%2010463%E2%80%9310482."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[3]</div><div class="CitationContent" id="CR3">SPARC/WMO, Assessment of trends in the vertical distribution of ozone, in SPARC Report 1, edited by N. Harris, R. Hudson, and C. Phillips, WMO Ozone Res. Monit. Pro. Rep. 43, 289pp, SPARC Off, Verrieres-le-Bussion, France (1998).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=SPARC%2FWMO%2C%20Assessment%20of%20trends%20in%20the%20vertical%20distribution%20of%20ozone%2C%20in%20SPARC%20Report%201%2C%20edited%20by%20N.%20Harris%2C%20R.%20Hudson%2C%20and%20C.%20Phillips%2C%20WMO%20Ozone%20Res.%20Monit.%20Pro.%20Rep.%2043%2C%20289pp%2C%20SPARC%20Off%2C%20Verrieres-le-Bussion%2C%20France%20%281998%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[4]</div><div class="CitationContent" id="CR4">Attmannspacher, W. and H. Dutch, International ozone sonde intercomparison at the observatory of Hohenpiessenberg, Berichte des Deutschen Wetterdienstes, <strong class="EmphasisTypeBold ">120</strong> (1970).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Attmannspacher%2C%20W.%20and%20H.%20Dutch%2C%20International%20ozone%20sonde%20intercomparison%20at%20the%20observatory%20of%20Hohenpiessenberg%2C%20Berichte%20des%20Deutschen%20Wetterdienstes%2C%20120%20%281970%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[5]</div><div class="CitationContent" id="CR5">Attmannspacher, W. and H. Dutch, 2nd International ozone sonde intercomparison at the observatory of Hohenpeissenberg, Berichte des Deutschen Wetterdienstes, <strong class="EmphasisTypeBold ">157</strong> (1981).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Attmannspacher%2C%20W.%20and%20H.%20Dutch%2C%202nd%20International%20ozone%20sonde%20intercomparison%20at%20the%20observatory%20of%20Hohenpeissenberg%2C%20Berichte%20des%20Deutschen%20Wetterdienstes%2C%20157%20%281981%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[6]</div><div class="CitationContent" id="CR6">Acharya et al., Indo-USSR ozonesonde intercomparison experiment at Thumba-Part-I, ISRO-IMAPSR-24-85, June, 1985.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Acharya%20et%20al.%2C%20Indo-USSR%20ozonesonde%20intercomparison%20experiment%20at%20Thumba-Part-I%2C%20ISRO-IMAPSR-24-85%2C%20June%2C%201985."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[7]</div><div class="CitationContent" id="CR7">Acharya et al., Indo-USSR ozonesonde intercomparison experiment at Thumba-Part-II, ISRO-IMAPSR-24-85, June, 1985.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Acharya%20et%20al.%2C%20Indo-USSR%20ozonesonde%20intercomparison%20experiment%20at%20Thumba-Part-II%2C%20ISRO-IMAPSR-24-85%2C%20June%2C%201985."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[8]</div><div class="CitationContent" id="CR8">World Meteorological Association (WMO), Third WMO Intercomparison of the ozonesondes used in the Global ozone Observing System (Vanscoy, Canada, 13–24 May 1991) Global Atmospheric Watch, Rep. 27, WMO TD 528, Geneva (1991).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=World%20Meteorological%20Association%20%28WMO%29%2C%20Third%20WMO%20Intercomparison%20of%20the%20ozonesondes%20used%20in%20the%20Global%20ozone%20Observing%20System%20%28Vanscoy%2C%20Canada%2C%2013%E2%80%9324%20May%201991%29%20Global%20Atmospheric%20Watch%2C%20Rep.%2027%2C%20WMO%20TD%20528%2C%20Geneva%20%281991%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[9]</div><div class="CitationContent" id="CR9">Smit, H.G.J., and D. Kley, Jülich ozone sonde intercomparison experiment (JOSIE), WMO global atmosphere watch report series, No. 130 (Technical Document No. 926), World Meteorological Organization, Geneva (1998).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Smit%2C%20H.G.J.%2C%20and%20D.%20Kley%2C%20J%C3%BClich%20ozone%20sonde%20intercomparison%20experiment%20%28JOSIE%29%2C%20WMO%20global%20atmosphere%20watch%20report%20series%2C%20No.%20130%20%28Technical%20Document%20No.%20926%29%2C%20World%20Meteorological%20Organization%2C%20Geneva%20%281998%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[10]</div><div class="CitationContent" id="CR10">Livesey, N.J., W.G. Read, L. Frodevaus, J.W. Waters, H.C. Pumphrey, D.L. Wu, M.L. Santee, S. Shippony, R.F. Jarnot, The UARS microwave limb sounder version 5 dataset: theory, characterization, and validation., J. Geophys. Res. <strong class="EmphasisTypeBold ">108</strong>(D13) (2003) 4378. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1029/2002JD002273"><span class="RefSource">10.1029/2002JD002273</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[11]</div><div class="CitationContent" id="CR11">Cunnold, D.M., M.J. Newchurch, L.E. Floyd, H.J. Wang, J.M. Russell, R.M. McPeters, J. Zawdony, and L. Frodevaux, Uncertainties in upper stratospheric ozone trends from 1979 to 1996, J. Geophysical Res. <strong class="EmphasisTypeBold ">105</strong> (2000) 4427–4444.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Cunnold%2C%20D.M.%2C%20M.J.%20Newchurch%2C%20L.E.%20Floyd%2C%20H.J.%20Wang%2C%20J.M.%20Russell%2C%20R.M.%20McPeters%2C%20J.%20Zawdony%2C%20and%20L.%20Frodevaux%2C%20Uncertainties%20in%20upper%20stratospheric%20ozone%20trends%20from%201979%20to%201996%2C%20J.%20Geophysical%20Res.%20105%20%282000%29%204427%E2%80%934444."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[12]</div><div class="CitationContent" id="CR12">Sreedharan, C.R., An Indian electrochemical ozonesonde, J. Phys. E. Sci. Instrum. Sr. <strong class="EmphasisTypeBold ">2</strong> (1968) 995–997.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Sreedharan%2C%20C.R.%2C%20An%20Indian%20electrochemical%20ozonesonde%2C%20J.%20Phys.%20E.%20Sci.%20Instrum.%20Sr.%202%20%281968%29%20995%E2%80%93997."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[13]</div><div class="CitationContent" id="CR13">Brewer, A.W., and J.R. Milford, The Oxford-Kew ozone sonde, Proc. R. Soc. <strong class="EmphasisTypeBold ">A256</strong> (1960) 470–495.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Brewer%2C%20A.W.%2C%20and%20J.R.%20Milford%2C%20The%20Oxford-Kew%20ozone%20sonde%2C%20Proc.%20R.%20Soc.%20A256%20%281960%29%20470%E2%80%93495."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[14]</div><div class="CitationContent" id="CR14">Dutsch H.U., W. Zulig, and C.C. Ling, Regular ozone observation at Thalwill, Switzerland and at Boulder, Colorado, Rep. IAPETH 1, Lab, Atmospharenphys. Eidgen Eidgenoss, Tech Hochsch, Zurish (1970).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Dutsch%20H.U.%2C%20W.%20Zulig%2C%20and%20C.C.%20Ling%2C%20Regular%20ozone%20observation%20at%20Thalwill%2C%20Switzerland%20and%20at%20Boulder%2C%20Colorado%2C%20Rep.%20IAPETH%201%2C%20Lab%2C%20Atmospharenphys.%20Eidgen%20Eidgenoss%2C%20Tech%20Hochsch%2C%20Zurish%20%281970%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[15]</div><div class="CitationContent" id="CR15">Komhyr, W.D., Electrochemical concentration cells for gas analyser, Ann. Geophys. <strong class="EmphasisTypeBold ">25</strong> (1969) 203–210.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Komhyr%2C%20W.D.%2C%20Electrochemical%20concentration%20cells%20for%20gas%20analyser%2C%20Ann.%20Geophys.%2025%20%281969%29%20203%E2%80%93210."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[16]</div><div class="CitationContent" id="CR16">Barnes R.A., A.R. Bany, and A.L. Torres, Electrochemical concentration cell ozonesonde accuracy and precision, J. Geophys., Res. <strong class="EmphasisTypeBold ">90</strong> (1985) 7881–7888.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Barnes%20R.A.%2C%20A.R.%20Bany%2C%20and%20A.L.%20Torres%2C%20Electrochemical%20concentration%20cell%20ozonesonde%20accuracy%20and%20precision%2C%20J.%20Geophys.%2C%20Res.%2090%20%281985%29%207881%E2%80%937888."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[17]</div><div class="CitationContent" id="CR17">Hilsenrath et al, Results from Balloon ozone Intercomparison Campaign (BOIC), J. Geophysic., Res. <strong class="EmphasisTypeBold ">91</strong> (1986) 13,137–13,152.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Hilsenrath%20et%20al%2C%20Results%20from%20Balloon%20ozone%20Intercomparison%20Campaign%20%28BOIC%29%2C%20J.%20Geophysic.%2C%20Res.%2091%20%281986%29%2013%2C137%E2%80%9313%2C152."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[18]</div><div class="CitationContent" id="CR18">Beckman, M., G. Ancellet, D. Martin, C. Abonnel, G. Daverneuil, F. Eidleliman, P. Bessermoulin, N. Fritz, and E. Gizard, Intercomparison of tropospheric profiles obtained by electrochemical sondes, a ground based lidar, and an airborne UV-Photometer, Atmos. Environ. <strong class="EmphasisTypeBold ">29</strong> (1995) 1027–1042.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Beckman%2C%20M.%2C%20G.%20Ancellet%2C%20D.%20Martin%2C%20C.%20Abonnel%2C%20G.%20Daverneuil%2C%20F.%20Eidleliman%2C%20P.%20Bessermoulin%2C%20N.%20Fritz%2C%20and%20E.%20Gizard%2C%20Intercomparison%20of%20tropospheric%20profiles%20obtained%20by%20electrochemical%20sondes%2C%20a%20ground%20based%20lidar%2C%20and%20an%20airborne%20UV-Photometer%2C%20Atmos.%20Environ.%2029%20%281995%29%201027%E2%80%931042."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[19]</div><div class="CitationContent" id="CR19">Komhyr, W.D., R.A. Barnes, G.B. Brothers, J.A. Lathrop, and D.P. Opperman, Elcetrochemical concentration cell ozonesonde performance evaluation during STOIC 1989, J. Geophys., Res. <strong class="EmphasisTypeBold ">100</strong> (1995) 9231–9244.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Komhyr%2C%20W.D.%2C%20R.A.%20Barnes%2C%20G.B.%20Brothers%2C%20J.A.%20Lathrop%2C%20and%20D.P.%20Opperman%2C%20Elcetrochemical%20concentration%20cell%20ozonesonde%20performance%20evaluation%20during%20STOIC%201989%2C%20J.%20Geophys.%2C%20Res.%20100%20%281995%29%209231%E2%80%939244."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[20]</div><div class="CitationContent" id="CR20">Reid S.J., and G. Vaughan, A.R. March, and H.G.J. Smit, Intercomaprison of ozone measurements by ECC sondes and BENDIX chemiluminescent analyser, J. Atmos. Che. <strong class="EmphasisTypeBold ">25</strong> (1996) 215–226.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Reid%20S.J.%2C%20and%20G.%20Vaughan%2C%20A.R.%20March%2C%20and%20H.G.J.%20Smit%2C%20Intercomaprison%20of%20ozone%20measurements%20by%20ECC%20sondes%20and%20BENDIX%20chemiluminescent%20analyser%2C%20J.%20Atmos.%20Che.%2025%20%281996%29%20215%E2%80%93226."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[21]</div><div class="CitationContent" id="CR21">Beckman, M., G. Ancellet, G. Megie, H. Smit, H.G.J. Smit, Intercomparison campaign of vertical ozone profiles including electrochemical sondes of ECC and Brewer-Mast type and a ground based UV-differential absorption lidar, J. Atmos. Chem. <strong class="EmphasisTypeBold ">19</strong> (1994) 259 – 288.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Beckman%2C%20M.%2C%20G.%20Ancellet%2C%20G.%20Megie%2C%20H.%20Smit%2C%20H.G.J.%20Smit%2C%20Intercomparison%20campaign%20of%20vertical%20ozone%20profiles%20including%20electrochemical%20sondes%20of%20ECC%20and%20Brewer-Mast%20type%20and%20a%20ground%20based%20UV-differential%20absorption%20lidar%2C%20J.%20Atmos.%20Chem.%2019%20%281994%29%20259%20%E2%80%93%20288."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[22]</div><div class="CitationContent" id="CR22">Schoeberl, M.R. et al., Overview of the EOS Aura Mission, IEEE Trans. Geosci. Remote Sens. <strong class="EmphasisTypeBold ">44</strong> (2006) 1066–1074.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Schoeberl%2C%20M.R.%20et%20al.%2C%20Overview%20of%20the%20EOS%20Aura%20Mission%2C%20IEEE%20Trans.%20Geosci.%20Remote%20Sens.%2044%20%282006%29%201066%E2%80%931074."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[23]</div><div class="CitationContent" id="CR23">Waters, J.W. et al., The earth observing system microwave limb sounder (EOS MLS) on the Aura Satellite, IEEE T. Geosci. Remote. <strong class="EmphasisTypeBold ">44</strong> (2006) 1075–1092.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Waters%2C%20J.W.%20et%20al.%2C%20The%20earth%20observing%20system%20microwave%20limb%20sounder%20%28EOS%20MLS%29%20on%20the%20Aura%20Satellite%2C%20IEEE%20T.%20Geosci.%20Remote.%2044%20%282006%29%201075%E2%80%931092."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[24]</div><div class="CitationContent" id="CR24"> Jiang, Y.B. et al., Validation of Aura Microwave Limb Sounder Ozone by ozonesonde and lidar measurements, J. Geophys. Res. <strong class="EmphasisTypeBold ">112</strong> (2007) D24S34. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1029/2007JD008776"><span class="RefSource">10.1029/2007JD008776</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[25]</div><div class="CitationContent" id="CR25">Froidevaux, L. et al., Validation of Aura Microwave Limb Sounder stratospheric ozone measurements, J. Geophys. Res. <strong class="EmphasisTypeBold ">113</strong> (2008) D15S20. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1029/2007JD008771"><span class="RefSource">10.1029/2007JD008771</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[26]</div><div class="CitationContent" id="CR26">Livesey, N.J. et al., Validation of Aura Microwave Limb Sounder O3 and CO observations in the upper troposphere and lower stratosphere, J. Geophys. Res. <strong class="EmphasisTypeBold ">113</strong> (2008) D15S02. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1029/2007JD008805"><span class="RefSource">10.1029/2007JD008805</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[27]</div><div class="CitationContent" id="CR27">Bhartia, P.K., R.D. McPeters, L.E. Flynn, S. Taylor, N.A. Kramarova, S. Frith, B. Fisher, and M. DeLand, Solar Backscatter UV (SBUV) total ozone and profile algorithm, Atmos. Meas. Tech. <strong class="EmphasisTypeBold ">6</strong> (2013) 2533–2548.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Bhartia%2C%20P.K.%2C%20R.D.%20McPeters%2C%20L.E.%20Flynn%2C%20S.%20Taylor%2C%20N.A.%20Kramarova%2C%20S.%20Frith%2C%20B.%20Fisher%2C%20and%20M.%20DeLand%2C%20Solar%20Backscatter%20UV%20%28SBUV%29%20total%20ozone%20and%20profile%20algorithm%2C%20Atmos.%20Meas.%20Tech.%206%20%282013%29%202533%E2%80%932548."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[28]</div><div class="CitationContent" id="CR28">McPeters, R.D., P.K. Bhartia, D. Haffner, G. Labow, and L. Flynn, The version 8.6 SBUV ozone data record: an overview, J. Geophys. Res. <strong class="EmphasisTypeBold ">118</strong> (2013) 8032–8039. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1002/jgrd.50597"><span class="RefSource">10.1002/jgrd.50597</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[29]</div><div class="CitationContent" id="CR29">DeLand, M.T., S.L. Taylor, L.K. Huang, and B.L. Fisher, Calibration of the SBUV version 8.6 ozone data product, Atmos. Meas. Tech. <strong class="EmphasisTypeBold ">5</strong> (2012) 2951–2967. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.5194/amt-5-2951-2012"><span class="RefSource">10.5194/amt-5-2951-2012</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[30]</div><div class="CitationContent" id="CR30">McPeters, R.D. and G.J. Labow, Climatology 2011: an MLS and sonde derived ozone climatology for satellite retrieval algorithms, J. Geophys. Res.-Atmos. <strong class="EmphasisTypeBold ">117</strong> (2012) D10303. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1029/2011jd017006"><span class="RefSource">10.1029/2011jd017006</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[31]</div><div class="CitationContent" id="CR31">Beer, R., T.A. Glavich, and D.M. Rider, Tropospheric Emission Spectrometer for the Earth Observing System’s Aura satellite, Appl. Opt. <strong class="EmphasisTypeBold ">40</strong> (2001) 2356–2367.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Beer%2C%20R.%2C%20T.A.%20Glavich%2C%20and%20D.M.%20Rider%2C%20Tropospheric%20Emission%20Spectrometer%20for%20the%20Earth%20Observing%20System%E2%80%99s%20Aura%20satellite%2C%20Appl.%20Opt.%2040%20%282001%29%202356%E2%80%932367."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[32]</div><div class="CitationContent" id="CR32">Beer, R., TES on the Aura mission: scientific objectives, measurements, and analysis overview, IEEE Trans. Geosci. Remote Sens. <strong class="EmphasisTypeBold ">44</strong>(5) (2006) 1102–1105.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Beer%2C%20R.%2C%20TES%20on%20the%20Aura%20mission%3A%20scientific%20objectives%2C%20measurements%2C%20and%20analysis%20overview%2C%20IEEE%20Trans.%20Geosci.%20Remote%20Sens.%2044%285%29%20%282006%29%201102%E2%80%931105."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[33]</div><div class="CitationContent" id="CR33">Marenco, A., Valérie Thouret, Philippe Nédélec, Herman Smit, Manfred Helten, Dieter Kley, Fernand Karcher, Pascal Simon, Kathy Law, John Pyle, Georg Poschmann, Rainer Von Wrede, Chris Hume, and Tim Cook, Measurement of ozone and water vapor by Airbus in-service aircraft: The MOZAIC airborne program, An overview, J. Geophys. Res. <strong class="EmphasisTypeBold ">103</strong> (1998) 25,631–25,642.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Marenco%2C%20A.%2C%20Val%C3%A9rie%20Thouret%2C%20Philippe%20N%C3%A9d%C3%A9lec%2C%20Herman%20Smit%2C%20Manfred%20Helten%2C%20Dieter%20Kley%2C%20Fernand%20Karcher%2C%20Pascal%20Simon%2C%20Kathy%20Law%2C%20John%20Pyle%2C%20Georg%20Poschmann%2C%20Rainer%20Von%20Wrede%2C%20Chris%20Hume%2C%20and%20Tim%20Cook%2C%20Measurement%20of%20ozone%20and%20water%20vapor%20by%20Airbus%20in-service%20aircraft%3A%20The%20MOZAIC%20airborne%20program%2C%20An%20overview%2C%20J.%20Geophys.%20Res.%20103%20%281998%29%2025%2C631%E2%80%9325%2C642."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[34]</div><div class="CitationContent" id="CR34">Thouret, V., A. Marenco, J.A. Logan, P. Nedelec, C. Grouhel, Comparisons of ozone measurements from the MOZAIC airborne program and the ozone sounding network at eight locations, <strong class="EmphasisTypeBold ">103</strong> (1998) 25695–25720.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Thouret%2C%20V.%2C%20A.%20Marenco%2C%20J.A.%20Logan%2C%20P.%20Nedelec%2C%20C.%20Grouhel%2C%20Comparisons%20of%20ozone%20measurements%20from%20the%20MOZAIC%20airborne%20program%20and%20the%20ozone%20sounding%20network%20at%20eight%20locations%2C%20103%20%281998%29%2025695%E2%80%9325720."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[35]</div><div class="CitationContent" id="CR35">Waters, J.W, L. Froidevaux, G.L., Manney W.G., Read and L.S. Elson, Lower stratospheric CLO and O3 in the 1992 southern hemisphere winter, Geophys. Res. Lett. <strong class="EmphasisTypeBold ">20</strong> (1993) 1219–1222.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Waters%2C%20J.W%2C%20L.%20Froidevaux%2C%20G.L.%2C%20Manney%20W.G.%2C%20Read%20and%20L.S.%20Elson%2C%20Lower%20stratospheric%20CLO%20and%20O3%20in%20the%201992%20southern%20hemisphere%20winter%2C%20Geophys.%20Res.%20Lett.%2020%20%281993%29%201219%E2%80%931222."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[36]</div><div class="CitationContent" id="CR36">Barath et al, The upper atmospheric research satellite microwave limb sounder instrument, J. Geophysic. Res. <strong class="EmphasisTypeBold ">98</strong> (1993) 10751019762.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Barath%20et%20al%2C%20The%20upper%20atmospheric%20research%20satellite%20microwave%20limb%20sounder%20instrument%2C%20J.%20Geophysic.%20Res.%2098%20%281993%29%2010751019762."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[37]</div><div class="CitationContent" id="CR37">Friodevaus L., et al, Validation of UARS microwave limb sounder ozone measurements, J.Geophys. Res. <strong class="EmphasisTypeBold ">101</strong> (1996) 10,017–10,060.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Friodevaus%20L.%2C%20et%20al%2C%20Validation%20of%20UARS%20microwave%20limb%20sounder%20ozone%20measurements%2C%20J.Geophys.%20Res.%20101%20%281996%29%2010%2C017%E2%80%9310%2C060."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[38]</div><div class="CitationContent" id="CR38">Cunnold, D.M., H. Wang, W.P. Chu, and L. Froidevaux, Comparisons between Stratospheric Aerosol and Gas Experiment II and Microwave Limb Sounder ozone measurements and aliasing of SAGE II ozone trends in the lower stratosphere, J. Geophys. Res. <strong class="EmphasisTypeBold ">101</strong> (1996) 10,061-10,076.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Cunnold%2C%20D.M.%2C%20H.%20Wang%2C%20W.P.%20Chu%2C%20and%20L.%20Froidevaux%2C%20Comparisons%20between%20Stratospheric%20Aerosol%20and%20Gas%20Experiment%20II%20and%20Microwave%20Limb%20Sounder%20ozone%20measurements%20and%20aliasing%20of%20SAGE%20II%20ozone%20trends%20in%20the%20lower%20stratosphere%2C%20J.%20Geophys.%20Res.%20101%20%281996%29%2010%2C061-10%2C076."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[39]</div><div class="CitationContent" id="CR39">Livesey, N.J., W.V. Snyder, W.G. Read, and P.A. Wagner, Retrieval algorithms for the EOS Microwave Limb Sounder (MLS), IEEE T. Geosci. Remote <strong class="EmphasisTypeBold ">44</strong> (2006) 1144–1155. doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1109/TGRS.2006.872327"><span class="RefSource">10.1109/TGRS.2006.872327</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[40]</div><div class="CitationContent" id="CR40">Froidevaux, L., J. Anderson, H.J. Wang, R.A. Fuller, M.J. Schwartz, M.L. Santee, N.J. Livesey, H.C. Pumphrey, P.F. Bernath, J.M. Russell III, and M.P. McCormick, Global OZone Chemistry And Related trace gas Data records for the Stratosphere GOZCARDS: methodology and sample results with a focus on HCl, H2O, and O3, Atmos. Chem. Phys. <strong class="EmphasisTypeBold ">15</strong> (2015) 10471-10507.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Froidevaux%2C%20L.%2C%20J.%20Anderson%2C%20H.J.%20Wang%2C%20R.A.%20Fuller%2C%20M.J.%20Schwartz%2C%20M.L.%20Santee%2C%20N.J.%20Livesey%2C%20H.C.%20Pumphrey%2C%20P.F.%20Bernath%2C%20J.M.%20Russell%20III%2C%20and%20M.P.%20McCormick%2C%20Global%20OZone%20Chemistry%20And%20Related%20trace%20gas%20Data%20records%20for%20the%20Stratosphere%20GOZCARDS%3A%20methodology%20and%20sample%20results%20with%20a%20focus%20on%20HCl%2C%20H2O%2C%20and%20O3%2C%20Atmos.%20Chem.%20Phys.%2015%20%282015%29%2010471-10507."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[41]</div><div class="CitationContent" id="CR41">WMO, World Meteorological Organization, Sources of errors in detection of ozone trends, World Meteorological Organization, Global Ozone Research and Monitoring project, report 12, 48, Geneva (1982).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=WMO%2C%20World%20Meteorological%20Organization%2C%20Sources%20of%20errors%20in%20detection%20of%20ozone%20trends%2C%20World%20Meteorological%20Organization%2C%20Global%20Ozone%20Research%20and%20Monitoring%20project%2C%20report%2012%2C%2048%2C%20Geneva%20%281982%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[42]</div><div class="CitationContent" id="CR42">Draxler, R.R. 2003, Evaluation of an ensemble dispersion calculation, Journal of Applied Meteorology, Vol. 42, February, 308–317.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Draxler%2C%20R.R.%202003%2C%20Evaluation%20of%20an%20ensemble%20dispersion%20calculation%2C%20Journal%20of%20Applied%20Meteorology%2C%20Vol.%2042%2C%20February%2C%20308%E2%80%93317."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[43]</div><div class="CitationContent" id="CR43">Prasad, M. V. S. N., C. Sharma, B. C. Arya, T. K. Mandal, Sachchidananda Singh, Monika J. Kulshrestha, Rajesh Agnihotri, S. K. Mishra, Experimental facilities to monitor various types of atmospheric parameters in the radio and atmospheric sciences division (RASD) of CSIR-National Physical Laboratory, MAPAN-J. Metrol. Soc. India, Volume 28, Issue 3, pp 193–203, September 2013.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Prasad%2C%20M.%20V.%20S.%20N.%2C%20C.%20Sharma%2C%20B.%20C.%20Arya%2C%20T.%20K.%20Mandal%2C%20Sachchidananda%20Singh%2C%20Monika%20J.%20Kulshrestha%2C%20Rajesh%20Agnihotri%2C%20S.%20K.%20Mishra%2C%20Experimental%20facilities%20to%20monitor%20various%20types%20of%20atmospheric%20parameters%20in%20the%20radio%20and%20atmospheric%20sciences%20division%20%28RASD%29%20of%20CSIR-National%20Physical%20Laboratory%2C%20MAPAN-J.%20Metrol.%20Soc.%20India%2C%20Volume%2028%2C%20Issue%203%2C%20pp%20193%E2%80%93203%2C%20September%202013."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[44]</div><div class="CitationContent" id="CR44">Sharma, S.K., T. K. Mandal, Rohtash, M. Kumar, N. C. Gupta, H. Pathak, R. C. Harit and M. Saxena, Measurement of Ambient Ammonia over the National Capital Region of Delhi, India, MAPAN-J. Metrol. Soc India, (September 2014) <strong class="EmphasisTypeBold ">29</strong>(3), 165–173.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Sharma%2C%20S.K.%2C%20T.%20K.%20Mandal%2C%20Rohtash%2C%20M.%20Kumar%2C%20N.%20C.%20Gupta%2C%20H.%20Pathak%2C%20R.%20C.%20Harit%20and%20M.%20Saxena%2C%20Measurement%20of%20Ambient%20Ammonia%20over%20the%20National%20Capital%20Region%20of%20Delhi%2C%20India%2C%20MAPAN-J.%20Metrol.%20Soc%20India%2C%20%28September%202014%29%2029%283%29%2C%20165%E2%80%93173."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[45]</div><div class="CitationContent" id="CR45">Sen et al, Atmospheric Fine and Coarse Mode Aerosols at Different Environments of India and the Bay of Bengal During Winter-2014: Implications of a Coordinated Campaign, MAPAN-J. Metrol. Soc India, Volume 29, Issue 4, pp 273–284, December 2014.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Sen%20et%20al%2C%20Atmospheric%20Fine%20and%20Coarse%20Mode%20Aerosols%20at%20Different%20Environments%20of%20India%20and%20the%20Bay%20of%20Bengal%20During%20Winter-2014%3A%20Implications%20of%20a%20Coordinated%20Campaign%2C%20MAPAN-J.%20Metrol.%20Soc%20India%2C%20Volume%2029%2C%20Issue%204%2C%20pp%20273%E2%80%93284%2C%20December%202014."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[46]</div><div class="CitationContent" id="CR46">Shende, R.R, K. Jayaraman, C.R. Sreedharan and V.S. Tiwari, Broad features of surface ozone variations over Indian Region. Paper presented at Quadrennial ozone Symposium Intl, Ozone Comm., Charlottesville, VA (1992).<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Shende%2C%20R.R%2C%20K.%20Jayaraman%2C%20C.R.%20Sreedharan%20and%20V.S.%20Tiwari%2C%20Broad%20features%20of%20surface%20ozone%20variations%20over%20Indian%20Region.%20Paper%20presented%20at%20Quadrennial%20ozone%20Symposium%20Intl%2C%20Ozone%20Comm.%2C%20Charlottesville%2C%20VA%20%281992%29."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[47]</div><div class="CitationContent" id="CR47">Naja M. and Lal S., Surface ozone and precursor gases at Gadanki (13.5N, 79.2E), tropical rural site in India, J. Geophys. Res. (D14) (2002). doi:<span class="ExternalRef"><a target="_blank" rel="noopener" href="https://doi.org/10.1029/2001JD000357"><span class="RefSource">10.1029/2001JD000357</span></a></span>.<span class="Occurrences"></span></div></li><li class="Citation"><div class="CitationNumber">[48]</div><div class="CitationContent" id="CR48">Nair, P.R., D. Chand, S. Lal, K.S. Modh, M. Naja, K. Parameswaran, S. Ravindran and S. Venkataramani, Temporal variations in surface ozone at Thumba (8.6N, 77E) –a tropical coastal site in India, Atmospheric Environment, <strong class="EmphasisTypeBold ">36</strong> (2002) 603–610.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Nair%2C%20P.R.%2C%20D.%20Chand%2C%20S.%20Lal%2C%20K.S.%20Modh%2C%20M.%20Naja%2C%20K.%20Parameswaran%2C%20S.%20Ravindran%20and%20S.%20Venkataramani%2C%20Temporal%20variations%20in%20surface%20ozone%20at%20Thumba%20%288.6N%2C%2077E%29%20%E2%80%93a%20tropical%20coastal%20site%20in%20India%2C%20Atmospheric%20Environment%2C%2036%20%282002%29%20603%E2%80%93610."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[49]</div><div class="CitationContent" id="CR49">Jain, S.L., Pavan S. Kulkarni, Sachin D. Ghude, Suraj D. Polade, B.C. Arya, P.K. Dubey and Shahnawaz, Trend analysis of total column ozone over New Delhi, India, Mapan-J. Metrol. Soc India, <strong class="EmphasisTypeBold ">23</strong>(2) (2008) 63–69.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Jain%2C%20S.L.%2C%20Pavan%20S.%20Kulkarni%2C%20Sachin%20D.%20Ghude%2C%20Suraj%20D.%20Polade%2C%20B.C.%20Arya%2C%20P.K.%20Dubey%20and%20Shahnawaz%2C%20Trend%20analysis%20of%20total%20column%20ozone%20over%20New%20Delhi%2C%20India%2C%20Mapan-J.%20Metrol.%20Soc%20India%2C%2023%282%29%20%282008%29%2063%E2%80%9369."><span><span>Google Scholar</span></span></a></span></span></div></li><li class="Citation"><div class="CitationNumber">[50]</div><div class="CitationContent" id="CR50">Kundu, N. Reference Ozonosphere over India, Scientific Report, ISRO-IMAP-SR-09-82, pp 20, December, 1982.<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" rel="noopener" class="google-scholar-link gtm-reference" data-reference-type="Google Scholar" href="https://scholar.google.com/scholar?q=Kundu%2C%20N.%20Reference%20Ozonosphere%20over%20India%2C%20Scientific%20Report%2C%20ISRO-IMAP-SR-09-82%2C%20pp%2020%2C%20December%2C%201982."><span><span>Google Scholar</span></span></a></span></span></div></li></ol></div></section><section class="Section1 RenderAsSection1"><h2 class="Heading" id="copyrightInformation">Copyright information</h2><div class="ArticleCopyright content"><div class="ArticleCopyright">© Metrology Society of India 2016</div></div></section><section id="authorsandaffiliations" class="Section1 RenderAsSection1"><h2 class="Heading">Authors and Affiliations</h2><div class="content authors-affiliations u-interface"><ul class="test-contributor-names"><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors-affiliations__name">Rohtash</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="affiliation-1">1</li></ul></li><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors-affiliations__name">T. K. Mandal</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="affiliation-1">1</li></ul><span class="author-information"><span class="author-information__contact u-icon-before icon--email-before"><a href="mailto:tuhin@nplindia.org" title="tuhin@nplindia.org" itemprop="email" class="gtm-email-author">Email author</a></span></span></li><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors-affiliations__name">S. K. Peshin</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="affiliation-2">2</li></ul></li><li itemscope="" itemtype="http://schema.org/Person" class="u-mb-2 u-pt-4 u-pb-4"><span itemprop="name" class="authors-affiliations__name">S. K. Sharma</span><ul class="authors-affiliations__indexes u-inline-list" data-role="AuthorsIndexes"><li data-affiliation="affiliation-1">1</li></ul></li></ul><ol class="test-affiliations"><li class="affiliation" data-test="affiliation-1" data-affiliation-highlight="affiliation-1" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">1.</span><span class="affiliation__item"><span itemprop="department" class="affiliation__department">Radio and Atmospheric Sciences Division</span><span itemprop="name" class="affiliation__name">National Physical Laboratory</span><span itemprop="city" class="affiliation__city">New Delhi</span><span itemprop="country" class="affiliation__country">India</span></span></li><li class="affiliation" data-test="affiliation-2" data-affiliation-highlight="affiliation-2" itemscope="" itemtype="http://schema.org/Organization"><span class="affiliation__count">2.</span><span class="affiliation__item"><span itemprop="department" class="affiliation__department">National Ozone Centre</span><span itemprop="name" class="affiliation__name">India Meteorological Department</span><span itemprop="city" class="affiliation__city">New Delhi</span><span itemprop="country" class="affiliation__country">India</span></span></li></ol></div></section></div>
+                        </article>
+                        <aside class="section section--collapsible" id="AboutThisContent">
+    <h2 class="section__heading" id="aboutcontent">About this article</h2>
+    <div class="section__content bibliographic-information">
+                <div id="crossMark" class="crossmark">
+            <a data-crossmark="10.1007%2Fs12647-016-0174-4" class="gtm-crossmark" target="_blank" rel="noopener" href="https://crossmark.crossref.org/dialog/?doi=10.1007%2Fs12647-016-0174-4" title="Verify currency and authenticity via CrossMark">
+                <span class="u-screenreader-only">CrossMark</span>
+                <svg class="CrossMark" id="crossmark-icon" width="57" height="81">
+                    <image width="57" height="81" alt="Verify currency and authenticity via CrossMark" src="/springerlink-static/1292581672/images/png/crossmark.png" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/springerlink-static/1292581672/images/svg/crossmark.svg"></image>
+                </svg>
+            </a>
+        </div>
+
+        <div class="crossmark__adjacent">
+            <dl class="citation-info u-highlight-target u-mb-16" id="citeas">
+    <dt class="test-cite-heading">
+        Cite this article as:
+    </dt>
+    <dd id="citethis-text">Rohtash, Mandal, T.K., Peshin, S.K. et al. MAPAN (2016) 31: 197. https://doi.org/10.1007/s12647-016-0174-4</dd>
+</dl>
+                <ul class="bibliographic-information__list bibliographic-information__list--inline">
+        <li class="bibliographic-information__item">
+            <span class="bibliographic-information__title"><abbr title="Digital Object Identifier">DOI</abbr></span>
+            <span class="bibliographic-information__value u-overflow-wrap" id="doi-url">https://doi.org/10.1007/s12647-016-0174-4</span>
+        </li>
+            <li class="bibliographic-information__item">
+                <span class="bibliographic-information__title">Publisher Name</span>
+                <span class="bibliographic-information__value" id="publisher-name">Springer India</span>
+            </li>
+            <li class="bibliographic-information__item">
+                <span class="bibliographic-information__title">Print ISSN</span>
+                <span class="bibliographic-information__value" id="print-issn">0970-3950</span>
+            </li>
+            <li class="bibliographic-information__item ">
+                <span class="bibliographic-information__title">Online ISSN</span>
+                <span class="bibliographic-information__value" id="electronic-issn">0974-9853</span>
+            </li>
+
+        
+    </ul>
+
+            <ul class="bibliographic-information__list">
+        <li class="bibliographic-information__item">
+            <a id="about-journal" class="bibliographic-information__misc-links gtm-about-this"
+               title="Visit Springer.com for information about this article&#39;s journal"
+               href="//www.springer.com/journal/12647/about">About this journal</a>
+        </li>
+                <li class="bibliographic-information__item">
+                    <a id="reprintsandpermissions-link" class="u-external" target="_blank" rel="noopener" href="https://s100.copyright.com/AppDispatchServlet?publisherName&#x3D;SpringerNature&amp;orderBeanReset&#x3D;true&amp;orderSource&#x3D;SpringerLink&amp;author&#x3D;Rohtash%2C+T.+K.+Mandal%2C+S.+K.+Peshin+et+al&amp;issueNum&#x3D;3&amp;contentID&#x3D;10.1007%2Fs12647-016-0174-4&amp;openAccess&#x3D;false&amp;endPage&#x3D;217&amp;publicationDate&#x3D;2016&amp;startPage&#x3D;197&amp;volumeNum&#x3D;31&amp;title&#x3D;Study+on+Comparison+of+Indian+Ozonesonde+Data+with+Satellite+Data&amp;imprint&#x3D;Metrology+Society+of+India&amp;publication&#x3D;0970-3950" title="Visit RightsLink for information about reusing this article">Reprints and Permissions</a>
+                </li>
+</ul>
+        </div>
+        
+            
+    </div>
+</aside>
+
+                        <div class="section section--collapsible uptodate-recommendations gtm-recommendations">
+    <h2 class="uptodate-recommendations__title section__heading gtm-recommendations__title" id="uptodaterecommendations">Personalised recommendations</h2>
+    <div class="section__content">
+        <div class="uptodate-recommendations__container">
+             <link rel="uptodate-inline" href="/springerlink-static/1292581672/css/recommendations.css"/>
+        </div>
+    </div>
+</div>
+                        
+
+    <div class="sticky-banner sticky-banner--buybox u-interface u-js-screenreader-only" aria-hidden="true" data-component="SpringerLink.StickyBanner" data-namespace="hasLink">
+        <div class="sticky-banner__container">
+                <div class="citations" data-component="SV.Dropdown" data-namespace="citationsSticky">
+        <h3 class="u-h4" data-role="button-dropdown__title">
+    <span>Cite</span>
+    <span class="hide-text-small">article</span>
+</h3>
+<ul class="citations__content" data-role="button-dropdown__content">
+    <li>
+        <a href="#citeas" class="gtm-cite-dropdown">How to cite?</a>
+    </li>
+        <li>
+            <a href="//citation-needed.springer.com/v2/references/10.1007/s12647-016-0174-4?format&#x3D;refman&amp;flavour&#x3D;citation"
+               title="Download this article&#39;s citation as a .RIS file" class="gtm-export-citation" data-gtmlabel="RIS">
+                <span class="citations__extension" data-gtmlabel="RIS">
+                    <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                    .RIS
+                </span>
+                <span class="citations__types">
+                        <span>
+                            Papers
+                        </span>
+                        <span>
+                            Reference Manager
+                        </span>
+                        <span>
+                            RefWorks
+                        </span>
+                        <span>
+                            Zotero
+                        </span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="//citation-needed.springer.com/v2/references/10.1007/s12647-016-0174-4?format&#x3D;endnote&amp;flavour&#x3D;citation"
+               title="Download this article&#39;s citation as a .ENW file" class="gtm-export-citation" data-gtmlabel="ENW">
+                <span class="citations__extension" data-gtmlabel="ENW">
+                    <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                    .ENW
+                </span>
+                <span class="citations__types">
+                        <span>
+                            EndNote
+                        </span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="//citation-needed.springer.com/v2/references/10.1007/s12647-016-0174-4?format&#x3D;bibtex&amp;flavour&#x3D;citation"
+               title="Download this article&#39;s citation as a .BIB file" class="gtm-export-citation" data-gtmlabel="BIB">
+                <span class="citations__extension" data-gtmlabel="BIB">
+                    <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                    .BIB
+                </span>
+                <span class="citations__types">
+                        <span>
+                            BibTeX
+                        </span>
+                        <span>
+                            JabRef
+                        </span>
+                        <span>
+                            Mendeley
+                        </span>
+                </span>
+            </a>
+        </li>
+</ul>
+    </div>
+
+                <div class="share-this" data-component="SV.Dropdown" data-namespace="shareThisSticky">
+        <h3 class="u-h4" data-role="button-dropdown__title">
+    <span>Share</span>
+    <span class="hide-text-small">article</span>
+</h3>
+<ul class="share-this__content" data-role="button-dropdown__content">
+    <li>
+        <a class="test-shareby-email-link gtm-shareby-email-link" href="mailto:?to&#x3D;&amp;subject&#x3D;Read%20this%20article%20on%20SpringerLink&amp;body&#x3D;Study%20on%20Comparison%20of%20Indian%20Ozonesonde%20Data%20with%20Satellite%20Data%0A%0Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4" title="Share this article via email">
+            <span class="share-this__types">
+                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><g transform="translate(3 5)"><rect fill="#F9F9F9" width="18" height="14" rx="2"/><path d="M1 2.006v9.988c0 .557.446 1.006.995 1.006h14.01c.549 0 .995-.449.995-1.006v-9.988c0-.557-.446-1.006-.995-1.006h-14.01c-.549 0-.995.449-.995 1.006zm-1 0c0-1.108.893-2.006 1.995-2.006h14.01c1.102 0 1.995.897 1.995 2.006v9.988c0 1.108-.893 2.006-1.995 2.006h-14.01c-1.102 0-1.995-.897-1.995-2.006v-9.988zM9 9l7-4v-1.443l-7 4-7-4v1.443z" fill="#666"/></g></g></svg>
+                <span>Email</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a class="test-shareby-facebook-link gtm-shareby-facebook-link" href="https://www.facebook.com/sharer/sharer.php?u&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4" target="_blank" rel="noopener" title="Share this article via Facebook">
+            <span class="share-this__types">
+                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M12.717 19.091h-2.66v-6.274h-1.329v-2.162h1.329v-1.298c0-1.763.75-2.813 2.883-2.813h1.775v2.162h-1.11c-.83 0-.885.302-.885.866l-.004 1.082h2.011l-.235 2.162h-1.775v6.274z" fill="#666"/></g></svg>
+                <span>Facebook</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a class="test-shareby-twitter-link gtm-shareby-twitter-link" href="https://twitter.com/intent/tweet?text&#x3D;I%27m%20reading%20this%20on%20%23springerlink&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4" target="_blank" rel="noopener" title="Share this article via Twitter">
+            <span class="share-this__types">
+                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M16.651 9.189c.485-.306.858-.792 1.033-1.371-.454.284-.957.49-1.493.601-.428-.482-1.039-.783-1.715-.783-1.298 0-2.349 1.11-2.349 2.478 0 .194.019.384.06.564-1.952-.104-3.684-1.089-4.843-2.59-.202.367-.318.793-.318 1.247 0 .859.415 1.618 1.045 2.063-.385-.013-.748-.126-1.065-.31v.03c0 1.201.809 2.203 1.886 2.43-.198.058-.405.087-.62.087-.151 0-.299-.015-.442-.044.299.984 1.166 1.702 2.195 1.721-.805.665-1.818 1.061-2.919 1.061-.19 0-.377-.011-.561-.034 1.04.703 2.275 1.113 3.602 1.113 4.323 0 6.686-3.777 6.686-7.052l-.006-.321c.459-.35.859-.786 1.173-1.283-.422.197-.875.33-1.349.39z" fill="#666"/></g></svg>
+                <span>Twitter</span>
+            </span>
+        </a>
+    </li>
+        <li>
+            <a class="test-shareby-linkedin-link gtm-shareby-linkedin-link" href="https://www.linkedin.com/shareArticle?mini&#x3D;true&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4&amp;title&#x3D;Study on Comparison of Indian Ozonesonde Data with Satellite Data&amp;summary&#x3D;This paper assesses the quality of ozone data of modified Brewer Mast (MBM) balloonborne ozonesonde and its comparison with MOZAIC Data (version 4), TES data (version 6), UARS MLS (version 5), EOS Aura MLS Data (version 5) and SBUV (version 8.1). Th…" target="_blank" rel="noopener" title="Share this article via LinkedIn">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M6.821 10.044h2.126v7.41h-2.126v-7.41zm1.009-.927h-.015c-.77 0-1.269-.566-1.269-1.284 0-.732.514-1.287 1.299-1.287.784 0 1.267.554 1.282 1.285 0 .717-.498 1.286-1.297 1.286zm9.625 8.338h-2.411v-3.835c0-1.004-.377-1.688-1.206-1.688-.634 0-.987.462-1.151.908-.062.159-.052.382-.052.606v4.01h-2.389s.031-6.794 0-7.411h2.389v1.163c.141-.509.904-1.234 2.122-1.234 1.511 0 2.698 1.067 2.698 3.361v4.121z" fill="#666"/></g></svg>
+                    <span>LinkedIn</span>
+                </span>
+            </a>
+        </li>
+</ul>
+    </div>
+
+                <div class="sticky-banner__buybox-link sticky-banner__buybox-link--sticky">
+        <a href="#buy" class="gtm-buybox-anchor">
+            Buy options
+        </a>
+    </div>
+
+        </div>
+    </div>
+
+
+                    </div>
+                    <aside class="main-sidebar-right u-interface">
+                        <div data-role="sticky-wrapper">
+                            <div class="main-sidebar-right__content u-composite-layer" data-component="SpringerLink.StickySidebar">
+                                <div class="article-actions" id="article-actions">
+                                    <h2 class="u-screenreader-only">Actions</h2>
+
+                                        <div id="buy">
+                                            
+
+<style type="text/css">
+    .buybox {
+        margin: 16px 0 0;
+        position: relative;
+    }
+    .buybox {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: 1.4rem;
+    }
+    .buybox {
+        zoom: 1;
+    }
+    .buybox:after,
+    .buybox:before {
+        content: '';
+        display: table;
+    }
+    .buybox:after {
+        clear: both;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__header {
+        border: 1px solid #b3b3b3;
+        border-bottom: 0;
+        padding: 8px;
+        position: relative;
+        background-color: #f2f2f2;
+    }
+    .buybox__header .buybox__login {
+        font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-size: 1.4rem;
+        letter-spacing: .017em;
+        display: inline-block;
+        line-height: 1.2;
+        padding: 0;
+    }
+    .buybox__header .buybox__login:before {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: perspective(1px) translateY(-50%);
+        transform: perspective(1px) translateY(-50%);
+        content: '\A';
+        width: 34px;
+        height: 34px;
+        left: 10px;
+    }
+    /*---------------------------------*/
+    .buybox .buybox__body {
+        padding: 0;
+        padding-bottom: 16px;
+        position: relative;
+        text-align: center;
+        background-color: #fcfcfc;
+        border: 1px solid #b3b3b3;
+    }
+    /******/
+    .buybox__body .buybox__section {
+        padding: 16px 12px 0 12px;
+        text-align: left;
+    }
+    .buybox__section .buybox__buttons {
+        text-align: center;
+        width: 100%;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__body {
+        background-color: transparent;
+    }
+    .buybox.mycopy__buybox .buybox__section .buybox__buttons {
+        border-top: 0;
+        padding-top: 0;
+    }
+    /******/
+    .buybox__section:nth-child(2) .buybox__buttons {
+        border-top: 1px solid #b3b3b3;
+        padding-top: 20px;
+    }
+    .buybox__buttons .buybox__buy-button {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 5px;
+        padding: 6px 12px;
+        max-width: 180px
+    }
+    .buybox__buttons .buybox__price {
+        white-space: nowrap;
+        text-align: center;
+        font-size: larger;
+        padding-top: 6px;
+    }
+    .buybox__section .buybox__meta {
+        letter-spacing: 0;
+        padding-top: 12px;
+    }
+    .buybox__section .buybox__meta:only-of-type {
+        padding-top: 0;
+        position: relative;
+        bottom: 6px;
+    }
+    /********** mycopy buybox specific **********/
+    .buybox.mycopy__buybox .buybox__section .buybox__meta {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    /******/
+    .buybox__meta .buybox__product-title {
+        display: inline;
+        font-weight: bold;
+    }
+    .buybox__meta .buybox__list {
+        line-height: 1.3;
+    }
+    .buybox__meta .buybox__list li {
+        position: relative;
+        padding-left: 1em;
+        list-style: none;
+        margin-bottom: 5px;
+    }
+    .buybox__meta .buybox__list li:before {
+        font-size: 1em;
+        content: '\2022';
+        float: left;
+        position: relative;
+        top: .1em;
+        font-family: serif;
+        font-weight: 600;
+        text-align: center;
+        line-height: inherit;
+        color: #666;
+        width: auto;
+        margin-left: -1em;
+    }
+    .buybox__meta .buybox__list li:last-child {
+        margin-bottom: 0;
+    }
+    /********** chapter buybox specific **********/
+    .buybox.chapter__buybox .buybox__section .buybox__meta {
+        border-top: 1px solid #d3d3d3;
+        padding-top: 12px;
+    }
+    .buybox.chapter__buybox .buybox__section .buybox__buy-ebook {
+        margin-bottom: 12px;
+    }
+    /******/
+    /*---------------------------------*/
+    .buybox .buybox__footer {
+        border: 1px solid #b3b3b3;
+        border-top: 0;
+        padding: 8px;
+        position: relative;
+        border-style: dashed;
+        line-height: 1.3;
+    }
+    .buybox .deepdyve {
+        display: none;
+        text-align: left;
+        margin: 8px 12px 0 12px;
+        padding-top: 5px;
+        border-top: 1px solid #d3d3d3;
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (min-width: 460px) and (max-width: 1074px) {
+        .buybox__body .buybox__section {
+            display: inline-block;
+            vertical-align: top;
+            padding: 12px 12px;
+            padding-bottom: 0;
+            text-align: left;
+            width: 48%;
+        }
+        .buybox__body .buybox__section {
+            padding-top: 16px;
+            padding-left: 0;
+        }
+        .buybox__section:nth-of-type(2) .buybox__meta {
+            border-left: 1px solid #d3d3d3;
+            padding-left: 28px;
+        }
+        .buybox__section:nth-of-type(2) .buybox__buttons {
+            border-top: 0;
+            padding-top: 0;
+            padding-left: 16px ;
+        }
+        .buybox__buttons .buybox__buy-button {
+        }
+        /********** article buybox specific **********/
+        .buybox.article__buybox .buybox__section:nth-of-type(2) {
+            margin-top: 16px;
+            padding-top: 0;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta {
+            margin-top: 40px;
+            padding-top: 0;
+            padding-bottom: 45px;
+        }
+        .buybox.article__buybox .buybox__section:nth-of-type(2) .buybox__meta:only-of-type {
+            margin-top: 8px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+        }
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__section:first-child {
+            width: 69%;
+            padding-left: 12px ;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            width: 29%;
+        }
+        /********** chapter buybox specific **********/
+        .buybox.chapter__buybox .buybox__body {
+            display: flex;
+            align-items: stretch;
+            padding-left: 12px;
+            padding-top: 12px;
+        }
+        .buybox.chapter__buybox .buybox__section .buybox__meta {
+            display: flex;
+            align-items: center;
+            height: 100%;
+            border-top: 0;
+            padding-top: 0;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+    @media screen and (max-width: 459px) {
+        /********** mycopy buybox specific **********/
+        .buybox.mycopy__buybox .buybox__body {
+            padding-bottom: 5px;
+        }
+        .buybox.mycopy__buybox .buybox__section:last-child {
+            text-align: center;
+            width: 100%;
+        }
+        .buybox.mycopy__buybox .buybox__buttons {
+            display: inline-block;
+            width: 150px ;
+        }
+        /******/
+    }
+    /*-----------------------------------------------------------------*/
+</style>
+
+<div class="buybox article__buybox" data-webtrekkTrackId="196033507532344" data-webtrekkContentId="SL-article">
+    <div class="buybox__header">
+        <span class="buybox__login">Log in to check access</span>
+    </div>
+    <div class="buybox__body">
+        <div class="buybox__section">
+            <div class="buybox__buttons">
+                <form class="buybox__form" action="https://checkout.springer.com/checkout/add?wt_mc=ThirdParty.SpringerLink.3.EPR653.AbstractPage_Article-new" method="POST">
+                    
+                        <input type="hidden" name="type" value="article"/>
+                    
+                        <input type="hidden" name="doi" value="10.1007/s12647-016-0174-4"/>
+                    
+                        <input type="hidden" name="isxn" value="0974-9853"/>
+                    
+                        <input type="hidden" name="contenttitle" value="Study on Comparison of Indian Ozonesonde Data with Satellite Data"/>
+                    
+                        <input type="hidden" name="copyrightyear" value="2016"/>
+                    
+                        <input type="hidden" name="year" value="2016"/>
+                    
+                        <input type="hidden" name="authors" value="Rohtash, et al."/>
+                    
+                        <input type="hidden" name="title" value="MAPAN"/>
+                    
+                        <input type="hidden" name="mac" value="aa08873ba28b0ad68bc17076df5d6520"/>
+                    
+                        <input type="hidden" name="returnurl" value="http://link.springer.com/article/10.1007/s12647-016-0174-4"/>
+                    
+                    <button
+                        class="buybox__buy-button c-button c-button--blue"
+                        data-product-id="10.1007/s12647-016-0174-4_Study on Comparison of Indian Ozon"
+                        data-tracking-category="ppv"
+                        data-eCommerceParam_11="article-page"
+                        data-gtm="buybox__buy-button">
+                        <span class="buybox__buy" data-gtm="buybox__buy-button">Buy (PDF)</span>
+                    </button>
+                    <div class="buybox__price" data-gtm="buybox__buy-button">
+                        USD&nbsp;39.95
+                    </div>
+                </form>
+            </div>
+        
+            <div class="buybox__meta">
+                <ul class="buybox__list">
+                    <li>Unlimited access to the full article</li>
+                    <li>Instant download</li>
+                    <li>Include local sales tax if applicable</li>
+                </ul>
+            </div>
+        </div>
+        
+            <div class="buybox__section">
+                <div class="buybox__buttons">
+                    <a
+                    href="http://www.springer.com/12647?wt_mc=ThirdParty.SpringerLink.3.EPR653.ArticlePage_journal"
+                    class="buybox__buy-button c-button c-button--blue"
+                    data-gtm="buybox__buy-button-subscription">
+                        <span class="buybox__buy" data-gtm="buybox__buy-button">Subscribe to Journal</span>
+                    </a>
+                </div>
+                <div class="buybox__meta">
+                    Get Access to
+                    <div class="buybox__product-title">MAPAN</div>
+                    for the whole of 2017
+                </div>
+            </div>
+        
+        
+<div id="deepdyve" class="deepdyve">
+    <a id="deepdyve-link" href="#" target="deepdyve" onclick="wt.sendinfo({linkId:'Rent Article'});">Rent this article via DeepDyve</a>
+</div>
+<script type="text/javascript">
+    function deepDyveResponse(data) {
+        if(data.status === "ok") {
+            document.getElementById("deepdyve").style.display = "inline-block";
+            document.getElementById("deepdyve-link").setAttribute("href", data.url);
+        }
+    }
+    var script = document.createElement('script');
+    script.src = "//www.deepdyve.com/rental-link?docId=10.1007/s12647-016-0174-4&journal=0974-9853&fieldName=journal_doi&affiliateId=springer&format=jsonp&callback=deepDyveResponse";
+    document.body.appendChild(script);
+</script>
+    </div>
+    <div class="buybox__footer">
+        <a class="js-buybox__inst-sub-link" data-gtm="buybox__inst-sub-link" href="http://www.springer.com/gp/shop/subscriptions?wt_mc=ThirdParty.SpringerLink.3.EPR653.ArticlePage_Institutional-customers">
+            Learn about institutional subscriptions</a>
+    </div>
+</div>
+
+<script>
+(function () {
+    var forEach = function (array, callback, scope) {
+        for (var i = 0; i < array.length; i++) {
+            callback.call(scope, i, array[i]);
+        }
+    };
+
+    var trackDomain = 'springergmbh01.webtrekk.net';
+    var domain = 'link.springer.com';
+    var loadEventSent = false;
+
+    var buyboxRoot = document.getElementsByClassName('buybox')[0];
+    var webtrekkTrackId = buyboxRoot.getAttribute('data-webtrekkTrackId');
+    var webtrekkContentId = buyboxRoot.getAttribute('data-webtrekkContentId');
+
+    function SubscriptionTrack(webtrekkTrackId) {
+        if (!webtrekkTrackId) return;
+
+        var data = {
+            trackDomain: trackDomain,
+            trackId: webtrekkTrackId,
+            domain: domain,
+            contentId: 'springer_com.buybox',
+            customSessionParameter: {
+                2: getBusinessPartnerIds()
+            }
+        };
+
+        if (!window.webtrekkV3 && console) {
+            console.log('No webtrekk found.', data);
+            return;
+        }
+
+        return new webtrekkV3(data);
+    }
+
+    function Track(product, webtrekkTrackId, eCommerceParam_11, action) {
+        if (!product) return;
+
+        var data = {
+            trackDomain: trackDomain,
+            trackId: webtrekkTrackId,
+            domain: domain,
+            contentId: webtrekkContentId,
+            product: product.id,
+            productStatus: action,
+            productCategory: {
+                1: product.trackingCategory
+            },
+            customEcommerceParameter: {
+                9: domain,
+                11: eCommerceParam_11
+            },
+            customSessionParameter: {
+                2: getBusinessPartnerIds()
+            }
+        };
+
+        if (!window.webtrekkV3 && console) {
+            console.log('No webtrekk found.', data);
+            return;
+        }
+
+        return new webtrekkV3(data);
+    }
+
+    function trackAddToCart(trackingConfig) {
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo();
+    }
+
+    function trackOnLoad(trackingConfig) {
+        if (loadEventSent) return;
+        loadEventSent = true;
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo();
+    }
+
+    function trackSubscription(trackingConfig) {
+        if (!trackingConfig) return;
+        trackingConfig.sendinfo({linkId: 'inst. subscription info'});
+    }
+
+    function getBusinessPartnerIds() {
+        var businessPartnerIDs = [];
+        try {
+            var ids = window.dataLayer[0]["user"]["license"]["businessPartnerID"];
+            if(ids && ids.length) businessPartnerIDs = ids;
+        } catch(e) {}
+        return businessPartnerIDs.join(";");
+    }
+
+    var bindClickLinkHandle = function (link) {
+        if (!link) return;
+
+        link.addEventListener('click', function (event) {
+            trackSubscription(SubscriptionTrack(webtrekkTrackId));
+        });
+    };
+
+    var bindLoadButtonHandle = function (button) {
+        if (!button) return;
+
+        var productId = button.getAttribute('data-product-id');
+        var trackingCategory = button.getAttribute('data-tracking-category');
+        var eCommerceParam_11 = button.getAttribute('data-eCommerceParam_11');
+
+        window.addEventListener('load', function (event) {
+            trackOnLoad(Track({
+                id: productId,
+                trackingCategory: trackingCategory
+            }, webtrekkTrackId, eCommerceParam_11, 'view'));
+        });
+    };
+
+    var bindClickButtonHandle = function (button) {
+        if (!button) return;
+
+        var productId = button.getAttribute('data-product-id');
+        var trackingCategory = button.getAttribute('data-tracking-category');
+        var eCommerceParam_11 = button.getAttribute('data-eCommerceParam_11');
+
+        button.addEventListener('click', function (event) {
+            trackAddToCart(Track({
+                id: productId,
+                trackingCategory: trackingCategory
+            }, webtrekkTrackId, eCommerceParam_11, 'add'));
+        });
+    };
+
+    var buyButtons = document.getElementsByClassName('buybox__buy-button');
+    forEach(buyButtons, function (index, button) {
+        bindLoadButtonHandle(button);
+        bindClickButtonHandle(button);
+    });
+
+    var sublinks = document.getElementsByClassName('js-buybox__inst-sub-link');
+    forEach(sublinks, function (index, link) {
+        bindClickLinkHandle(link);
+    });
+})();
+</script>
+
+                                        </div>
+
+                                    <div class="u-js-hide u-js-show-two-col">
+                                        
+
+
+
+                                            <div class="citations" data-component="SV.Dropdown" data-namespace="citations">
+        <h3 class="u-h4" data-role="button-dropdown__title">
+    <span>Cite</span>
+    <span class="hide-text-small">article</span>
+</h3>
+<ul class="citations__content" data-role="button-dropdown__content">
+    <li>
+        <a href="#citeas" class="gtm-cite-dropdown">How to cite?</a>
+    </li>
+        <li>
+            <a href="//citation-needed.springer.com/v2/references/10.1007/s12647-016-0174-4?format&#x3D;refman&amp;flavour&#x3D;citation"
+               title="Download this article&#39;s citation as a .RIS file" class="gtm-export-citation" data-gtmlabel="RIS">
+                <span class="citations__extension" data-gtmlabel="RIS">
+                    <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                    .RIS
+                </span>
+                <span class="citations__types">
+                        <span>
+                            Papers
+                        </span>
+                        <span>
+                            Reference Manager
+                        </span>
+                        <span>
+                            RefWorks
+                        </span>
+                        <span>
+                            Zotero
+                        </span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="//citation-needed.springer.com/v2/references/10.1007/s12647-016-0174-4?format&#x3D;endnote&amp;flavour&#x3D;citation"
+               title="Download this article&#39;s citation as a .ENW file" class="gtm-export-citation" data-gtmlabel="ENW">
+                <span class="citations__extension" data-gtmlabel="ENW">
+                    <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                    .ENW
+                </span>
+                <span class="citations__types">
+                        <span>
+                            EndNote
+                        </span>
+                </span>
+            </a>
+        </li>
+        <li>
+            <a href="//citation-needed.springer.com/v2/references/10.1007/s12647-016-0174-4?format&#x3D;bibtex&amp;flavour&#x3D;citation"
+               title="Download this article&#39;s citation as a .BIB file" class="gtm-export-citation" data-gtmlabel="BIB">
+                <span class="citations__extension" data-gtmlabel="BIB">
+                    <svg class="u-vertical-align-absolute" width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 7.269v-6.271c0-.551-.448-.998-1-.998-.556 0-1 .447-1 .998v6.271l-1.5-1.547c-.375-.387-1.01-.397-1.401-.006l.016-.016c-.397.397-.391 1.025-.001 1.416l3.178 3.178c.392.392 1.024.391 1.415 0l3.178-3.178c.392-.392.391-1.025-.001-1.416l.016.016c-.397-.397-1.018-.388-1.401.006l-1.5 1.547zm-7 5.731c0-.552.456-1 1.002-1h9.995c.554 0 1.002.444 1.002 1 0 .552-.456 1-1.002 1h-9.995c-.554 0-1.002-.444-1.002-1z" fill="#0176C3"/></svg>
+                    .BIB
+                </span>
+                <span class="citations__types">
+                        <span>
+                            BibTeX
+                        </span>
+                        <span>
+                            JabRef
+                        </span>
+                        <span>
+                            Mendeley
+                        </span>
+                </span>
+            </a>
+        </li>
+</ul>
+    </div>
+
+                                            <div class="share-this" data-component="SV.Dropdown" data-namespace="shareThis">
+        <h3 class="u-h4" data-role="button-dropdown__title">
+    <span>Share</span>
+    <span class="hide-text-small">article</span>
+</h3>
+<ul class="share-this__content" data-role="button-dropdown__content">
+    <li>
+        <a class="test-shareby-email-link gtm-shareby-email-link" href="mailto:?to&#x3D;&amp;subject&#x3D;Read%20this%20article%20on%20SpringerLink&amp;body&#x3D;Study%20on%20Comparison%20of%20Indian%20Ozonesonde%20Data%20with%20Satellite%20Data%0A%0Ahttps%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4" title="Share this article via email">
+            <span class="share-this__types">
+                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><g transform="translate(3 5)"><rect fill="#F9F9F9" width="18" height="14" rx="2"/><path d="M1 2.006v9.988c0 .557.446 1.006.995 1.006h14.01c.549 0 .995-.449.995-1.006v-9.988c0-.557-.446-1.006-.995-1.006h-14.01c-.549 0-.995.449-.995 1.006zm-1 0c0-1.108.893-2.006 1.995-2.006h14.01c1.102 0 1.995.897 1.995 2.006v9.988c0 1.108-.893 2.006-1.995 2.006h-14.01c-1.102 0-1.995-.897-1.995-2.006v-9.988zM9 9l7-4v-1.443l-7 4-7-4v1.443z" fill="#666"/></g></g></svg>
+                <span>Email</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a class="test-shareby-facebook-link gtm-shareby-facebook-link" href="https://www.facebook.com/sharer/sharer.php?u&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4" target="_blank" rel="noopener" title="Share this article via Facebook">
+            <span class="share-this__types">
+                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M12.717 19.091h-2.66v-6.274h-1.329v-2.162h1.329v-1.298c0-1.763.75-2.813 2.883-2.813h1.775v2.162h-1.11c-.83 0-.885.302-.885.866l-.004 1.082h2.011l-.235 2.162h-1.775v6.274z" fill="#666"/></g></svg>
+                <span>Facebook</span>
+            </span>
+        </a>
+    </li>
+    <li>
+        <a class="test-shareby-twitter-link gtm-shareby-twitter-link" href="https://twitter.com/intent/tweet?text&#x3D;I%27m%20reading%20this%20on%20%23springerlink&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4" target="_blank" rel="noopener" title="Share this article via Twitter">
+            <span class="share-this__types">
+                <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M16.651 9.189c.485-.306.858-.792 1.033-1.371-.454.284-.957.49-1.493.601-.428-.482-1.039-.783-1.715-.783-1.298 0-2.349 1.11-2.349 2.478 0 .194.019.384.06.564-1.952-.104-3.684-1.089-4.843-2.59-.202.367-.318.793-.318 1.247 0 .859.415 1.618 1.045 2.063-.385-.013-.748-.126-1.065-.31v.03c0 1.201.809 2.203 1.886 2.43-.198.058-.405.087-.62.087-.151 0-.299-.015-.442-.044.299.984 1.166 1.702 2.195 1.721-.805.665-1.818 1.061-2.919 1.061-.19 0-.377-.011-.561-.034 1.04.703 2.275 1.113 3.602 1.113 4.323 0 6.686-3.777 6.686-7.052l-.006-.321c.459-.35.859-.786 1.173-1.283-.422.197-.875.33-1.349.39z" fill="#666"/></g></svg>
+                <span>Twitter</span>
+            </span>
+        </a>
+    </li>
+        <li>
+            <a class="test-shareby-linkedin-link gtm-shareby-linkedin-link" href="https://www.linkedin.com/shareArticle?mini&#x3D;true&amp;url&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12647-016-0174-4&amp;title&#x3D;Study on Comparison of Indian Ozonesonde Data with Satellite Data&amp;summary&#x3D;This paper assesses the quality of ozone data of modified Brewer Mast (MBM) balloonborne ozonesonde and its comparison with MOZAIC Data (version 4), TES data (version 6), UARS MLS (version 5), EOS Aura MLS Data (version 5) and SBUV (version 8.1). Th…" target="_blank" rel="noopener" title="Share this article via LinkedIn">
+                <span class="share-this__types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path fill-opacity="0" fill="#fff" d="M0 0h24v24h-24z"/><path d="M6.821 10.044h2.126v7.41h-2.126v-7.41zm1.009-.927h-.015c-.77 0-1.269-.566-1.269-1.284 0-.732.514-1.287 1.299-1.287.784 0 1.267.554 1.282 1.285 0 .717-.498 1.286-1.297 1.286zm9.625 8.338h-2.411v-3.835c0-1.004-.377-1.688-1.206-1.688-.634 0-.987.462-1.151.908-.062.159-.052.382-.052.606v4.01h-2.389s.031-6.794 0-7.411h2.389v1.163c.141-.509.904-1.234 2.122-1.234 1.511 0 2.698 1.067 2.698 3.361v4.121z" fill="#666"/></g></svg>
+                    <span>LinkedIn</span>
+                </span>
+            </a>
+        </li>
+</ul>
+    </div>
+
+                                    </div>
+                                </div>
+                                
+
+                            </div>
+                                    <div class="skyscraper-ad u-hide" data-component="SpringerLink.GoogleAds" data-namespace="skyscraper"></div>
+
+                        </div>
+                    </aside>
+                </div>
+            </main>
+            <section class="banner banner--cookies-policy u-js-hide u-composite-layer" data-component="SpringerLink.CookiePolicy">
+    <div class="banner__content u-interface">
+        <h2 class="u-screenreader-only">Cookies</h2>
+        <span class="banner__cookie-text">We use cookies to improve your experience with our site.</span>
+        <a class="banner__link banner__link--cookie" href="/termsandconditions#cookies">More information</a>
+
+        <form class="banner__form" action="/acceptcookies" method="POST">
+            <button class="u-link-like banner__right-ui">Accept</button>
+        </form>
+    </div>
+</section>
+
+                <footer class="footer u-interface">
+        <div class="footer__aside-wrapper">
+            <div class="footer__content">
+                <div class="footer__aside">
+                    <p class="footer__strapline">Over 10 million scientific documents at your fingertips</p>
+                                <div class="footer__edition" data-component="SpringerLink.EditionSwitcher">
+                                    <h3 class="u-hide" data-role="button-dropdown__title" data-btn-text="Switch between Academic &#38; Corporate Edition">Switch Edition</h3>
+                                    <ul data-role="button-dropdown__content">
+                                        <li class="selected"><a href="/siteEdition/link" id="siteedition-academic-link">Academic Edition</a></li>
+                                        <li><a href="/siteEdition/rd" id="siteedition-corporate-link">Corporate Edition</a></li>
+                                    </ul>
+                                </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer__content">
+            <ul class="footer__nav">
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    <a href="/impressum">Impressum</a>
+                </li>
+                <li>
+                    <a href="/termsandconditions">Legal information</a>
+                </li>
+                <li>
+                    <a href="/accessibility" class="gtm-footer-accessibility">Accessibility</a>
+                </li>
+                <li>
+                    <a id="contactus-footer-link" href="/contactus">Contact us</a>
+                </li>
+            </ul>
+            <a class="parent-logo"
+               target="_blank" rel="noopener"
+               href="//www.springernature.com"
+               title="Go to Springer Nature">
+                <span class="u-screenreader-only">Springer Nature</span>
+                <svg width="125" height="12">
+                    <image width="125" height="12" alt="Springer Nature logo"
+                           src="/springerlink-static/1292581672/images/png/springernature.png"
+                           xmlns:xlink="http://www.w3.org/1999/xlink"
+                           xlink:href="/springerlink-static/1292581672/images/svg/springernature.svg">
+                    </image>
+                </svg>
+            </a>
+
+            <p class="footer__copyright">&copy; 2017 Springer International Publishing AG. Part of <a target="_blank" rel="noopener" href="//www.springernature.com">Springer Nature</a>.</p>
+
+                <p class="footer__user-access-info">
+                    <span>Not logged in</span>
+                    <span>NASA Jet Propulsion Laboratory - US MS111-113 (8200834721)</span>
+                    <span>137.79.197.173</span>
+                </p>
+        </div>
+    </footer>
+
+        </div>
+        
+<script type="text/javascript">
+    (function() {
+        var linkEl = document.querySelector('.js-ctm');
+        var scriptsList = [];
+        var polyfillFeatures = '';
+
+        if (window.matchMedia && window.matchMedia(linkEl.media)) {
+            (function(h){h.className = h.className.replace('no-js', 'js')})(document.documentElement);
+            
+            window.SpringerLink = window.SpringerLink || {};
+            window.SpringerLink.staticLocation = '/springerlink-static/1292581672';
+            
+            polyfillFeatures = 'default,fetch,Promise,Object.setPrototypeOf';
+            
+            scriptsList = [
+                window.SpringerLink.staticLocation + '/js/jquery-3.2.1.min.js',
+                window.SpringerLink.staticLocation + '/js/mustache-2.3.0.min.js',
+                'https://cdn.polyfill.io/v2/polyfill.js?features=' + polyfillFeatures,
+                window.SpringerLink.staticLocation + '/js/main.js'
+            ];
+
+            scriptsList.forEach(function(script) {
+                var tag = document.createElement('script');
+                
+                tag.async = false;
+                tag.src = script;
+
+                document.body.appendChild(tag);
+            });
+        }
+    })();
+</script>
+
+<script type="text/javascript">
+    window.onload = function() {
+    var linkEl = document.querySelector('.js-ctm');
+
+        if (window.matchMedia && window.matchMedia(linkEl.media) && ($('.test-bookpdf-link').length || $('.test-bookepub-link').length)) {
+            reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-bookpage-book-download', 'baseline');
+            reportForMouseEvents(['.test-bookpdf-link', '.test-bookepub-link'], 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-bookpage-book-download', 'baseline');
+
+            if ($('.gtm-pdf-link').length) {
+                reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-bookpage-chapter-download', 'baseline');
+                reportForMouseEvent('.gtm-pdf-link', 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-bookpage-chapter-download', 'baseline');
+            }
+        }
+
+        if (window.matchMedia && window.matchMedia(linkEl.media)) {
+          var bookProductType = dataLayer[0].content && dataLayer[0].content.book && dataLayer[0].content.book.bookProductType
+          var isFullText = dataLayer[0]['Full HTML'] == 'Y';
+          var userHasAccess = dataLayer[0]['HasAccess'] == 'Y';
+
+          // Baseline reference work page
+          var isReferenceWork = window.location.pathname.startsWith('/referencework/');
+          var isReferenceWorkEntry = window.location.pathname.startsWith('/referenceworkentry/');
+          var isEncOrDict = bookProductType == 'Encyclop(a)edia' || bookProductType == 'Dictionary';
+
+          // Baseline static reference work entry page pdf download
+          if (isReferenceWorkEntry && isEncOrDict && $('.test-rwepdf-link').length) {
+            reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-enc-pdf-download', 'baseline');
+            reportForMouseEvents(['.test-rwepdf-link'], 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-enc-pdf-download', 'baseline');
+          }
+          if (isReferenceWorkEntry && !isEncOrDict && $('.gtm-pdf-link').length) {
+            reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-nonenc-pdf-download', 'baseline');
+            reportForMouseEvents(['.gtm-pdf-link'], 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-nonenc-pdf-download', 'baseline');
+
+            if (($('.test-bookpdf-link').length || $('.test-bookepub-link').length)) {
+                reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-nonenc-book-download', 'baseline');
+                reportForMouseEvents(['.test-bookpdf-link', 'test-bookepub-link'], 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-nonenc-book-download', 'baseline');
+            }
+          }
+
+          // Baseline static reference work page pdf download
+          if (isReferenceWork && isEncOrDict && ($('.test-bookpdf-link').length || $('.test-bookepub-link').length)) {
+            reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-enc-book-download', 'baseline');
+              reportForMouseEvents(['.test-bookpdf-link', 'test-bookepub-link'], 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-enc-book-download', 'baseline');
+          }
+
+          if (isReferenceWork && !isEncOrDict) {
+            if (($('.test-bookpdf-link').length || $('.test-bookepub-link').length)) {
+                reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-nonenc-book-download', 'baseline');
+                reportForMouseEvents(['.test-bookpdf-link', 'test-bookepub-link'], 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-nonenc-book-download', 'baseline');
+            }
+
+            if ($('.test-book-toc-download-link').length) {
+                reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-nonenc-pdf-download', 'baseline');
+                reportForMouseEvents(['.test-book-toc-download-link'], 'https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwpage-nonenc-pdf-download', 'baseline');
+            }
+          }
+
+          // Baseline static rwe page fulltext html view with access
+          if (isReferenceWorkEntry && isEncOrDict && isFullText) {
+            reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-enc-html-download', 'baseline');
+            if (userHasAccess)
+                reportConversion('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-enc-html-download', 'baseline');
+          }
+          if (isReferenceWorkEntry && !isEncOrDict && isFullText) {
+            reportParticipation('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-nonenc-html-download', 'baseline');
+            if (userHasAccess)
+                reportConversion('https://ab-reporting.live.cf.public.springer.com', 'bunsen-static-rwepage-nonenc-html-download', 'baseline');
+          }
+      }
+
+
+    function viewport() {
+        if (document.documentElement.clientWidth < 620) {
+            size = 'small';
+        }
+        else if(document.documentElement.clientWidth < 1075 ) {
+            size = 'medium';
+        }
+        else {
+            size = 'wide';
+        }
+        return size;
+    }
+
+    function reportForMouseEvent(linkCssSelector, nolardUrl, experiment, abgroup) {
+        var counter = 0;
+        $('body').delegate(linkCssSelector, 'click', function() {
+            if(counter == 0) {
+                reportConversion(nolardUrl, experiment, abgroup);
+                counter++;
+            }
+        });
+    }
+
+    function reportForMouseEvents(linkCssSelectors, nolardUrl, experiment, abgroup) {
+        var counter = 0;
+        linkCssSelectors.forEach(function(cssSelector) {
+            $('body').delegate(cssSelector, 'click', function() {
+                if(counter == 0) {
+                    reportConversion(nolardUrl, experiment, abgroup);
+                    counter++;
+                }
+            });
+        });
+    }
+
+    function reportParticipation(nolardUrl, experiment, abgroup) {
+        $.ajax({ url: nolardUrl + '/participate/' + experiment + '/' + abgroup });
+    }
+
+    function reportConversion(nolardUrl, experiment, abgroup) {
+        $.ajax({ url: nolardUrl + '/convert/' + experiment + '/' + abgroup });
+    }
+    };
+</script>
+
+<script class="kxct" data-id="KDqyaFZ_" data-timing="async" data-version="3.0" type="text/javascript">
+ window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+ (function(){
+   var k=document.createElement('script');k.type='text/javascript';k.async=true;
+   k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/KDqyaFZ_.js';
+   var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+ }());
+</script>
+
+<script>
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+        function retrieve(n){
+            var m, k='kx'+n;
+            if (window.localStorage) {
+                return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+                m = document.cookie.match(k+'=([^;]*)');
+                return (m && unescape(m[1])) || "";
+            } else {
+                return '';
+            }
+        }
+        Krux.user = retrieve('user');
+        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+</script>
+
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+    <script type="text/javascript" id="googletag-push">
+        
+            var adSlot = '270604982/springerlink/12647/article';
+        
+
+        var definedSlots = [
+                {slot: [728, 90], containerName: 'doubleclick-leaderboard-ad'},
+                {slot: [160, 600], containerName: 'doubleclick-ad'},
+        ];
+
+        googletag.cmd.push(function() {
+                googletag.pubads().setTargeting("doi","10.1007-s12647-016-0174-4");
+                googletag.pubads().setTargeting("kwrd",["Ozonesonde","Satellite_data","MOZAIC_data"]);
+                googletag.pubads().setTargeting("pmc",["P","P31040","P19005","P19013","P19021"]);
+                googletag.pubads().setTargeting("BPID",["8200834721"]);
+                googletag.pubads().setTargeting("edition","academic");
+                googletag.pubads().setTargeting("sucode","Physics and Astronomy");
+                googletag.pubads().setTargeting("eissn","0974-9853");
+                googletag.pubads().setTargeting("pissn","0970-3950");
+                googletag.pubads().setTargeting("ksg",Krux.segments);
+                googletag.pubads().setTargeting("kuid",Krux.uid);
+                googletag.pubads().setTargeting("logged","N");
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
+        });
+    </script>
+
+
+        
+        <span id="chat-widget" class="u-hide"></span>
+        
+    </body>
+</html>
