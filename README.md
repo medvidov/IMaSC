@@ -4,5 +4,8 @@
 # JProjectL
 Name is a work in progress. Applying unique NLP approaches to improve information extraction through scientific papers/Foundry A-Team Studies.
 
-#License
+# Versioning
+[Semantic versioning](https://semver.org/) is used for this project. If you are contributing to this project, please use semantic versioning guidelines when submitting your pull request.
+
+# License
 This project is licensed under the Apache 2.0 license.
