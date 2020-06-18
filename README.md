@@ -21,7 +21,12 @@ If you would like to contribute to development:
 - Upon successful completion of the pull request, it will be merged into `master`.
 
 ## Tests
-When contributing, please run unit tests and add new tests as needed when adding new functionality. More details forthcoming.
+When contributing, please run all existing unit tests. Add new tests as needed 
+when adding new functionality. To run unit tests, use `pytest`:
+
+```
+python3 -m pytest --cov=IMaSC
+```
 
 # License
 This project is licensed under the Apache 2.0 license.

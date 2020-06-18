@@ -1,0 +1,5 @@
+pytest>=5.0.0
+pytest-cov>=2.8.0
+spacy>=2.3.0
+coveralls>=1.10.0
+prodigy>=1.8.5
