@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='IMaSC',
-    version='0.0.1',
-    description='Applying unique NLP approaches to improve information extraction through scientific papers/Foundry A-Team Studies.',
-    author='Pavle Medvidovic',
-    author_email='medvidov@usc.edu',
-    url='https://github.com/medvidov/IMaSC',
-    keywords=['NLP','instruments','spacecraft','classification']
+    name="IMaSC",
+    version="0.0.1",
+    description="Applying unique NLP approaches to improve information extraction through scientific papers/Foundry A-Team Studies.",
+    author="Pavle Medvidovic",
+    author_email="medvidov@usc.edu",
+    url="https://github.com/medvidov/IMaSC",
+    keywords=["NLP", "instruments", "spacecraft", "classification"],
     classifiers=[],
-    license='Apache License, Version 2.0',
-    install_requires=['spacy==2.1.9','numpy','en-core-web-sm']
+    license="Apache License, Version 2.0",
+    install_requires=["spacy==2.1.9", "numpy", "prodigy"],
 )
