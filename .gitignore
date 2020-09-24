@@ -1,0 +1,26 @@
+# Macs
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Packages
+prodigy-1.8.5/
+
+# Tests
+__pycache__/
+
+# Datasets
+training_set.jsonl
+validation_set.jsonl
+testing_set.jsonl
+raw_text/
+
+# Workspaces
+.code-workspace

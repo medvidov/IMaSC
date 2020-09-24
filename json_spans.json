@@ -1,0 +1,263 @@
+{
+    "title": "Effect of Southern Hemisphere Sudden Stratospheric Warmings on Antarctica Mesospheric Tides: First Observational Study",
+    "text": "The tidal components have been extracted from the hourly winds of RMFR for 2002 and of both RMFR and KSS MR during 2010 winter, using the procedure discussed in section 2.1. The RMFR tidal amplitudes",
+    "_input_hash": -1606193274,
+    "_task_hash": 1528626774,
+    "tokens": [
+        {
+            "text": "The",
+            "start": 0,
+            "end": 3,
+            "id": 0
+        },
+        {
+            "text": "tidal",
+            "start": 4,
+            "end": 9,
+            "id": 1
+        },
+        {
+            "text": "components",
+            "start": 10,
+            "end": 20,
+            "id": 2
+        },
+        {
+            "text": "have",
+            "start": 21,
+            "end": 25,
+            "id": 3
+        },
+        {
+            "text": "been",
+            "start": 26,
+            "end": 30,
+            "id": 4
+        },
+        {
+            "text": "extracted",
+            "start": 31,
+            "end": 40,
+            "id": 5
+        },
+        {
+            "text": "from",
+            "start": 41,
+            "end": 45,
+            "id": 6
+        },
+        {
+            "text": "the",
+            "start": 46,
+            "end": 49,
+            "id": 7
+        },
+        {
+            "text": "hourly",
+            "start": 50,
+            "end": 56,
+            "id": 8
+        },
+        {
+            "text": "winds",
+            "start": 57,
+            "end": 62,
+            "id": 9
+        },
+        {
+            "text": "of",
+            "start": 63,
+            "end": 65,
+            "id": 10
+        },
+        {
+            "text": "RMFR",
+            "start": 66,
+            "end": 70,
+            "id": 11
+        },
+        {
+            "text": "for",
+            "start": 71,
+            "end": 74,
+            "id": 12
+        },
+        {
+            "text": "2002",
+            "start": 75,
+            "end": 79,
+            "id": 13
+        },
+        {
+            "text": "and",
+            "start": 80,
+            "end": 83,
+            "id": 14
+        },
+        {
+            "text": "of",
+            "start": 84,
+            "end": 86,
+            "id": 15
+        },
+        {
+            "text": "both",
+            "start": 87,
+            "end": 91,
+            "id": 16
+        },
+        {
+            "text": "RMFR",
+            "start": 92,
+            "end": 96,
+            "id": 17
+        },
+        {
+            "text": "and",
+            "start": 97,
+            "end": 100,
+            "id": 18
+        },
+        {
+            "text": "KSS",
+            "start": 101,
+            "end": 104,
+            "id": 19
+        },
+        {
+            "text": "MR",
+            "start": 105,
+            "end": 107,
+            "id": 20
+        },
+        {
+            "text": "during",
+            "start": 108,
+            "end": 114,
+            "id": 21
+        },
+        {
+            "text": "2010",
+            "start": 115,
+            "end": 119,
+            "id": 22
+        },
+        {
+            "text": "winter",
+            "start": 120,
+            "end": 126,
+            "id": 23
+        },
+        {
+            "text": ",",
+            "start": 126,
+            "end": 127,
+            "id": 24
+        },
+        {
+            "text": "using",
+            "start": 128,
+            "end": 133,
+            "id": 25
+        },
+        {
+            "text": "the",
+            "start": 134,
+            "end": 137,
+            "id": 26
+        },
+        {
+            "text": "procedure",
+            "start": 138,
+            "end": 147,
+            "id": 27
+        },
+        {
+            "text": "discussed",
+            "start": 148,
+            "end": 157,
+            "id": 28
+        },
+        {
+            "text": "in",
+            "start": 158,
+            "end": 160,
+            "id": 29
+        },
+        {
+            "text": "section",
+            "start": 161,
+            "end": 168,
+            "id": 30
+        },
+        {
+            "text": "2.1",
+            "start": 169,
+            "end": 172,
+            "id": 31
+        },
+        {
+            "text": ".",
+            "start": 172,
+            "end": 173,
+            "id": 32
+        },
+        {
+            "text": "The",
+            "start": 174,
+            "end": 177,
+            "id": 33
+        },
+        {
+            "text": "RMFR",
+            "start": 178,
+            "end": 182,
+            "id": 34
+        },
+        {
+            "text": "tidal",
+            "start": 183,
+            "end": 188,
+            "id": 35
+        },
+        {
+            "text": "amplitudes",
+            "start": 189,
+            "end": 199,
+            "id": 36
+        }
+    ],
+    "_session_id": null,
+    "_view_id": "ner_manual",
+    "spans": [
+        {
+            "start": 66,
+            "end": 70,
+            "token_start": 11,
+            "token_end": 11,
+            "label": "INSTRUMENT"
+        },
+        {
+            "start": 92,
+            "end": 96,
+            "token_start": 17,
+            "token_end": 17,
+            "label": "INSTRUMENT"
+        },
+        {
+            "start": 101,
+            "end": 107,
+            "token_start": 19,
+            "token_end": 20,
+            "label": "INSTRUMENT"
+        },
+        {
+            "start": 178,
+            "end": 182,
+            "token_start": 34,
+            "token_end": 34,
+            "label": "INSTRUMENT"
+        }
+    ],
+    "answer": "accept"
+}

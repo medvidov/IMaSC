@@ -1,0 +1,330 @@
+{
+    "_index": "publications",
+    "_type": "mls",
+    "_id": "SNtiMGYBLeH8QD2_DLmc",
+    "_score": 1,
+    "_source": {
+        "referenceCount": 20,
+        "publisher": "American Geophysical Union (AGU)",
+        "issue": "23",
+        "prefix": "10.1029",
+        "volume": "33",
+        "articleNumber": "L23812",
+        "author": [
+            {
+                "given": "L.",
+                "family": "Froidevaux",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "N. J.",
+                "family": "Livesey",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "W. G.",
+                "family": "Read",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "R. J.",
+                "family": "Salawitch",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "J. W.",
+                "family": "Waters",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "B.",
+                "family": "Drouin",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "I. A.",
+                "family": "MacKenzie",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "H. C.",
+                "family": "Pumphrey",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "P.",
+                "family": "Bernath",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "C.",
+                "family": "Boone",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "R.",
+                "family": "Nassar",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "S.",
+                "family": "Montzka",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "J.",
+                "family": "Elkins",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "D.",
+                "family": "Cunnold",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "given": "D.",
+                "family": "Waugh",
+                "affiliation": [
+                    {
+                        "name": null
+                    }
+                ]
+            }
+        ],
+        "reference": [
+            {
+                "firstPage": "4483",
+                "articleTitle": "Halogen Occultation Experiment confirmation of stratospheric chlorine decreases in accordance with the Montreal Protocol",
+                "volume": "105",
+                "author": "Anderson",
+                "year": "2000",
+                "journalTitle": "J. Geophys. Res."
+            },
+            {
+                "firstPage": "L15S01",
+                "articleTitle": "Atmospheric Chemistry Experiment (ACE): Mission overview",
+                "volume": "32",
+                "author": "Bernath",
+                "year": "2005",
+                "journalTitle": "Geophys. Res. Lett."
+            },
+            {
+                "issue": "D12",
+                "firstPage": "4136",
+                "articleTitle": "Temporal development of total chlorine in the high-latitude stratosphere based on reference distributions of mean age derived from CO2 and SF6",
+                "volume": "107",
+                "author": "Engel",
+                "year": "2002",
+                "journalTitle": "J. Geophys. Res."
+            },
+            {
+                "firstPage": "1106",
+                "articleTitle": "Early validation analyses of atmospheric profiles from EOS MLS on the Aura satellite",
+                "volume": "44",
+                "author": "Froidevaux",
+                "year": "2006",
+                "journalTitle": "IEEE Trans. Geosci. Remote Sens."
+            },
+            {
+                "firstPage": "6968",
+                "articleTitle": "Atmospheric Trace Molecule Spectroscopy (ATMOS) experiment version 3 data retrievals",
+                "volume": "41",
+                "author": "Irion",
+                "year": "2002",
+                "journalTitle": "Appl. Opt."
+            },
+            {
+                "firstPage": "1235",
+                "articleTitle": "The fate of atmospheric phosgene and the stratospheric chlorine loadings of its parent compounds: CCl4, C2Cl4, C2HCl3, CH3CCl3, and CHCl3",
+                "volume": "100",
+                "author": "Kindler",
+                "year": "1995",
+                "journalTitle": "J. Geophys. Res."
+            },
+            {
+                "firstPage": "1144",
+                "articleTitle": "Retrieval algorithms for the EOS Microwave Limb Sounder (MLS) instrument",
+                "volume": "44",
+                "author": "Livesey",
+                "year": "2006",
+                "journalTitle": "IEEE Trans. Geosci. Remote Sens."
+            },
+            {
+                "author": "Mahieu",
+                "articleTitle": "The evolution of inorganic chlorine above the Jungfraujoch station: An update"
+            },
+            {
+                "firstPage": "690",
+                "articleTitle": "Present and future trends in the atmospheric burden of ozone-depleting halogens",
+                "volume": "398",
+                "author": "Montzka",
+                "year": "1999",
+                "journalTitle": "Nature"
+            },
+            {
+                "firstPage": "D22312",
+                "articleTitle": "A global inventory of stratospheric chlorine in 2004",
+                "volume": "111",
+                "author": "Nassar",
+                "year": "2006",
+                "journalTitle": "J. Geophys. Res."
+            },
+            {
+                "firstPage": "D06310",
+                "articleTitle": "Rapid growth of hydrofluorocarbon 134a and hydrochlorofluorocarbons 141b, 142b, and 22 from Advanced Global Atmospheric Gases Experiment (AGAGE) observations at Cape Grim, Tasmania, and Mace Head, Ireland",
+                "volume": "109",
+                "author": "O'Doherty",
+                "year": "2004",
+                "journalTitle": "J. Geophys. Res."
+            },
+            {
+                "firstPage": "10777",
+                "articleTitle": "The Halogen Occultation Experiment",
+                "volume": "98",
+                "author": "Russell",
+                "year": "1993",
+                "journalTitle": "J. Geophys. Res."
+            },
+            {
+                "firstPage": "763",
+                "articleTitle": "In situ measurement of carbon dioxide in the winter arctic vortex and at midlatitudes: An indicator for the \u2018age\u2019 of stratospheric air",
+                "volume": "18",
+                "author": "Schmidt",
+                "year": "1991",
+                "journalTitle": "Geophys. Res. Lett."
+            },
+            {
+                "firstPage": "L18807",
+                "articleTitle": "Rise and decline of active chlorine in the stratosphere",
+                "volume": "33",
+                "author": "Solomon",
+                "year": "2006",
+                "journalTitle": "Geophys. Res. Lett."
+            },
+            {
+                "firstPage": "2835",
+                "articleTitle": "Atmospheric COCl2 measured by solar occultation spectrometry",
+                "volume": "28",
+                "author": "Toon",
+                "year": "2001",
+                "journalTitle": "Geophys. Res. Lett."
+            },
+            {
+                "firstPage": "1075",
+                "articleTitle": "The Earth Observing System Microwave Limb Sounder (EOS MLS) on the Aura satellite",
+                "volume": "44",
+                "author": "Waters",
+                "year": "2006",
+                "journalTitle": "IEEE Trans. Geosci. Remote Sens."
+            },
+            {
+                "issue": "4",
+                "firstPage": "1010",
+                "articleTitle": "Age of stratospheric air: Theory, observations, and models",
+                "volume": "40",
+                "author": "Waugh",
+                "year": "2002",
+                "journalTitle": "Rev. Geophys."
+            },
+            {
+                "firstPage": "1187",
+                "articleTitle": "Is upper stratospheric chlorine decreasing as expected?",
+                "volume": "28",
+                "author": "Waugh",
+                "year": "2001",
+                "journalTitle": "Geophys. Res. Lett."
+            },
+            {
+                "author": "World Meteorological Organization (WMO)",
+                "articleTitle": "Scientific assessment of ozone depletion: 2002"
+            },
+            {
+                "firstPage": "2357",
+                "articleTitle": "The 1994 northern midlatitude budget of stratospheric chlorine derived from ATMOS/ATLAS-3 observations",
+                "volume": "23",
+                "author": "Zander",
+                "year": "1996",
+                "journalTitle": "Geophys. Res. Lett."
+            }
+        ],
+        "title": "Temporal decrease in upper atmospheric chlorine",
+        "link": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2006GL027600",
+        "publishedOnlineDate": "2006-12-01T00:00:00",
+        "publishedDate": "2006-12-01T00:00:00",
+        "doi": "doi:10.1029/2006GL027600",
+        "publicationStatus": "published",
+        "publicationPages": "1122-1130",
+        "text": "GEOPHYSICAL RESEARCH LETTERS, VOL. 33, L23812, doi:10.1029/2006GL027600, 2006\n\nTemporal decrease in upper atmospheric chlorine\n\nL. Froidevaux,1 N. J. Livesey,1 W. G. Read,1 R. J. Salawitch,1 J. W. Waters,1 B. Drouin,1\nI. A. MacKenzie,2 H. C. Pumphrey,2 P. Bernath,3,4 C. Boone,3 R. Nassar,3,5 S. Montzka,6\nJ. Elkins,6 D. Cunnold,7 and D. Waugh8\n\nReceived 17 July 2006; revised 3 October 2006; accepted 20 October 2006; published 14 December 2006.\n\n[1] We report a steady decrease in the upper stratospheric\nand lower mesospheric abundances of hydrogen chloride\n(HCl)\nfrom August 2004 through January 2006, as\nmeasured by the Microwave Limb Sounder (MLS) aboard\nthe Aura satellite. For 60\u00b0S to 60\u00b0N zonal means,\nthe\naverage yearly change in the 0.7 to 0.1 hPa (\u001850 to 65 km)\nregion is \u000027 \u00b1 3 pptv/year, or \u00000.78 \u00b1 0.08 percent/year.\nThis is consistent with surface abundance decrease rates\n(about 6 to 7 years earlier) in chlorine source gases. The\nMLS data confirm that international agreements to reduce\nglobal emissions of ozone-depleting industrial gases are\nleading to global decreases in the total gaseous chlorine\nburden. Tracking stratospheric HCl variations on a seasonal\nbasis is now possible with MLS data. Inferred stratospheric\ntotal chlorine (ClTOT) has a value of 3.60 ppbv at\nthe\nbeginning of 2006, with a (2-sigma) accuracy estimate of\n7%; the stratospheric chlorine loading has decreased by\nabout 43 pptv in the 18-month period studied here. We\ndiscuss the MLS HCl measurements in the context of other\nsatellite-based HCl data, as well as expectations from\nsurface chlorine data. A mean age of air of \u0018 5.5 years\nand an age spectrum width of 2 years or less provide\na fairly good fit\nto the ensemble of measurements.\nCitation: Froidevaux, L., et al. (2006), Temporal decrease in\nupper atmospheric chlorine, Geophys. Res. Lett., 33, L23812,\ndoi:10.1029/2006GL027600.\n\n1.\n\nIntroduction\n\n[2] The abundances of chlorine and bromine gases in\nthe Earth\u2019s stratosphere have garnered much attention in\nozone depletion assessments [e.g., World Meteorological\nOrganization (WMO), 2003], because of the consensus\nregarding the importance of industrially-produced source\ngases such as chlorofluorocarbons (CFCs) and halons.\nMeasurements from surface networks, as well as from\n\n1Jet Propulsion Laboratory, California Institute of Technology,\n\nPasadena, California, USA.\n\n2School of GeoSciences, University of Edinburgh, Edinburgh, UK.\n3Department of Chemistry, University of Waterloo, Waterloo, Ontario,\n\nCanada.\n\n4Now at Department of Chemistry, University of York, York, UK.\n5Now at Department of Earth and Planetary Sciences and Division of\nEngineering and Applied Sciences, Harvard University, Cambridge,\nMassachusetts, USA.\n\n6Office of Oceanic and Atmospheric Research, National Oceanic and\n\nAtmospheric Administration, Boulder, Colorado, USA.\n\n7School of Earth and Atmospheric Sciences, Georgia Institute of\n\nTechnology, Atlanta, Georgia, USA.\n\n8Department of Earth and Planetary Sciences, Johns Hopkins\n\nUniversity, Baltimore, Maryland, USA.\n\nCopyright 2006 by the American Geophysical Union.\n0094-8276/06/2006GL027600\n\naircraft, have produced a record of chlorine gases and\ntheir total abundance (ClTOT) in the troposphere for more\nthan two decades. Also, ground-based column measure-\nments of (largely stratospheric) hydrogen chloride (HCl) and\nchlorine nitrate (ClONO2), as well as satellite-based near-\nglobal observations of HCl at high altitude (near 55 km),\nhave documented the long-term increase in total stratospheric\nchlorine up until the late 1990s, with indications of a turn-\naround in recent years [Anderson et al., 2000; WMO, 2003;\nMahieu et al., 2004]. The vast majority of chlorine in the\nupper stratosphere and lower mesosphere is present as HCl,\nas shown by early observations from the Atmospheric Trace\nMolecule Spectroscopy (ATMOS) experiment [Zander et\nal., 1996], and recently corroborated by data from the\nAtmospheric Chemistry Experiment Fourier Transform\nSpectrometer (ACE-FTS, often simply referred to as\nACE, below) aboard the Canadian satellite SCISAT-1\n[Bernath et al., 2005].\n\n[3] Here, we report and analyze recent decreases in upper\natmospheric HCl, observed by the Earth Observing System\n(EOS) Microwave Limb Sounder (MLS) aboard the Aura\nsatellite, launched July 15, 2004. These results are discussed\nin the context of other HCl measurements, including those\nfrom ACE and the 14-year record from the Halogen\nOccultation Experiment (HALOE) [Russell et al., 1993]\non the Upper Atmosphere Research Satellite (UARS). We\ndiscuss the implications of the various results in terms of\nstratospheric total chlorine and decreases expected from\ntropospheric chlorine data.\n\n2. Variations in Tropospheric Chlorine and\nUpper Atmospheric MLS HCl Data\n\n[4] Figure 1 shows the tropospheric chlorine abundance\nbased on surface measurements from the Advanced Global\nAtmospheric Gases Experiment (AGAGE) network [e.g.,\nO\u2019Doherty et al., 2004], and from the National Oceanic and\nAtmospheric Administration (NOAA) network [Montzka et\nal., 1999]. The latitudinal coverage from these near-global\nnetworks spans the tropics, mid- and high latitudes (from\n41\u00b0S to 53\u00b0N for AGAGE and from the South Pole to 82\u00b0N\nfor NOAA). We have averaged these two datasets to\nproduce a mean value for total chlorine in the troposphere.\nDifferences in total tropospheric chlorine between the two\nnetworks are less than 30 ppt (1%) over the time period of\noverlap, although independent measures of \u001820% of the\ntotal (CH3Cl, CFC-114, and CFC-115) are not currently\navailable. Note that parts per trillion or per billion are\ntypically used here for the units of ground-based source\ngas measurements since those refer to a mole fraction and\nnot a volume mixing ratio;\nthese units are compatible,\nhowever, with the units of pptv or ppbv that we use (here)\n\nL23812\n\n1 of 5\n\n\fL23812\n\nFROIDEVAUX ET AL.: DECREASE IN UPPER ATMOSPHERIC CHLORINE\n\nL23812\n\nfor mixing ratios from satellite retrievals. This chlorine\nloading peaked in late 1993 to early 1994 at close to\n3.7 ppb (the peak combined value from Figure 1 is\n3.692 ppb). Peak tropospheric ClTOT should represent an\nupper limit for stratospheric ClTOT. The peak in the\nstratosphere is expected a number of years later, and\nmixing will tend to reduce the peak by an amount that\nis sensitive to the age of air spectrum. The total chlorine\nabundances in Figure 1 include 100 ppt from the chlori-\nnated very short-lived (VSL) gases CH2Cl2, CHCl3, C2Cl4,\nand COCl2. The latter compound (phosgene) accounts for\nabout half of the 100 ppt potential chlorine from VSL\ngases. It is unclear how much this compound contributes\nto stratospheric ClTOT [Kindler et al., 1995], although\nballoon-borne measurements [Toon et al., 2001] indicate\n\u001825 pptv in the lower stratosphere, with near zero values\nin the upper stratosphere, suggesting the full 50 ppt\ncontribution to ClTOT may be occurring. The uncertainty\nin the 100 ppt from VSL compounds is possibly \u001850 ppt,\nwhich could include compounds other than phosgene.\nAlso, models indicate that perhaps 30 ppt of HCFC-22\n(a long-lived source gas) is present near 55 km, for 2004\n[Nassar et al., 2006]. For total chlorine contained in long-\nlived source gases, the root sum square difference between\nthe two networks is \u001823 ppt, or 0.6%. This becomes 1.8%\nif one adds (in root sum square fashion) a 50 ppt\nuncertainty from VSL compounds and a 30 ppt uncertainty\ndue to HCFC-22. An accuracy of \u00182% therefore seems to\nrepresent the state of knowledge for the total tropospheric\nchlorine burden converted to inorganic chlorine in the\nupper stratosphere.\n\n[5] MLS, one of 4 instruments aboard Aura, measures\nthermal emission from the limb in five spectrally-broad\nregions [Waters et al., 2006]. HCl emission lines near\n625 GHz are used to retrieve \u00183500 HCl profiles daily\n(day and night) with \u0018165 km spacing along the 82\u00b0S to\n82\u00b0N sub-orbital\ntrack. Vertical resolution for HCl data\n(version 1.51) is \u00183 \u2013 4 km in the lower stratosphere and\n6 km in the upper stratosphere. The MLS retrievals [Livesey\n\nFigure 1. Tropospheric total chlorine based on source gas\nnetwork data at the Earth\u2019s surface from AGAGE (green)\nand NOAA (blue). An average curve based on the overlap\ntime period is shown in red. Inset gives the difference\n(NOAA - AGAGE).\n\nFigure 2. Monthly-averaged MLS HCl zonal means\n(curves with dots) over 60\u00b0S to 60\u00b0N for Aug. 2004\nthrough Jan. 2006, at 6 upper atmospheric pressures, as\nindicated by colored labels. Dashed black lines show the\nuncertainty due to imprecision at 0.46 hPa, defined here as\n\u00b1 twice the standard error in the mean. Purple curve is\nupper atmospheric HCl expected from tropospheric\nchlorine loading (average from Figure 1), time-shifted by\n7 years and adjusted by 0.96 for the HCl/ClTOT ratio (near\n0.46 hPa).\n\net al., 2006] use a linearly-connected set of coefficients on a\n6-point per decade pressure grid and account for horizontal\nvariations along the sub-orbital track. MLS sensitivity to\nHCl is evident in the MLS radiance data as high as the\nupper mesosphere. Early validation of HCl from MLS with\nother satellite and balloon data is described by Froidevaux\net al. [2006], with further discussion in section 3. A detailed\ndiscussion of the estimated uncertainties (random and\nsystematic) in upper stratospheric MLS HCl is given in\nthe auxiliary material (Text S1).1\n\n[6] Figure 2 shows that MLS has measured a decrease in\nHCl abundances in the upper stratosphere and lower\nmesosphere between August 2004 and January 2006. The\nMLS measurement density, repeatability, and precision\nallow global HCl decreases on a seasonal basis to be\nprecisely tracked (within a given year) for the first time.\nThe average yearly decrease, based on an average of the\nfirst 6 months and the last 6 months of these time series,\namounts to about 27 pptv (with a scatter from the various\naltitudes of 3 pptv), or a slope of \u00000.78 %/yr (and scatter of\n0.08 %/yr). The HCl changes shown in Figure 2 are well\noutside the typical precision in the monthly means; for\nexample, the 2-sigma uncertainty at 0.46 hPa (\u001853 km) is\nunder 0.003 ppbv, and \u001820 times less than the total change.\nTropospheric chlorine variations, with a time lag, should\ngovern the overall temporal changes in upper stratospheric\nand lower mesospheric total chlorine, although some non-\nlinear effects due to mixing can occur [e.g., Waugh et al.,\n2001]. A calculation of decrease/year as performed for the\n\n1Auxiliary material data sets are available at ftp://ftp.agu.org/apend/gl/\n\n2006gl027600. Other auxiliary material files are in the HTML.\n\n2 of 5\n\n\fL23812\n\nFROIDEVAUX ET AL.: DECREASE IN UPPER ATMOSPHERIC CHLORINE\n\nL23812\n\nheight are quite similar; the ClTOT values near the peak are\nless sensitive to the model profile shape. At the highest\naltitudes, both MLS and model values show a small\ndecrease attributed to photolysis of HCl. The 2-sigma\nis \u0018 5%, based on a\naccuracy estimate for MLS HCl\nconsideration of the various possible error sources, as\ndiscussed in detail in the auxiliary material (Appendix A\nin Text S1); uncertainties arising from HCl\nline width\nparameters account for more than half of this value. The\nestimated accuracy for inferred ClTOT is 7%, obtained by\n(conservatively) adding 2% uncertainty from HCl/ClTOT.\n\n3. Other Results and Discussion\n[8] The average rate of HCl decline (about \u00000.8%/yr)\nobserved by MLS is commensurate with ground-based\nexpectations from total tropospheric loading and also with\nthe \u00000.7%/yr rate of change in total inorganic chlorine\nobserved since 1997 above the Swiss Alps, based on\ninfrared column measurements of HCl and ClONO2\n[Mahieu et al., 2004]. Also, there is evidence for a decrease\nin upper stratospheric ClO since about 1994, from analyses\nof ground-based microwave data from Hawaii by Solomon\net al. [2006], who obtained a ClO rate of change near 4 hPa\nof roughly \u00001.5%/yr from 1994 through 2004, with possi-\nbly one third of this caused by changes in methane.\n\n[9] To place the MLS measurements in the context of\nother satellite datasets for HCl, Figure 5 shows the MLS\nmonthly mean HCl time series at 0.46 hPa for 60\u00b0S \u2013 60\u00b0N,\nsimilarly-averaged HALOE (version 19) monthly means\n(interpolated to 0.46 hPa), and ACE (version 2.2) data at\n53.5 km (\u0018 0.49 hPa) averaged in nine 3-month periods\n(quarterly, from January 2004 through March 2006). We\nalso show version 3 data [Irion et al., 2002] from the four\nATMOS missions, using HCl retrieval averages from 50 to\n\nFigure 4. Global average upper stratospheric and lower\nmesospheric MLS HCl (dots) and inferred ClTOT (triangles)\nfor August 2004 (red) and January 2006 (black). ClTOT is\ninferred using SOCRATES 2-D model results for HCl/\nClTOT (see Figure 3). These results are based on zonal\nmeans in 10 degree latitude bins, weighted by (cosine of)\nlatitude.\n\nFigure 3. Upper stratospheric and lower mesospheric HCl/\nClTOT ratios based on recent NCAR SOCRATES 2-D model\nresults at various northern latitudes (see legend). Values\ncorrespond to steady-state averages (three-year integration),\nafter a model spin-up of seven years. Similar values are\nobtained for southern latitudes (not shown).\n\nMLS HCl data, but based on tropospheric chlorine varia-\ntions time-lagged by 7 years and multiplied by 0.96 to\naccount for the ratio HCl/ClTOT, gives 29 pptv/year,\nin\nvery good agreement with MLS data. The factor of 0.96 is\nbased on the 2-D Simulation of Chemistry, Radiation, and\nTransport of Environmentally important Species\n(SOCRATES) model results shown in Figure 3, as well\nas recent evidence from an ACE-FTS inventory of chlorine\nspecies in the stratosphere [Nassar et al., 2006], indicating\nslightly larger ratios (0.96 to 0.98) for HCl/ClTOT in the\nupper stratosphere. Peak values of HCl/ClTOT shown in\nFigure 3 are between 0.95 and 0.96; additional model\nchlorine above 55 km comes mainly from ClO and Cl\n(\u0018 3% of total), from the CHClF2 (HCFC-22) long-lived\norganic contribution (\u0018 1%), and HOCl (0.5%). A time lag\nof 6 years also leads to reasonable agreement between the\nMLS data in Figure 2 and expectation, the ground-based\ndecrease (6 years earlier) being \u001827 pptv/year. However, a\nlag under 5 years produces a decrease of under 20 pptv/\nyear, which is less consistent with MLS data. The smaller\ndecrease (for shorter time lags) occurs because the rate of\ndecline of tropospheric chlorine has slowed in recent years,\nmainly as a result of the rapid but (now) slowing decline in\nCH3CCl3 [Montzka et al., 1999; O\u2019Doherty et al., 2004].\nMore complex (and probably more robust) considerations\nof time lags, involving mean age (transport timescale) of\nair and spectral widths of the age distribution for a mixture\nof air parcels are discussed in section 3.\n\n[7] Figure 4 shows global upper atmospheric averages of\nMLS HCl and inferred values of ClTOT versus height, with\nthe conversion of HCl to ClTOT based on an integration of\nSOCRATES 2-D model HCl/ClTOT values in ten degree\nlatitude bins. The differences between August 2004 and\nJanuary 2006 show that the temporal decrease has occurred\nat all heights in this region. ClTOT (averaged over the\nvarious pressures) has changed from 3646 to 3603 pptv in\nthis 18-month period, for an average decrease of 43 pptv \u00b1\n9 pptv (precision in the mean). ClTOT is fairly constant with\nheight, meaning that model and MLS HCl dependences on\n\n3 of 5\n\n\fL23812\n\nFROIDEVAUX ET AL.: DECREASE IN UPPER ATMOSPHERIC CHLORINE\n\nL23812\n\n[Nassar et al., 2006], which is more consistent with the\nMLS measurements of HCl above 50 km, and in excellent\nagreement with the August 2004 MLS ClTOT estimate\n(also 3.65 ppbv, from Figure 4). We use a 2-sigma\naccuracy for ACE HCl of 0.3 ppbv, slightly larger than\ntwice the 1-sigma estimate of 0.13 ppbv given by Nassar\net al. [2006] for midlatitude HCl at 50 km. The main error\nsources mentioned in the latter work are line intensity\n(0.08 ppbv), retrieved temperature and pressure (0.08 ppbv),\nand closure of the spectral fits (0.06 ppbv). The value of\n0.3 ppbv as an error bar is used for ATMOS data also,\nconsistent with ATMOS HCl error estimates [e.g., Zander\net al., 1996]. One could draw a time series consistent with\nall results within their uncertainties (including the HALOE\n13% accuracy);\nthis would require an adjustment of\nHALOE HCl upward and ATMOS, ACE, and (possibly)\nMLS data downward by varying amounts.\n\n[10]\n\nIn Figure 5,\n\nthe HCl datasets are compared to\nexpectations of long-term variations in HCl, as obtained\nfrom tropospheric chlorine estimates and considerations of\nmean age of air and various age spectrum widths [e.g.,\nWaugh and Hall, 2002] relating to transport timescales and\nirreversible mixing of air parcels moving from the surface to\nthe upper stratosphere. The tropospheric chlorine burden is\nbased on total chlorine loading from Figure 1 as well as an\nexample for the WMO 2002 Ab scenario [WMO, 2003],\nwhich peaks at 3.58 ppbv instead of 3.69 ppbv, because it\nonly includes contributions from the 12 most abundant\nlong-lived halocarbons. If VSL compounds are transported\nacross the tropopause, it is likely that their decomposition\nproducts will contribute to upper stratospheric ClTOT. How-\never, questions remain regarding how much chlorine can\nreach the lower stratosphere, either by cross-tropopause\ntransport of the VSL species or of their decomposition\nproducts [WMO, 2003]. The satellite results do not place\nstrong constraints on possible chlorine contributions from\nVSL gases, because of the absolute uncertainties in the\nmeasurements and differences between the datasets. While\nHALOE data are most consistent with no chlorine contri-\nbution from VSL compounds, the MLS, ACE, and ATMOS\ndata suggest a significant contribution.\n\n[11] Multi-year balloon-borne observations of strato-\nspheric tracers such as CO2 and SF6 have led to a mean\nage estimate of \u00185.5 years in the middle stratosphere\n[Schmidt and Khedim, 1991; Engel et al., 2002], but this\nis not constrained to better than \u00181 year. Age of air is\nprobably roughly constant in the upper stratosphere, given\nthat these and other balloon CO2 measurements exhibit very\nweak vertical gradients above 25 \u2013 30 km. MLS data alone\ncannot distinguish between mean ages of 5.5 or 7 years,\nshown as examples in Figure 5, or even 4 years (not\nshown), although closer agreement with the data is\nobtained for 7 years. While a better constraint on mean\nage could be obtained from HCl during the phase of rising\nchlorine, the error bars and differences between datasets\npreclude a useful constraint. The ATMOS data would be\nmore consistent with an age of 4 to 5 years, while HALOE\ndata favor a value larger than \u00185.5 years. A mean age of\n\u00185.5 years (consistent with results from balloon-borne\ndata) might best accommodate the ensemble of datasets,\nwithin their uncertainties. The decrease implied by MLS\ndata favors a width of the age spectrum of 2 years or less.\n\n(top) Solid curve shows total chlorine (ClTOT)\nFigure 5.\ntime series based on tropospheric data (Figure 1). Dashed\ncurve does not\ninclude contributions from short-lived\nchlorinated substances (WMO 2002 scenario Ab). (middle\nand bottom) HCl data are shown as 60\u00b0S \u2013 60\u00b0N monthly\naverages at 0.46 hPa (\u0018 53 km) for MLS (closed red\ncircles), similar averages for HALOE (open purple circles),\nalong with quarterly averages (at \u0018 53 km) from ACE\n(green) and ATMOS version 3 data averages (cyan squares)\nfor 50 \u2013 60 km; see text for more discussion of data and error\nbars (2-sigma estimates of accuracy). Solid curves use total\nchlorine (solid curve in Figure 5, top) and different mean\nage assumptions (5.5 or 7 yr), with various age spectrum\nwidths, as indicated; a factor of 0.96 is applied to get HCl.\nThe dashed black curves give expected HCl based on the\nWMO 2002 scenario Ab and a mean age (5.5 or 7 yr) and\nwidth (2 yr) appropriate for the solid black curves.\n\n60 km in the above latitude range;\nthe ATMOS data\ncontain the fewest profiles and averaging over height helps\nto reduce the noise to below the accuracy estimate. ACE\nHCl values in the upper stratosphere are, on average, a few\nto 5% larger than MLS data, and are larger than HALOE\nHCl by 10 \u2013 15% or more; however, ACE HCl in the lower\nmesosphere departs more from (and is progressively larger\nthan) MLS HCl, as altitude increases [Froidevaux et al.,\n2006; Nassar et al., 2006]. More work will be needed to\ndecide whether ACE HCl values are too high in the\nmesosphere. The average ACE HCl abundance (near\n53 km) from Figure 5 is 3.69 ppbv, with (1-sigma)\nvariability of \u00180.2 ppbv. However, ACE provides a mean\nlower altitudes of \u00183.65 ppbv\n2004 ClTOT estimate at\n\n4 of 5\n\n\fL23812\n\nFROIDEVAUX ET AL.: DECREASE IN UPPER ATMOSPHERIC CHLORINE\n\nL23812\n\n[12] HALOE data since 2000 show a steeper decrease\n(by a factor of two or more) than MLS and the various\nmodel curves, and explaining some of the variations\nobtained by HALOE has proved difficult [Waugh et al.,\n2001]. The scatter in MLS monthly means using a subset\nof data with a sampling that mimics the HALOE occulta-\ntion data coverage was found to be smaller than the scatter\nin HALOE means, but larger than when using the full MLS\nsampling. ACE seasonal averages in Figure 5 also show\nmore variability than the MLS data, while not being\ninconsistent with expected decreases. Also, the HALOE\ndata appear to vary coherently over at least a 5 to 6 km\nrange (for altitudes near those used and shown here). This\nrange corresponds to the vertical resolution of MLS in that\nregion, so the coarser MLS resolution should not signifi-\ncantly mask variations such as those exhibited in the\nHALOE dataset; a smoothing of the temporal decrease\nwould not be an expected result either. Thus, poorer (and\nless repeatable) sampling in the occultation datasets is\npartly responsible for explaining the larger variability of\nthe HCl time series, even if that is not the only factor.\nOther factors could include unknown or poorly character-\nized error sources leading to more (temporal) variability\nthan expected in HALOE averages or to less variability in\nthe MLS results.\n\n[13] The MLS upper atmospheric HCl measurements to\ndate imply that international agreements to reduce global\nemissions of ozone-depleting industrial gases are leading to\nglobal decreases in stratospheric chlorine, consistent with\nthe observed decrease in surface chlorine burden. Several\nmore years of data will better constrain our knowledge of\nstratospheric age of air spectrum width and transport-related\nvariability.\n\n[14] Acknowledgments. The main work described in this paper was\ncarried out at\nthe Jet Propulsion Laboratory, California Institute of\nTechnology, under an agreement with the National Aeronautics and Space\nAdministration. The ACE mission is funded by the Canadian Space Agency\nand the Natural Sciences and Engineering Research Council of Canada. We\nalso acknowledge the assistance of R. Cofield, R. Jarnot, A. Lambert, and\nP. Stek, regarding the discussion of MLS error sources in the auxiliary\nmaterial (Appendix A in Text S1). We thank K. Walker, G. Manney, and\nW. Daffer for assistance and comments regarding ACE data, J. Anderson,\nE. Remsberg, and J. Russell for HALOE data and comments on this work,\nF. W. Irion for comments on the version 3 ATMOS data, and R. Fuller for\nsome programming assistance. We also acknowledge the work of the NCAR\nteam members who contributed to the SOCRATES 2-D model development\nand its public release.\n\nReferences\nAnderson, J., J. M. Russell III, S. Solomon, and L. E. Deaver (2000),\nHalogen Occultation Experiment confirmation of stratospheric chlorine\ndecreases in accordance with the Montreal Protocol, J. Geophys. Res.,\n105, 4483 \u2013 4490.\n\nBernath, P. F., et al. (2005), Atmospheric Chemistry Experiment (ACE):\nMission overview, Geophys. Res. Lett., 32, L15S01, doi:10.1029/\n2005GL022386.\n\nEngel, A., M. Strunk, M. Mu\u00a8ller, H.-P. Haase, C. Poss, I. Levin, and U. Schmidt\n(2002), Temporal development of total chlorine in the high-latitude\nstratosphere based on reference distributions of mean age derived from\nCO2 and SF6, J. Geophys. Res., 107(D12), 4136, doi:10.1029/\n2001JD000584.\n\nFroidevaux, L., et al. (2006), Early validation analyses of atmospheric\nprofiles from EOS MLS on the Aura satellite, IEEE Trans. Geosci. Re-\nmote Sens., 44, 1106 \u2013 1121.\n\nIrion, F.W., et al. (2002), Atmospheric Trace Molecule Spectroscopy\n(ATMOS) experiment version 3 data retrievals, Appl. Opt., 41,\n6968 \u2013 6979.\n\nKindler, T. P., W. L. Chameides, P. H. Wine, D. M. Cunnold, F. N. Alyea,\nand J. A. Franklin (1995), The fate of atmospheric phosgene and the\nstratospheric chlorine loadings of its parent compounds: CCl4, C2Cl4,\nC2HCl3, CH3CCl3, and CHCl3, J. Geophys. Res., 100, 1235 \u2013 1251.\n\nLivesey, N. J., W. V. Snyder, W. G. Read, and P. A. Wagner (2006),\nRetrieval algorithms for the EOS Microwave Limb Sounder (MLS)\ninstrument, IEEE Trans. Geosci. Remote Sens., 44, 1144 \u2013 1155.\n\nMahieu, E., P. Duchatelet, R. Zander, P. Demoulin, C. Servais, C. P. Rinsland,\nM. P. Chipperfield, and M. DeMaziere (2004), The evolution of inorganic\nchlorine above the Jungfraujoch station: An update, paper presented at\n20th Quadrennial Ozone Symposium, Int. Assoc. for Meteorol. and\nAtmos. Sci., Kos, Greece, 1 \u2013 8 June.\n\nMontzka, S. A., et al. (1999), Present and future trends in the atmospheric\n\nburden of ozone-depleting halogens, Nature, 398, 690 \u2013 694.\n\nNassar, R., et al. (2006), A global inventory of stratospheric chlorine in\n\n2004, J. Geophys. Res., 111, D22312, doi:10.1029/2006JD007073.\n\nO\u2019Doherty, S., et al. (2004), Rapid growth of hydrofluorocarbon 134a and\nhydrochlorofluorocarbons 141b, 142b, and 22 from Advanced Global\nAtmospheric Gases Experiment (AGAGE) observations at Cape Grim,\nTasmania, and Mace Head, Ireland, J. Geophys. Res., 109, D06310,\ndoi:10.1029/2003JD004277.\n\nRussell, J. M., III, L. L. Gordley, J. H. Park, S. R. Drayson, W. D. Hesketh,\nR. J. Cicerone, A. F. Tuck, J. E. Frederick, J. E. Harries, and P. J. Crutzen\n(1993), The Halogen Occultation Experiment, J. Geophys. Res., 98,\n10,777 \u2013 10,797.\n\nSchmidt, U., and A. Khedim (1991), In situ measurement of carbon dioxide\nin the winter arctic vortex and at midlatitudes: An indicator for the \u2018age\u2019\nof stratospheric air, Geophys. Res. Lett., 18, 763 \u2013 766.\n\nSolomon, P., J. Barrett, T. Mooney, B. Connor, A. Parrish, and D. E. Siskind\n(2006), Rise and decline of active chlorine in the stratosphere, Geophys.\nRes. Lett., 33, L18807, doi:10.1029/2006GL027029.\n\nToon, G. C., J.-F. Blavier, B. Sen, and B. J. Drouin (2001), Atmospheric\nCOCl2 measured by solar occultation spectrometry, Geophys. Res. Lett.,\n28, 2835 \u2013 2838.\n\nWaters, J. W., et al. (2006), The Earth Observing System Microwave Limb\nSounder (EOS MLS) on the Aura satellite, IEEE Trans. Geosci. Remote\nSens., 44, 1075 \u2013 1092.\n\nWaugh, D. W., and T. M. Hall (2002), Age of stratospheric air: Theory,\nobservations, and models, Rev. Geophys., 40(4), 1010, doi:10.1029/\n2000RG000101.\n\nWaugh, D. W., D. B. Considine, and E. L. Fleming (2001), Is upper strato-\nspheric chlorine decreasing as expected?, Geophys. Res. Lett., 28, 1187 \u2013\n1190.\n\nWorld Meteorological Organization (WMO) (2003), Scientific assessment\nof ozone depletion: 2002, Global Ozone Res. Monit. Proj. Rep. 47, Gen-\neva, Switzerland.\n\nZander, R., et al. (1996), The 1994 northern midlatitude budget of strato-\nspheric chlorine derived from ATMOS/ATLAS-3 observations, Geophys.\nRes. Lett., 23, 2357 \u2013 2360.\n\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\nP. Bernath, Department of Chemistry, University of York, York, YO10\n\n5DD, UK.\n\nC. Boone, Department of Chemistry, University of Waterloo, 200\n\nUniversity Avenue West, Waterloo, ON, Canada N2L 3G1.\n\nD. Cunnold, School of Earth and Atmospheric Sciences, Georgia Institute\n\nof Technology, 221 Bobby Dodd Way, Atlanta, GA 30332, USA.\n\nB. Drouin, L. Froidevaux, N. J. Livesey, W. G. Read, R. J. Salawitch, and\nJ. W. Waters, Jet Propulsion Laboratory, California Institute of Technology,\n4800 Oak Grove Drive, Pasadena, CA 91109, USA. (lucien@mls.jpl.\nnasa.gov)\n\nJ. Elkins and S. Montzka, Office of Oceanic and Atmospheric Research,\nNational Oceanic and Atmospheric Administration, 325 Broadway,\nBoulder, CO 80305, USA.\n\nI. A. MacKenzie and H. C. Pumphrey, School of GeoSciences, University\nof Edinburgh, Crew Building, West Mains Road, Edinburgh EH9 3JN, UK.\nR. Nassar, Division of Engineering and Applied Sciences, Harvard\nUniversity, Pierce Hall 107F, 29 Oxford Street, Cambridge, MA 02138,\nUSA.\n\nD. Waugh, Department of Earth and Planetary Sciences, Johns Hopkins\nUniversity, 320 Olin Hall, 3400 N. Charles Street, Baltimore, MD 21218,\nUSA.\n\n5 of 5\n\n\f",
+        "mentionedInstruments": [
+            "ACE-FTS",
+            "HALOE",
+            "UARS"
+        ],
+        "mentionedModels": "",
+        "mentionedDataProducts": [
+            "O3",
+            "CH3Cl",
+            "HOCl",
+            "ClO",
+            "T",
+            "HCl"
+        ],
+        "indexDate": "2018-10-01T09:07:04"
+    }
+}
