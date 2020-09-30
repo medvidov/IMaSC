@@ -3,13 +3,13 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | Row | Instrument | Spacecraft | Experiments | Models    | Algorithms | Other       |
 |-----|------------|------------|-------------|-----------|------------|-------------|
 | 1   | MLS        | ODIN       | ACE         | SOCOL-AER |            | NLC         |
-| 2   | SMR        | AURA       | AVE         | GEOSCCM   |            | WMO         |
+| 2   | SMR        | AURA       | AVE         | eEOSCCM   |            | WMO         |
 | 3   | ACE-FTS    | Envisat    |             | SIC       |            | CPH         |
 | 4   | SCIAMACHY  | UARS       |             | EMAC      |            | COH         |
 | 5   | MIPAS      | NOAA       |             | COSMO     |            | ENSO        |
 | 6   | GEOS       | Metop - A  |             | CM50      |            | SST         |
-| 7   | IASI       |            |             | CM12      |            | KNMI        |
-| 8   | HWV        |            |             | ECHAM4    |            | PSC         |
+| 7   | IASI       | GOES       |             | CM12      |            | KNMI        |
+| 8   | HWV        | CloudSat   |             | ECHAM4    |            | PSC         |
 | 9   | CFH        |            |             |           |            | CIRES       |
 | 10  | JLH        |            |             |           |            | KNM         |
 | 11  | OSIRIS     |            |             |           |            | SCIAVISIE   |
@@ -26,10 +26,10 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 22  | SHIMMER    |            |             |           |            | LWP         |
 | 23  | MAS        |            |             |           |            | EC          |
 | 24  | DIAL       |            |             |           |            | NSD         |
-| 25  |            |            |             |           |            | SWDN        |
-| 26  |            |            |             |           |            | LWDN        |
-| 27  |            |            |             |           |            | OLR         |
-| 28  |            |            |             |           |            | PWV         |
+| 25  | TOVS       |            |             |           |            | SWDN        |
+| 26  |  SZA       |            |             |           |            | LWDN        |
+| 27  |CPR         |            |             |           |            | OLR         |
+| 28  | RPW        |            |             |           |            | PWV         |
 | 29  |            |            |             |           |            | CF          |
 | 30  |            |            |             |           |            | IMK         |
 | 31  |            |            |             |           |            | IAA         |
@@ -118,7 +118,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | GOME-2      |
 | 98  |            |            |             |           |            | ACE-MAESTRO |
 | 98  |            |            |             |           |            | EASOE       |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |SHADOZ       |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
