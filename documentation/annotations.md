@@ -20,7 +20,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 16  | OMI        |            |             |           |            | AOD         |
 | 17  | EOS        |            |             |           |            | NCSU        |
 | 18  | OPC        |            |             |           |            | EPA         |
-| 19  | AIS        |            |             |           |            |             |
+| 19  | AIS        |            |             |           |            |   NDACC     |
 | 20  | GFAS       |            |             |           |            |             |
 | 21  | CLAES      |            |             |           |            |             |
 | 22  | SHIMMER    |            |             |           |            | LWP         |
@@ -30,9 +30,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 26  |  SZA       |            |             |           |            | LWDN        |
 | 27  |CPR         |            |             |           |            | OLR         |
 | 28  | RPW        |            |             |           |            | PWV         |
-| 29  |            |            |             |           |            | CF          |
-| 30  |            |            |             |           |            | IMK         |
-| 31  |            |            |             |           |            | IAA         |
+| 29  |SMILES      |            |             |           |            | CF          |
+| 30  | MWR        |            |             |           |            | IMK         |
+| 31  |  AIRS      |            |             |           |            | IAA         |
 | 32  |            |            |             |           |            | GMAO        |
 | 33  |            |            |             |           |            | MOD         |
 | 34  |            |            |             |           |            | IPCC        |
@@ -119,7 +119,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | ACE-MAESTRO |
 | 98  |            |            |             |           |            | EASOE       |
 | 98  |            |            |             |           |            |SHADOZ       |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  GWPE       |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
