@@ -2,7 +2,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 
 | Row | Instrument | Spacecraft | Experiments | Models    | Algorithms | Other       |
 |-----|------------|------------|-------------|-----------|------------|-------------|
-| 1   | MLS        | ODIN       | ACE         | SOCOL-AER |            | NLC         |
+| 1   | MLS        | ƒ       | ACE         | SOCOL-AER |            | NLC         |
 | 2   | SMR        | AURA       | AVE         | eEOSCCM   |            | WMO         |
 | 3   | ACE-FTS    | Envisat    |             | SIC       |            | CPH         |
 | 4   | SCIAMACHY  | UARS       |             | EMAC      |            | COH         |
@@ -10,9 +10,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 6   | GEOS       | Metop - A  |             | CM50      |            | SST         |
 | 7   | IASI       | GOES       |             | CM12      |            | KNMI        |
 | 8   | HWV        | CloudSat   |             | ECHAM4    |            | PSC         |
-| 9   | CFH        |            |             |           |            | CIRES       |
-| 10  | JLH        |            |             |           |            | KNM         |
-| 11  | OSIRIS     |            |             |           |            | SCIAVISIE   |
+| 9   | CFH        |  Meteosat  |             | SLIMCAT   |            | CIRES       |
+| 10  | JLH        |            |             | GMI       |            | KNM         |
+| 11  | OSIRIS     |            |             | GEOSCCM   |            | SCIAVISIE   |
 | 12  | CLAES      |            |             |           |            | STOIC       |
 | 13  | CALIOP     |            |             |           |            | QBO         |
 | 14  | TOMS       |            |             |           |            | MESSy       |
@@ -21,8 +21,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 17  | EOS        |            |             |           |            | NCSU        |
 | 18  | OPC        |            |             |           |            | EPA         |
 | 19  | AIS        |            |             |           |            |   NDACC     |
-| 20  | GFAS       |            |             |           |            |             |
-| 21  | CLAES      |            |             |           |            |             |
+| 20  | GFAS       |            |             |           |            | MIM         |
+| 21  | CLAES      |            |             |           |            | FRP         |
 | 22  | SHIMMER    |            |             |           |            | LWP         |
 | 23  | MAS        |            |             |           |            | EC          |
 | 24  | DIAL       |            |             |           |            | NSD         |
@@ -33,9 +33,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 29  |SMILES      |            |             |           |            | CF          |
 | 30  | MWR        |            |             |           |            | IMK         |
 | 31  |  AIRS      |            |             |           |            | IAA         |
-| 32  |            |            |             |           |            | GMAO        |
-| 33  |            |            |             |           |            | MOD         |
-| 34  |            |            |             |           |            | IPCC        |
+| 32  |  WVMS      |            |             |           |            | GMAO        |
+| 33  |   TES      |            |             |           |            | MOD         |
+| 34  | LIS        |            |             |           |            | IPCC        |
 | 35  |            |            |             |           |            | ASM         |
 | 36  |            |            |             |           |            | TMF         |
 | 37  |            |            |             |           |            | NCEP        |
@@ -92,7 +92,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 88  |            |            |             |           |            | SBUV2       |
 | 89  |            |            |             |           |            | SEA         |
 | 90  |            |            |             |           |            | Q2DW        |
-| 91  |            |            |             |           |            |             |
+| 91  |            |            |             |           |            | MSLP        |
 | 92  |            |            |             |           |            | EESC        |
 | 93  |            |            |             |           |            | GHG         |
 | 94  |            |            |             |           |            | PBL         |
@@ -120,8 +120,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | EASOE       |
 | 98  |            |            |             |           |            |SHADOZ       |
 | 98  |            |            |             |           |            |  GWPE       |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  FITEXY     |
+| 98  |            |            |             |           |            |  RMSD       |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
