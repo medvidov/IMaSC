@@ -13,8 +13,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 9   | CFH        |  Meteosat  |             | SLIMCAT   |            | CIRES       |
 | 10  | JLH        |            |             | GMI       |            | KNM         |
 | 11  | OSIRIS     |            |             | GEOSCCM   |            | SCIAVISIE   |
-| 12  | CLAES      |            |             |           |            | STOIC       |
-| 13  | CALIOP     |            |             |           |            | QBO         |
+| 12  | CLAES      |            |             | NOGAPS    |            | STOIC       |
+| 13  | CALIOP     |            |             | AGCM      |            | QBO         |
 | 14  | TOMS       |            |             |           |            | MESSy       |
 | 15  | MODIS      |            |             |           |            | GW          |
 | 16  | OMI        |            |             |           |            | AOD         |
@@ -36,9 +36,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 32  |  WVMS      |            |             |           |            | GMAO        |
 | 33  |   TES      |            |             |           |            | MOD         |
 | 34  | LIS        |            |             |           |            | IPCC        |
-| 35  |            |            |             |           |            | ASM         |
-| 36  |            |            |             |           |            | TMF         |
-| 37  |            |            |             |           |            | NCEP        |
+| 35  | HALOE      |            |             |           |            | ASM         |
+| 36  | AVHRR      |            |             |           |            | TMF         |
+| 37  | ATMOS      |            |             |           |            | NCEP        |
 | 38  |            |            |             |           |            | FUB         |
 | 39  |            |            |             |           |            | ECMWF       |
 | 40  |            |            |             |           |            | TOVS        |
@@ -71,7 +71,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 67  |            |            |             |           |            | AquaVIT     |
 | 68  |            |            |             |           |            | CALIPSO     |
 | 69  |            |            |             |           |            | WACCM       |
-| 70  |            |            |             |           |            | HALOE       |
+| 70  |            |            |             |           |            | NAVDAS      |
 | 71  |            |            |             |           |            | GFAS        |
 | 72  |            |            |             |           |            | NWP         |
 | 73  |            |            |             |           |            | MACCII      |
@@ -92,7 +92,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 88  |            |            |             |           |            | SBUV2       |
 | 89  |            |            |             |           |            | SEA         |
 | 90  |            |            |             |           |            | Q2DW        |
-| 91  |            |            |             |           |            | MSLP        |
+| 91  |            |            |             |           |            | MSLP           |
 | 92  |            |            |             |           |            | EESC        |
 | 93  |            |            |             |           |            | GHG         |
 | 94  |            |            |             |           |            | PBL         |
@@ -122,9 +122,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  GWPE       |
 | 98  |            |            |             |           |            |  FITEXY     |
 | 98  |            |            |             |           |            |  RMSD       |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  EEOF       |
+| 98  |            |            |             |           |            |  ERA-40     |
+| 98  |            |            |             |           |            |  HITRAN     |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
