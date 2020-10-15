@@ -3,8 +3,8 @@ import json
 
 nlp = spacy.load("/Users/shaya/Desktop/Git/shayanaimi/IMaSC/IMaSC")
 # doc = nlp("/Users/shaya/Desktop/Git/shayanaimi/IMaSC/data/microwave_limb_sounder/validation_set.jsonl")
-non_annotated_source = open("data/microwave_limb_sounder/validation_set.jsonl")
-annotated_source = open("shaya_validate_test.jsonl")
+non_annotated_source = open("/Users/shaya/Desktop/Git/shayanaimi/IMaSC/data/microwave_limb_sounder/validation_set.jsonl")
+annotated_source = open("/Users/shaya/Desktop/Git/shayanaimi/IMaSC/shaya_validate_test.jsonl")
 guesses = set()
 truths = set()
 lineNum = 0

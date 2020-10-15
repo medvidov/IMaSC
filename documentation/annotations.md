@@ -3,7 +3,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | Row | Instrument | Spacecraft | Experiments | Models    | Algorithms | Other       |
 |-----|------------|------------|-------------|-----------|------------|-------------|
 | 1   | MLS        | ƒ       | ACE         | SOCOL-AER |            | NLC         |
-| 2   | SMR        | AURA       | AVE         | eEOSCCM   |            | WMO         |
+| 2   | SMR        | AURA       | AVE         | eEOSCCM   | WFDOAS     | WMO         |
 | 3   | ACE-FTS    | Envisat    |             | SIC       |            | CPH         |
 | 4   | SCIAMACHY  | UARS       |             | EMAC      |            | COH         |
 | 5   | MIPAS      | NOAA       |             | COSMO     |            | ENSO        |
@@ -15,7 +15,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 11  | OSIRIS     |            |             | GEOSCCM   |            | SCIAVISIE   |
 | 12  | CLAES      |            |             | NOGAPS    |            | STOIC       |
 | 13  | CALIOP     |            |             | AGCM      |            | QBO         |
-| 14  | TOMS       |            |             |           |            | MESSy       |
+| 14  | TOMS       |            |             | CMAM      |            | MESSy       |
 | 15  | MODIS      |            |             |           |            | GW          |
 | 16  | OMI        |            |             |           |            | AOD         |
 | 17  | EOS        |            |             |           |            | NCSU        |
@@ -39,14 +39,14 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 35  | HALOE      |            |             |           |            | ASM         |
 | 36  | AVHRR      |            |             |           |            | TMF         |
 | 37  | ATMOS      |            |             |           |            | NCEP        |
-| 38  |            |            |             |           |            | FUB         |
-| 39  |            |            |             |           |            | ECMWF       |
-| 40  |            |            |             |           |            | TOVS        |
-| 41  |            |            |             |           |            | TOMCAT      |
-| 42  |            |            |             |           |            | pTOMCAT     |
-| 43  |            |            |             |           |            | OSLO CTM2   |
-| 44  |            |            |             |           |            | FRSGCUCI    |
-| 45  |            |            |             |           |            | UM-UCAM     |
+| 38  | POAM       |            |             |           |            | FUB         |
+| 39  | LIMS       |            |             |           |            | ECMWF       |
+| 40  | CALIPSO    |            |             |           |            | TOVS        |
+| 41  | RAM        |            |             |           |            | TOMCAT      |
+| 42  | SUSIM      |            |             |           |            | pTOMCAT     |
+| 43  | GEMS       |            |             |           |            | OSLO CTM2   |
+| 44  | ILAS       |            |             |           |            | FRSGCUCI    |
+| 45  | ISAMS      |            |             |           |            | UM-UCAM     |
 | 46  |            |            |             |           |            | CATT-BRAMS  |
 | 47  |            |            |             |           |            | UMUKCA UCAM |
 | 48  |            |            |             |           |            | WRF         |
@@ -69,7 +69,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 65  |            |            |             |           |            | UKMO        |
 | 66  |            |            |             |           |            | MST         |
 | 67  |            |            |             |           |            | AquaVIT     |
-| 68  |            |            |             |           |            | CALIPSO     |
+| 68  |            |            |             |           |            |             |
 | 69  |            |            |             |           |            | WACCM       |
 | 70  |            |            |             |           |            | NAVDAS      |
 | 71  |            |            |             |           |            | GFAS        |
@@ -88,7 +88,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 84  |            |            |             |           |            | MPV         |
 | 85  |            |            |             |           |            | LST         |
 | 86  |            |            |             |           |            | ExTL        |
-| 87  |            |            |             |           |            | POAM        |
+| 87  |            |            |             |           |            | IWP     |
 | 88  |            |            |             |           |            | SBUV2       |
 | 89  |            |            |             |           |            | SEA         |
 | 90  |            |            |             |           |            | Q2DW        |
@@ -125,11 +125,11 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  EEOF       |
 | 98  |            |            |             |           |            |  ERA-40     |
 | 98  |            |            |             |           |            |  HITRAN     |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  PDO        |
+| 98  |            |            |             |           |            |  ISCCP      |
+| 98  |            |            |             |           |            |  COSMIC     |
+| 98  |            |            |             |           |            |  MERRA      |
+| 98  |            |            |             |           |            |  GOZCARDS   |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
