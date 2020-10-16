@@ -47,9 +47,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 43  | GEMS       |            |             |           |            | OSLO CTM2   |
 | 44  | ILAS       |            |             |           |            | FRSGCUCI    |
 | 45  | ISAMS      |            |             |           |            | UM-UCAM     |
-| 46  |            |            |             |           |            | CATT-BRAMS  |
-| 47  |            |            |             |           |            | UMUKCA UCAM |
-| 48  |            |            |             |           |            | WRF         |
+| 46  | MOPITT     |            |             |           |            | CATT-BRAMS  |
+| 47  | SOLSTICE   |            |             |           |            | UMUKCA UCAM |
+| 48  | NRL        |            |             |           |            | WRF         |
 | 49  |            |            |             |           |            | CRE         |
 | 50  |            |            |             |           |            | VMR         |
 | 51  |            |            |             |           |            | Replay      |
@@ -69,7 +69,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 65  |            |            |             |           |            | UKMO        |
 | 66  |            |            |             |           |            | MST         |
 | 67  |            |            |             |           |            | AquaVIT     |
-| 68  |            |            |             |           |            |             |
+| 68  |            |            |             |           |            | OMS         |
 | 69  |            |            |             |           |            | WACCM       |
 | 70  |            |            |             |           |            | NAVDAS      |
 | 71  |            |            |             |           |            | GFAS        |
@@ -130,9 +130,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  COSMIC     |
 | 98  |            |            |             |           |            |  MERRA      |
 | 98  |            |            |             |           |            |  GOZCARDS   |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  NNORSY     |
+| 98  |            |            |             |           |            |  SPARC      |
+| 98  |            |            |             |           |            |  CLAMS      |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
