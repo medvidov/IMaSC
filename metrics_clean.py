@@ -12,87 +12,97 @@ class Metrics:
         self.fn = 0.0
         self.truths = set()
         self.guesses = set()
-        self.numTruths = 0
+        self.num_truths = 0
         self.accuracy = 0.0
         self.recall = 0.0
         self.f1 = 0.0
         self.precision = 0.0
 
-    def readTruths(self, label):
-        #reads through annotated data and documents
-        self.numTruths = 0
+    def _read_truths(self, label):
+        #reads through annotated data and documents, pulls out "true" labels
+        self.num_truths = 0
         for line in self.data_annotated:
-            self.numTruths += 1
+            self.num_truths += 1
             j = json.loads(line)
             if 'spans' not in j:
                 continue
             for span in j['spans']:
                 if label == None or label == span["label"]:
-                    self.truths.add((self.numTruths, span["start"], span["end"], span["label"]))
+                    self.truths.add((self.num_truths, span["start"], span["end"], span["label"]))
 
-    def makeGuesses(self, label):
-        if self.numTruths == 0:
+    def _make_guesses(self, label):
+        #runs model on non-annotated data, stores model's guesses of labels
+        if self.num_truths == 0:
             print("Has not read annotated data yet")
             return
-        guessLineNum = 0
+        guess_line_num = 0
         for line in self.data_raw:
-            guessLineNum += 1
+            guess_line_num += 1
             j = json.loads(line)
             doc = self.nlp(j["text"])
             for ent in doc.ents:
                 if label == None or label == ent.label_:
-                    self.guesses.add((guessLineNum, ent.start_char, ent.end_char, ent.label_))
-            if guessLineNum == self.numTruths:
+                    self.guesses.add((guess_line_num, ent.start_char, ent.end_char, ent.label_))
+            if guess_line_num == self.num_truths:
                 break
 
-    def calcTp(self):
+    def _calc_tp(self):
+        #calculates number of true positives
         self.tp += len(self.guesses.intersection(self.truths))
 
-    def calcFp(self):
+    def _calc_fp(self):
+        #calculates number of false positives
         self.fp += len(self.guesses - self.truths)
 
-    def calcFn(self):
+    def _calc_fn(self):
+        #calculates number of false negatives
         self.fn += len(self.truths - self.guesses)
 
-    def calcRecall(self):
+    def _calc_recall(self):
+        #calculates recall, a measure of true positives over predicted results
         self.recall = self.tp / (self.tp + self.fn)
 
-    def calcPrecision(self):
+    def _calc_precision(self):
+        #calculates precision, a measure of true positives over total actual results
         self.precision = self.tp / (self.tp + self.fp)
 
-    def calcF1(self):
+    def _calc_f1(self):
+        #calculates F1 score, "ultimate" measure of accuracy
         self.f1 = 2*(self.recall * self.precision) / (self.recall + self.precision)
 
-    def calcAllMetrics(self):
-        self.calcTp()
-        self.calcFp()
-        self.calcFn()
-        self.calcRecall()
-        self.calcPrecision()
-        self.calcF1()
+    def calc_all_metrics(self):
+        #after truths have been read and guesses have been made (self.truths and self.guesses are populated), calculates all metrics
+        self._calc_tp()
+        self._calc_fp()
+        self._calc_fn()
+        self._calc_recall()
+        self._calc_precision()
+        self._calc_f1()
 
-    def displayMetrics(self):
+    def display_metrics(self):
+        #after all  metrics have been calculated, displays PRF
         print("Precision: ", round(self.precision, 2))
         print("Recall: ", round(self.recall, 2))
         print("F1: ", round(self.f1, 2))
 
 
-    def doEverything(self, label = None):
+    def calculate(self, label = None):
+        #does "everything" - reads all data then calculates and displays metrics
         print("-------------------")
         if label == None:
             print("Displaying metrics for INSTRUMENT and SPACECRAFT")
         else:
             print("Displaying metrics for", label)
-        self.readTruths(label)
-        self.makeGuesses(label)
-        self.calcAllMetrics()
-        self.displayMetrics()
+        self._read_truths(label)
+        self._make_guesses(label)
+        self.calc_all_metrics()
+        self.display_metrics()
         print("-------------------")
 
 
 m1 = Metrics()
 m2 = Metrics()
 m3 = Metrics()
-m1.doEverything("SPACECRAFT")
-m2.doEverything("INSTRUMENT")
-m3.doEverything()
+m1.calculate("SPACECRAFT")
+m2.calculate("INSTRUMENT")
+m3.calculate()

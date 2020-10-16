@@ -11,8 +11,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 7   | IASI       | GOES       |             | CM12      |            | KNMI        |
 | 8   | HWV        | CloudSat   |             | ECHAM4    |            | PSC         |
 | 9   | CFH        |  Meteosat  |             | SLIMCAT   |            | CIRES       |
-| 10  | JLH        |            |             | GMI       |            | KNM         |
-| 11  | OSIRIS     |            |             | GEOSCCM   |            | SCIAVISIE   |
+| 10  | JLH        | POES       |             | GMI       |            | KNM         |
+| 11  | OSIRIS     | TIMED      |             | GEOSCCM   |            | SCIAVISIE   |
 | 12  | CLAES      |            |             | NOGAPS    |            | STOIC       |
 | 13  | CALIOP     |            |             | AGCM      |            | QBO         |
 | 14  | TOMS       |            |             | CMAM      |            | MESSy       |
@@ -50,11 +50,11 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 46  | MOPITT     |            |             |           |            | CATT-BRAMS  |
 | 47  | SOLSTICE   |            |             |           |            | UMUKCA UCAM |
 | 48  | NRL        |            |             |           |            | WRF         |
-| 49  |            |            |             |           |            | CRE         |
+| 49  | SABER      |            |             |           |            | CRE         |
 | 50  |            |            |             |           |            | VMR         |
 | 51  |            |            |             |           |            | Replay      |
 | 52  |            |            |             |           |            | VITA        |
-| 53  |            |            |             |           |            | SABER       |
+| 53  |            |            |             |           |            |             |
 | 54  |            |            |             |           |            | CPT         |
 | 55  |            |            |             |           |            | TTL         |
 | 56  |            |            |             |           |            | SWV         |
