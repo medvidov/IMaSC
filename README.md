@@ -10,7 +10,7 @@ Available datasets can be found in the `data` directory. The `microwave_limb_sou
 
 ### Generating datasets
 
-To generate training, validation, and testing sets, run 'parser.py' with default inputs. This will generate the three files `training_set.jsonl` , `validation_set.jsonl` , and `testing_set.jsonl` in the 
+To generate training, validation, and testing sets, run `parser.py` with default inputs. This will generate the three files `training_set.jsonl` , `validation_set.jsonl` , and `testing_set.jsonl` in the 
 `data/microwave_limb_sounder` directory.
 
 ### Using Prodigy
