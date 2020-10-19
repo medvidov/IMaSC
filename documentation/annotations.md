@@ -13,7 +13,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 9   | CFH        |  Meteosat  |             | SLIMCAT   |            | CIRES       |
 | 10  | JLH        | POES       |             | GMI       |            | KNM         |
 | 11  | OSIRIS     | TIMED      |             | GEOSCCM   |            | SCIAVISIE   |
-| 12  | CLAES      |            |             | NOGAPS    |            | STOIC       |
+| 12  | CLAES      |  COSMIC    |             | NOGAPS    |            | STOIC       |
 | 13  | CALIOP     |            |             | AGCM      |            | QBO         |
 | 14  | TOMS       |            |             | CMAM      |            | MESSy       |
 | 15  | MODIS      |            |             |           |            | GW          |
@@ -51,10 +51,10 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 47  | SOLSTICE   |            |             |           |            | UMUKCA UCAM |
 | 48  | NRL        |            |             |           |            | WRF         |
 | 49  | SABER      |            |             |           |            | CRE         |
-| 50  |            |            |             |           |            | VMR         |
-| 51  |            |            |             |           |            | Replay      |
-| 52  |            |            |             |           |            | VITA        |
-| 53  |            |            |             |           |            |             |
+| 50  | SBUV2      |            |             |           |            | VMR         |
+| 51  | MIAWARA    |            |             |           |            | Replay      |
+| 52  | AROTAL     |            |             |           |            | VITA        |
+| 53  | SPIRALE    |            |             |           |            |             |
 | 54  |            |            |             |           |            | CPT         |
 | 55  |            |            |             |           |            | TTL         |
 | 56  |            |            |             |           |            | SWV         |
@@ -89,7 +89,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 85  |            |            |             |           |            | LST         |
 | 86  |            |            |             |           |            | ExTL        |
 | 87  |            |            |             |           |            | IWP     |
-| 88  |            |            |             |           |            | SBUV2       |
+| 88  |            |            |             |           |            |      |
 | 89  |            |            |             |           |            | SEA         |
 | 90  |            |            |             |           |            | Q2DW        |
 | 91  |            |            |             |           |            | MSLP           |
@@ -127,7 +127,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  HITRAN     |
 | 98  |            |            |             |           |            |  PDO        |
 | 98  |            |            |             |           |            |  ISCCP      |
-| 98  |            |            |             |           |            |  COSMIC     |
+| 98  |            |            |             |           |            |       |
 | 98  |            |            |             |           |            |  MERRA      |
 | 98  |            |            |             |           |            |  GOZCARDS   |
 | 98  |            |            |             |           |            |  NNORSY     |

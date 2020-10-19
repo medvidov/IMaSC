@@ -32,7 +32,7 @@ Prodigy will automatically apply the annotation.
 and click the "X".
 
 * Once you have finished annotating a piece of text (you may not need to annotate anything), 
-
+ 
 click the green check mark. If a piece of text is not appropriate for annotation, 
 click the grey no symbol to skip it.
 

@@ -5,6 +5,8 @@ import json
 class Metrics:
     def __init__(self, model_path = "IMaSC", annotated_path = "shaya_validate_test.jsonl", raw_path = "data/microwave_limb_sounder/validation_set.jsonl"):
         self.nlp = spacy.load(model_path)
+        self.annotated_path = annotated_path
+        self.raw_path = raw_path
         self.data_annotated = open(annotated_path)
         self.data_raw = open(raw_path)
         self.tp = 0.0
@@ -18,6 +20,20 @@ class Metrics:
         self.f1 = 0.0
         self.precision = 0.0
 
+    def _reset_data(self):
+        self.tp = 0.0
+        self.fp = 0.0
+        self.fn = 0.0
+        self.truths = set()
+        self.guesses = set()
+        self.num_truths = 0
+        self.accuracy = 0.0
+        self.recall = 0.0
+        self.f1 = 0.0
+        self.precision = 0.0
+        self.data_annotated = open(self.annotated_path)
+        self.data_raw = open(self.raw_path)
+
     def _read_truths(self, label):
         #reads through annotated data and documents, pulls out "true" labels
         self.num_truths = 0
@@ -29,6 +45,7 @@ class Metrics:
             for span in j['spans']:
                 if label == None or label == span["label"]:
                     self.truths.add((self.num_truths, span["start"], span["end"], span["label"]))
+
 
     def _make_guesses(self, label):
         #runs model on non-annotated data, stores model's guesses of labels
@@ -97,12 +114,11 @@ class Metrics:
         self._make_guesses(label)
         self.calc_all_metrics()
         self.display_metrics()
+        self._reset_data()
         print("-------------------")
 
 
 m1 = Metrics()
-m2 = Metrics()
-m3 = Metrics()
 m1.calculate("SPACECRAFT")
-m2.calculate("INSTRUMENT")
-m3.calculate()
+m1.calculate("INSTRUMENT")
+m1.calculate()
