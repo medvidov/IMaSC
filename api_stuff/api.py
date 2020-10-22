@@ -3,8 +3,8 @@ import spacy
 
 app = Flask(__name__)
 
-nlp = spacy.load('/Users/shaya/Desktop/Git/medvidov/IMaSC/IMaSC')
-
+#nlp = spacy.load('/Users/shaya/Desktop/Git/medvidov/IMaSC/IMaSC')
+nlp = spacy.load('../IMaSC')
 
 @app.route('/special/<int:number>/')
 def incrementer(number):
@@ -25,7 +25,7 @@ def poop():
     guesses = ""
     doc = nlp(user_input)
     for ent in doc.ents:
-        guesses += ent.text + " " +  ent.label_ + "\n"
+        guesses += ent.text + ": " +  ent.label_ + ", \n"
     return guesses
 
 @app.before_request
