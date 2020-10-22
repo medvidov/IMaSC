@@ -14,11 +14,11 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 10  | JLH        | POES       |             | GMI       |            | KNM         |
 | 11  | OSIRIS     | TIMED      |             | GEOSCCM   |            | SCIAVISIE   |
 | 12  | CLAES      |  COSMIC    |             | NOGAPS    |            | STOIC       |
-| 13  | CALIOP     |            |             | AGCM      |            | QBO         |
-| 14  | TOMS       |            |             | CMAM      |            | MESSy       |
-| 15  | MODIS      |            |             |           |            | GW          |
-| 16  | OMI        |            |             |           |            | AOD         |
-| 17  | EOS        |            |             |           |            | NCSU        |
+| 13  | CALIOP     |  EOS       |             | AGCM      |            | QBO         |
+| 14  | TOMS       |  CHAMP     |             | CMAM      |            | ƒ       |
+| 15  | MODIS      |            |             |  CTM      |            | GW          |
+| 16  | OMI        |            |             | MOCAGE    |            | AOD         |
+| 17  | CERES      |            |             |           |            | NCSU        |
 | 18  | OPC        |            |             |           |            | EPA         |
 | 19  | AIS        |            |             |           |            |   NDACC     |
 | 20  | GFAS       |            |             |           |            | MIM         |
@@ -55,9 +55,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 51  | MIAWARA    |            |             |           |            | Replay      |
 | 52  | AROTAL     |            |             |           |            | VITA        |
 | 53  | SPIRALE    |            |             |           |            |             |
-| 54  |            |            |             |           |            | CPT         |
-| 55  |            |            |             |           |            | TTL         |
-| 56  |            |            |             |           |            | SWV         |
+| 54  | GOMOS      |            |             |           |            | CPT         |
+| 55  | GBMS       |            |             |           |            | TTL         |
+| 56  | HIRDLS     |            |             |           |            | SWV         |
 | 57  |            |            |             |           |            | GBNP        |
 | 58  |            |            |             |           |            | SPARC       |
 | 59  |            |            |             |           |            | CNRS/INSU   |
@@ -113,8 +113,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | NRT         |
 | 98  |            |            |             |           |            | MAHRSI      |
 | 98  |            |            |             |           |            | ISO         |
-| 98  |            |            |             |           |            | GOMOS       |
-| 98  |            |            |             |           |            | GOME        |
+| 98  |            |            |             |           |            |              |
+| 98  |            |            |             |           |            |        |
 | 98  |            |            |             |           |            | GOME-2      |
 | 98  |            |            |             |           |            | ACE-MAESTRO |
 | 98  |            |            |             |           |            | EASOE       |
@@ -133,7 +133,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  NNORSY     |
 | 98  |            |            |             |           |            |  SPARC      |
 | 98  |            |            |             |           |            |  CLAMS      |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  TEC        |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
