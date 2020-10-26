@@ -18,7 +18,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 14  | TOMS       |  CHAMP     |             | CMAM      |            | ƒ       |
 | 15  | MODIS      |            |             |  CTM      |            | GW          |
 | 16  | OMI        |            |             | MOCAGE    |            | AOD         |
-| 17  | CERES      |            |             |           |            | NCSU        |
+| 17  | CERES      |            |             | MESSy     |            | NCSU        |
 | 18  | OPC        |            |             |           |            | EPA         |
 | 19  | AIS        |            |             |           |            |   NDACC     |
 | 20  | GFAS       |            |             |           |            | MIM         |
@@ -58,9 +58,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 54  | GOMOS      |            |             |           |            | CPT         |
 | 55  | GBMS       |            |             |           |            | TTL         |
 | 56  | HIRDLS     |            |             |           |            | SWV         |
-| 57  |            |            |             |           |            | GBNP        |
-| 58  |            |            |             |           |            | SPARC       |
-| 59  |            |            |             |           |            | CNRS/INSU   |
+| 57  | FIRS-2     |            |             |           |            | GBNP        |
+| 58  | MAESTRO    |            |             |           |            | SPARC       |
+| 59  | SME        |            |             |           |            | CNRS/INSU   |
 | 60  |            |            |             |           |            | SWIFT       |
 | 61  |            |            |             |           |            | SAGE II     |
 | 62  |            |            |             |           |            | AVE         |
@@ -113,8 +113,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | NRT         |
 | 98  |            |            |             |           |            | MAHRSI      |
 | 98  |            |            |             |           |            | ISO         |
-| 98  |            |            |             |           |            |              |
-| 98  |            |            |             |           |            |        |
+| 98  |            |            |             |           |            | SCIATRAN    |
+| 98  |            |            |             |           |            | ARTS        |
 | 98  |            |            |             |           |            | GOME-2      |
 | 98  |            |            |             |           |            | ACE-MAESTRO |
 | 98  |            |            |             |           |            | EASOE       |
