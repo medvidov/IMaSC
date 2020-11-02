@@ -19,8 +19,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 15  | MODIS      |            |             |  CTM      |            | GW          |
 | 16  | OMI        |            |             | MOCAGE    |            | AOD         |
 | 17  | CERES      |            |             | MESSy     |            | NCSU        |
-| 18  | OPC        |            |             |           |            | EPA         |
-| 19  | AIS        |            |             |           |            |   NDACC     |
+| 18  | OPC        |            |             | NAVGEM    |            | EPA         |
+| 19  | AIS        |            |             | HIRLAM    |            |   NDACC     |
 | 20  | GFAS       |            |             |           |            | MIM         |
 | 21  | CLAES      |            |             |           |            | FRP         |
 | 22  | SHIMMER    |            |             |           |            | LWP         |
@@ -33,7 +33,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 29  |SMILES      |            |             |           |            | CF          |
 | 30  | MWR        |            |             |           |            | IMK         |
 | 31  |  AIRS      |            |             |           |            | IAA         |
-| 32  |  WVMS      |            |             |           |            | GMAO        |
+| 32  |            |            |             |           |            | GMAO        |
 | 33  |   TES      |            |             |           |            | MOD         |
 | 34  | LIS        |            |             |           |            | IPCC        |
 | 35  | HALOE      |            |             |           |            | ASM         |
@@ -54,20 +54,20 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 50  | SBUV2      |            |             |           |            | VMR         |
 | 51  | MIAWARA    |            |             |           |            | Replay      |
 | 52  | AROTAL     |            |             |           |            | VITA        |
-| 53  | SPIRALE    |            |             |           |            |             |
+| 53  | SPIRALE    |            |             |           |            | ASHOE/MAESA |
 | 54  | GOMOS      |            |             |           |            | CPT         |
 | 55  | GBMS       |            |             |           |            | TTL         |
 | 56  | HIRDLS     |            |             |           |            | SWV         |
 | 57  | FIRS-2     |            |             |           |            | GBNP        |
 | 58  | MAESTRO    |            |             |           |            | SPARC       |
 | 59  | SME        |            |             |           |            | CNRS/INSU   |
-| 60  |            |            |             |           |            | SWIFT       |
-| 61  |            |            |             |           |            | SAGE II     |
-| 62  |            |            |             |           |            | AVE         |
-| 63  |            |            |             |           |            | SSW         |
-| 64  |            |            |             |           |            | MLT         |
-| 65  |            |            |             |           |            | UKMO        |
-| 66  |            |            |             |           |            | MST         |
+| 60  | GMI        |            |             |           |            | SWIFT       |
+| 61  | WINDII     |            |             |           |            | SAGE II     |
+| 62  | ASUR       |            |             |           |            | AVE         |
+| 63  | MEPED      |            |             |           |            | SSW         |
+| 64  | TELIS      |            |             |           |            | MLT         |
+| 65  | CIWSIR     |            |             |           |            | UKMO        |
+| 66  | AMSU-B     |            |             |           |            | MST         |
 | 67  |            |            |             |           |            | AquaVIT     |
 | 68  |            |            |             |           |            | OMS         |
 | 69  |            |            |             |           |            | WACCM       |
@@ -98,7 +98,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 94  |            |            |             |           |            | PBL         |
 | 95  |            |            |             |           |            | FTIR        |
 | 96  |            |            |             |           |            | GMD         |
-| 97  |            |            |             |           |            | GMI         |
+| 97  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            | IWC         |
 | 98  |            |            |             |           |            | DJF         |
 | 98  |            |            |             |           |            | CAMS        |
