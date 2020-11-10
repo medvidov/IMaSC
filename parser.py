@@ -5,6 +5,8 @@ import codecs
 import numpy as np
 import re
 from re import search
+from tika import parser 
+
 
 # jsonl_source = path to a file that we will read from
 # jsonl_output = path to the file that we will write to
@@ -63,7 +65,7 @@ def shuffle_article_text(
     with open(article_text,'r') as source:
         data = [(np.random.rand(), line) for line in source]
         source.close()
-    
+
     # Sorts the data by the random number
     data.sort()
 
@@ -79,8 +81,8 @@ def shuffle_article_text(
         elif j >= len(data)*0.7 and j < len(data)*0.85:
             validation.write(data[j][1])
         else:
-            testing.write(data[j][1])  
-        
+            testing.write(data[j][1])
+
     training.close()
     validation.close()
     testing.close()
@@ -107,7 +109,7 @@ def remove_escapes(text):
     text = re.sub(r"\\", "", text) # Exact match for whatever \" is
 
     return text
-    
+
 # Executes the script
 if __name__ == "__main__":
     get_article_text()

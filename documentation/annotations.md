@@ -16,12 +16,12 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 12  | CLAES      |  COSMIC    |             | NOGAPS    |            | STOIC       |
 | 13  | CALIOP     |  EOS       |             | AGCM      |            | QBO         |
 | 14  | TOMS       |  CHAMP     |             | CMAM      |            | ƒ       |
-| 15  | MODIS      |            |             |  CTM      |            | GW          |
-| 16  | OMI        |            |             | MOCAGE    |            | AOD         |
-| 17  | CERES      |            |             | MESSy     |            | NCSU        |
+| 15  | MODIS      | AIM        |             |  CTM      |            | GW          |
+| 16  | OMI        | INSAT-3D   |             | MOCAGE    |            | AOD         |
+| 17  | CERES      | SAC-C      |             | MESSy     |            | NCSU        |
 | 18  | OPC        |            |             | NAVGEM    |            | EPA         |
 | 19  | AIS        |            |             | HIRLAM    |            |   NDACC     |
-| 20  | GFAS       |            |             |           |            | MIM         |
+| 20  | GFAS       |            |             | MIMOSA    |            | MIM         |
 | 21  | CLAES      |            |             |           |            | FRP         |
 | 22  | SHIMMER    |            |             |           |            | LWP         |
 | 23  | MAS        |            |             |           |            | EC          |
@@ -62,20 +62,20 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 58  | MAESTRO    |            |             |           |            | SPARC       |
 | 59  | SME        |            |             |           |            | CNRS/INSU   |
 | 60  | GMI        |            |             |           |            | SWIFT       |
-| 61  | WINDII     |            |             |           |            | SAGE II     |
+| 61  | WINDII     |            |             |           |            |             |
 | 62  | ASUR       |            |             |           |            | AVE         |
 | 63  | MEPED      |            |             |           |            | SSW         |
 | 64  | TELIS      |            |             |           |            | MLT         |
 | 65  | CIWSIR     |            |             |           |            | UKMO        |
 | 66  | AMSU-B     |            |             |           |            | MST         |
-| 67  |            |            |             |           |            | AquaVIT     |
-| 68  |            |            |             |           |            | OMS         |
-| 69  |            |            |             |           |            | WACCM       |
-| 70  |            |            |             |           |            | NAVDAS      |
-| 71  |            |            |             |           |            | GFAS        |
-| 72  |            |            |             |           |            | NWP         |
-| 73  |            |            |             |           |            | MACCII      |
-| 74  |            |            |             |           |            | GMES        |
+| 67  | SAGE II    |            |             |           |            | AquaVIT     |
+| 68  | HRDI       |            |             |           |            | OMS         |
+| 69  | KIMRA      |            |             |           |            | WACCM       |
+| 70  | URAP       |            |             |           |            | NAVDAS      |
+| 71  | MOZAIC     |            |             |           |            | GFAS        |
+| 72  | POLINAT    |            |             |           |            | NWP         |
+| 73  | ATLAS      |            |             |           |            | MACCII      |
+| 74  | FTIR       |            |             |           |            | GMES        |
 | 75  |            |            |             |           |            | DAS         |
 | 76  |            |            |             |           |            | MACC        |
 | 77  |            |            |             |           |            | SWOOSH      |
@@ -109,7 +109,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | VCD         |
 | 98  |            |            |             |           |            | LST         |
 | 98  |            |            |             |           |            | WB57F       |
-| 98  |            |            |             |           |            | MOZAIC      |
+| 98  |            |            |             |           |            |       |
 | 98  |            |            |             |           |            | NRT         |
 | 98  |            |            |             |           |            | MAHRSI      |
 | 98  |            |            |             |           |            | ISO         |
@@ -134,6 +134,32 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  SPARC      |
 | 98  |            |            |             |           |            |  CLAMS      |
 | 98  |            |            |             |           |            |  TEC        |
+| 98  |            |            |             |           |            |  UTWV       |
+| 98  |            |            |             |           |            |  ASM        |
+| 98  |            |            |             |           |            |  TTOR       |  
+| 98  |            |            |             |           |            |  OMPS       |
+| 98  |            |            |             |           |            |           
 | 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |           
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |             |
