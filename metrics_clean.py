@@ -1,13 +1,13 @@
 import spacy
 import json
-
+from utils import prodigy_to_spacy
 
 class Metrics:
-    def __init__(self, model_path = "IMaSC", annotated_path = "shaya_validate_test.jsonl", raw_path = "data/microwave_limb_sounder/validation_set.jsonl"):
+    def __init__(self, model_path: str = "IMaSC", annotated_path: str = "shaya_validate_test.jsonl", raw_path: str = "data/microwave_limb_sounder/validation_set.jsonl")-> None:
         self.nlp = spacy.load(model_path)
         self.annotated_path = annotated_path
         self.raw_path = raw_path
-        self.data_annotated = open(annotated_path)
+        self.data_annotated = prodigy_to_spacy(annotated_path)
         self.data_raw = open(raw_path)
         self.tp = 0.0
         self.fp = 0.0
@@ -20,7 +20,7 @@ class Metrics:
         self.f1 = 0.0
         self.precision = 0.0
 
-    def _reset_data(self):
+    def _reset_data(self) -> None:
         self.tp = 0.0
         self.fp = 0.0
         self.fn = 0.0
@@ -34,20 +34,22 @@ class Metrics:
         self.data_annotated = open(self.annotated_path)
         self.data_raw = open(self.raw_path)
 
-    def _read_truths(self, label):
+    def _read_truths(self, label: str)  -> None:
         #reads through annotated data and documents, pulls out "true" labels
         self.num_truths = 0
         for line in self.data_annotated:
             self.num_truths += 1
-            j = json.loads(line)
-            if 'spans' not in j:
+            j = line
+            #j = json.loads(line)
+            if 'entities' not in j[1]:
                 continue
-            for span in j['spans']:
-                if label == None or label == span["label"]:
-                    self.truths.add((self.num_truths, span["start"], span["end"], span["label"]))
+            for ent in j[1]['entities']:
+                if label == None or label == ent[2]:
+                    print(ent[0], ent[1], ent[2])
+                    print(j[0][ent[0]:ent[1]])
+                    self.truths.add((self.num_truths, ent[0], ent[1], ent[2]))
 
-
-    def _make_guesses(self, label):
+    def _make_guesses(self, label: str)  -> None:
         #runs model on non-annotated data, stores model's guesses of labels
         if self.num_truths == 0:
             print("Has not read annotated data yet")
@@ -59,51 +61,60 @@ class Metrics:
             doc = self.nlp(j["text"])
             for ent in doc.ents:
                 if label == None or label == ent.label_:
+                    print(ent.start_char, ent.end_char, ent.label_)
+                    print(ent.text)
                     self.guesses.add((guess_line_num, ent.start_char, ent.end_char, ent.label_))
             if guess_line_num == self.num_truths:
                 break
 
-    def _calc_tp(self):
+    def _calc_tp(self) -> None:
         #calculates number of true positives
         self.tp += len(self.guesses.intersection(self.truths))
 
-    def _calc_fp(self):
+    def _calc_fp(self) -> None:
         #calculates number of false positives
         self.fp += len(self.guesses - self.truths)
 
-    def _calc_fn(self):
+    def _calc_fn(self) -> None:
         #calculates number of false negatives
         self.fn += len(self.truths - self.guesses)
 
-    def _calc_recall(self):
+    def _calc_recall(self) -> None:
         #calculates recall, a measure of true positives over predicted results
         self.recall = self.tp / (self.tp + self.fn)
 
-    def _calc_precision(self):
+    def _calc_precision(self) -> None:
         #calculates precision, a measure of true positives over total actual results
         self.precision = self.tp / (self.tp + self.fp)
 
-    def _calc_f1(self):
+    def _calc_f1(self) -> None:
         #calculates F1 score, "ultimate" measure of accuracy
         self.f1 = 2*(self.recall * self.precision) / (self.recall + self.precision)
 
-    def calc_all_metrics(self):
+    def calc_all_metrics(self) -> None:
         #after truths have been read and guesses have been made (self.truths and self.guesses are populated), calculates all metrics
         self._calc_tp()
+        print(self.tp)
         self._calc_fp()
+        print(self.fp)
         self._calc_fn()
+        print(self.fn)
         self._calc_recall()
+        print(self.recall)
         self._calc_precision()
+        print(self.precision)
         self._calc_f1()
+        print(self.f1)
 
-    def display_metrics(self):
+
+    def display_metrics(self) -> None:
         #after all  metrics have been calculated, displays PRF
         print("Precision: ", round(self.precision, 2))
         print("Recall: ", round(self.recall, 2))
         print("F1: ", round(self.f1, 2))
 
 
-    def calculate(self, label = None):
+    def calculate(self, label: str = None) -> None:
         #does "everything" - reads all data then calculates and displays metrics
         print("-------------------")
         if label == None:
@@ -111,6 +122,7 @@ class Metrics:
         else:
             print("Displaying metrics for", label)
         self._read_truths(label)
+        print("-------------")
         self._make_guesses(label)
         self.calc_all_metrics()
         self.display_metrics()
