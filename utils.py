@@ -9,8 +9,9 @@ def prodigy_to_spacy(annotated_path: str):
         j = json.loads(eg)
         if j['answer'] == 'accept':
             if 'spans' not in j:
-                continue
-            entities = [(span['start'], span['end'], span['label'])
+                entities = []
+            else:
+                entities = [(span['start'], span['end'], span['label'])
                         for span in j['spans']]
             train_data.append((j['text'], {'entities': entities}))
     return train_data

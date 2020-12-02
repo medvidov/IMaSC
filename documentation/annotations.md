@@ -21,10 +21,10 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 17  | CERES      | SAC-C      |             | MESSy     |            | NCSU        |
 | 18  | OPC        | TRMM       |             | NAVGEM    |            | EPA         |
 | 19  | AIS        | Odin       |             | HIRLAM    |            |   NDACC     |
-| 20  | GFAS       |            |             | MIMOSA    |            | MIM         |
-| 21  | CLAES      |            |             | CIRA-86   |            | FRP         |
-| 22  | SHIMMER    |            |             | USMM      |            | LWP         |
-| 23  | MAS        |            |             |           |            | EC          |
+| 20  | GFAS       | IUE        |             | MIMOSA    |            | MIM         |
+| 21  | CLAES      | GEOS??     |             | CIRA-86   |            | FRP         |
+| 22  | SHIMMER    | Aqua       |             | USMM      |            | LWP         |
+| 23  | MAS        |            |             | BASCOE    |            | EC          |
 | 24  | DIAL       |            |             |           |            | NSD         |
 | 25  | TOVS       |            |             |           |            | SWDN        |
 | 26  |  SZA       |            |             |           |            | LWDN        |
@@ -33,7 +33,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 29   SMILES      |            |             |           |            | CF          |
 | 30  | MWR        |            |             |           |            | IMK         |
 | 31  |  AIRS      |            |             |           |            | IAA         |
-| 32  |            |            |             |           |            | GMAO        |
+| 32  | OTD        |            |             |           |            | GMAO        |
 | 33  |   TES      |            |             |           |            | MOD         |
 | 34  | LIS        |            |             |           |            | IPCC        |
 | 35  | HALOE      |            |             |           |            | ASM         |
@@ -73,7 +73,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 69  | KIMRA      |            |             |           |            | WACCM       |
 | 70  | URAP       |            |             |           |            | NAVDAS      |
 | 71  | MOZAIC     |            |             |           |            | GFAS        |
-| 72  | POLINAT    |            |             |           |            | NWP         |
+| 72  | POLINAT    |            |             |           |            | f         |
 | 73  | ATLAS      |            |             |           |            | MACCII      |
 | 74  | FTIR       |            |             |           |            | GMES        |
 | 75  | CRISTA1    |            |             |           |            | DAS         |
@@ -82,14 +82,14 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 78  | WVMS       |            |             |           |            | ODS         |
 | 79  | CAESR     |            |             |           |            | AC          |
 | 80  | SKiYMET    |            |             |           |            | PEMWA       |
-| 81  |            |            |             |           |            | PEMWB       |
-| 82  |            |            |             |           |            | ACCMIP      |
-| 83  |            |            |             |           |            | CCR         |
-| 84  |            |            |             |           |            | MPV         |
-| 85  |            |            |             |           |            | LST         |
-| 86  |            |            |             |           |            | ExTL        |
-| 87  |            |            |             |           |            | IWP     |
-| 88  |            |            |             |           |            | TWP     |
+| 81  | SAOZ       |            |             |           |            | PEMWB       |
+| 82  | MPL        |            |             |           |            | ACCMIP      |
+| 83  | MMCR       |            |             |           |            | CCR         |
+| 84  | SOFIE      |            |             |           |            | MPV         |
+| 85  | SAAMER     |            |             |           |            | LST         |
+| 86  | CrIS       |            |             |           |            | ExTL        |
+| 87  | SEVIRI     |            |             |           |            | IWP     |
+| 88  | CMDL       |            |             |           |            | TWP     |
 | 89  |            |            |             |           |            | SEA         |
 | 90  |            |            |             |           |            | Q2DW        |
 | 91  |            |            |             |           |            | MSLP           |
@@ -109,7 +109,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | VCD         |
 | 98  |            |            |             |           |            | LST         |
 | 98  |            |            |             |           |            | WB57F       |
-| 98  |            |            |             |           |            |       |
+| 98  |            |            |             |           |            | MACC      |
 | 98  |            |            |             |           |            | NRT         |
 | 98  |            |            |             |           |            | MAHRSI      |
 | 98  |            |            |             |           |            | ISO         |
@@ -127,7 +127,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  HITRAN     |
 | 98  |            |            |             |           |            |  PDO        |
 | 98  |            |            |             |           |            |  ISCCP      |
-| 98  |            |            |             |           |            |       |
+| 98  |            |            |             |           |            |  SOLVE     |
 | 98  |            |            |             |           |            |  MERRA      |
 | 98  |            |            |             |           |            |  GOZCARDS   |
 | 98  |            |            |             |           |            |  NNORSY     |
@@ -140,9 +140,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  OMPS       |
 | 98  |            |            |             |           |            |  MLO    
 | 98  |            |            |             |           |            |  MLP       |
-| 98  |            |            |             |           |            |           
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |  ARIS       
+| 98  |            |            |             |           |            |  GNSS       |
+| 98  |            |            |             |           |            |  EMIC    
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |           
 | 98  |            |            |             |           |            |             |
