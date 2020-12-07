@@ -2,7 +2,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 
 | Row | Instrument | Spacecraft | Experiments | Models    | Algorithms | Other       |
 |-----|------------|------------|-------------|-----------|------------|-------------|
-| 1   | MLS        | ƒ       | ACE         | SOCOL-AER |            | NLC         |
+| 1   | MLS        | ƒ          | ACE         | SOCOL-AER |            | NLC         |
 | 2   | SMR        | AURA       | AVE         | eEOSCCM   | WFDOAS     | WMO         |
 | 3   | ACE-FTS    | Envisat    |             | SIC       |            | CPH         |
 | 4   | SCIAMACHY  | UARS       |             | EMAC      |            | COH         |

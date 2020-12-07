@@ -10,9 +10,10 @@ import json
 import imblearn
 from utils import prodigy_to_spacy
 from metrics_clean import Metrics
+from tqdm import tqdm
 
 class PerformanceVsTraining:
-    def __init__(self, train_path: str = "training_annotations.jsonl", test_path: str = "shaya_validate_test.jsonl", label: list = ['INSTRUMENT', 'SPACECRAFT'], n:int = 10) -> None:
+    def __init__(self, n:int = 20, verbose:bool = False, train_path: str = "training_annotations.jsonl", test_path: str = "shaya_validate_test.jsonl", label: list = ['INSTRUMENT', 'SPACECRAFT']) -> None:
         #starters from parameters
         self.train_path = train_path
         self.train_file = None
@@ -25,6 +26,7 @@ class PerformanceVsTraining:
         self.metrics = Metrics("Baby", "shaya_validate_test.jsonl")
         self.t_vs_p = {}
         self.nlp = None
+        self.verbose = verbose
 
     def _reset_data(self) -> None:
         #reset all metrics things between rounds
@@ -56,7 +58,8 @@ class PerformanceVsTraining:
         n_iter = 100 #number of iterations. could make this customizable but I feel that it would be too messy
         #train model and save to self.nlp
         self.anns_this_round = i * self.anns_per_point
-        print("Training on '%s' annotations" % (self.anns_this_round))
+        if self.verbose:
+            print("Training on %s annotations" % (self.anns_this_round))
         count = 0
         train_data = []
         for line in self.train_file:
@@ -67,7 +70,6 @@ class PerformanceVsTraining:
         """Set up the pipeline and entity recognizer, and train the new entity."""
         random.seed(0)
         self.nlp = spacy.blank("en")  # create blank Language class
-        print("Created blank 'en' model")
         # Add entity recognizer to model if it's not in the pipeline
         # nlp.create_pipe works for built-ins that are registered with spaCy
         if "ner" not in self.nlp.pipe_names:
@@ -106,11 +108,10 @@ class PerformanceVsTraining:
             output_dir.mkdir()
         self.nlp.meta["name"] = "BabyModel"  # rename model
         self.nlp.to_disk(output_dir)
-        print("Saved model to", output_dir)
 
     def run_test(self):
         self._prep_data()
-        for i in range(1, self.num_data_points + 1):
+        for i in tqdm(range(1, self.num_data_points + 1)):
             self._train_one_round(i)
             f1 = self._run_metrics()
             self.t_vs_p[round(self.anns_this_round,3)] = round(f1, 3)
@@ -126,7 +127,7 @@ class PerformanceVsTraining:
 
 
 def main(model=None, new_model_name="imasc", output_dir="IMaSC", n_iter=100):
-    p = PerformanceVsTraining()
+    p = PerformanceVsTraining(100, True)
     p.run_test()
 
 if __name__ == "__main__":

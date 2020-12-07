@@ -1,6 +1,7 @@
 import spacy
 import json
 from utils import prodigy_to_spacy
+from tqdm import tqdm
 
 class Metrics:
     def __init__(self, model_path: str = "IMaSC", annotated_path: str = "shaya_validate_test.jsonl")-> None:
@@ -33,13 +34,19 @@ class Metrics:
         self.data_annotated = prodigy_to_spacy(self.annotated_path)
         self.nlp = spacy.load(self.model_path)
 
-    def _read_truths(self, label: str)  -> None:
-        #reads through annotated data and documents, pulls out "true" labels
-        self.num_truths = 0
-        for line in self.data_annotated:
-            self.num_truths += 1
+    def _guesses_truths(self, label:str) -> None:
+        guess_line_num = 0
+        for line in tqdm(self.data_annotated):
             j = line
-            #j = json.loads(line)
+            self.num_truths += 1
+            guess_line_num += 1
+            #make guesses
+            doc = self.nlp(j[0])
+            for ent in doc.ents:
+                if label == None or label == ent.label_:
+                    #print(ent.text, ent.start_char, ent.end_char, ent.label_)
+                    self.guesses.add((guess_line_num, ent.start_char, ent.end_char, ent.label_))
+            #read truths
             if 'entities' not in j[1]:
                 continue
             for ent in j[1]['entities']:
@@ -47,22 +54,37 @@ class Metrics:
                     #print(j[0][ent[0]:ent[1]], ent[0], ent[1], ent[2])
                     self.truths.add((self.num_truths, ent[0], ent[1], ent[2]))
 
-    def _make_guesses(self, label: str)  -> None:
-        #runs model on non-annotated data, stores model's guesses of labels
-        if self.num_truths == 0:
-            print("Has not read annotated data yet")
-            return
-        guess_line_num = 0
-        for line in self.data_annotated:
-            guess_line_num += 1
-            j = line
-            doc = self.nlp(j[0])
-            for ent in doc.ents:
-                if label == None or label == ent.label_:
-                    #print(ent.text, ent.start_char, ent.end_char, ent.label_)
-                    self.guesses.add((guess_line_num, ent.start_char, ent.end_char, ent.label_))
-            if guess_line_num == self.num_truths:
-                break
+
+    # def _read_truths(self, label: str)  -> None:
+    #     #reads through annotated data and documents, pulls out "true" labels
+    #     self.num_truths = 0
+    #     for line in self.data_annotated:
+    #         self.num_truths += 1
+    #         j = line
+    #         #j = json.loads(line)
+    #         if 'entities' not in j[1]:
+    #             continue
+    #         for ent in j[1]['entities']:
+    #             if label == None or label == ent[2]:
+    #                 #print(j[0][ent[0]:ent[1]], ent[0], ent[1], ent[2])
+    #                 self.truths.add((self.num_truths, ent[0], ent[1], ent[2]))
+    #
+    # def _make_guesses(self, label: str)  -> None:
+    #     #runs model on non-annotated data, stores model's guesses of labels
+    #     if self.num_truths == 0:
+    #         print("Has not read annotated data yet")
+    #         return
+    #     guess_line_num = 0
+    #     for line in self.data_annotated:
+    #         guess_line_num += 1
+    #         j = line
+    #         doc = self.nlp(j[0])
+    #         for ent in doc.ents:
+    #             if label == None or label == ent.label_:
+    #                 #print(ent.text, ent.start_char, ent.end_char, ent.label_)
+    #                 self.guesses.add((guess_line_num, ent.start_char, ent.end_char, ent.label_))
+    #         if guess_line_num == self.num_truths:
+    #             break
 
     def _calc_tp(self) -> None:
         #calculates number of true positives
@@ -106,17 +128,22 @@ class Metrics:
 
 
     def calculate(self, label: str = None) -> int:
+        self._reset_data()
         #does "everything" - reads all data then calculates and displays metrics
         print("-------------------")
         if label == None:
             print("Displaying metrics for INSTRUMENT and SPACECRAFT")
         else:
             print("Displaying metrics for", label)
-        self._read_truths(label)
-        print("-------------")
-        self._make_guesses(label)
+        # self._read_truths(label)
+        # print("-------------")
+        # self._make_guesses(label)
+        self._guesses_truths(label)
         self.calc_all_metrics()
         result = self.f1
-        self._reset_data()
         print("-------------------")
         return result
+
+m = Metrics()
+m.calculate()
+m.display_metrics()
