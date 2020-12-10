@@ -90,7 +90,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 86  | CrIS       |            |             |           |            | ExTL        |
 | 87  | SEVIRI     |            |             |           |            | IWP     |
 | 88  | CMDL       |            |             |           |            | TWP     |
-| 89  |            |            |             |           |            | SEA         |
+| 89  | GOME       |            |             |           |            | SEA         |
 | 90  |            |            |             |           |            | Q2DW        |
 | 91  |            |            |             |           |            | MSLP           |
 | 92  |            |            |             |           |            | EESC        |
@@ -98,7 +98,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 94  |            |            |             |           |            | PBL         |
 | 95  |            |            |             |           |            | FTIR        |
 | 96  |            |            |             |           |            | GMD         |
-| 97  |            |            |             |           |            | UTH            |
+| 97  |            |            |             |           |            | UTH                                        |
 | 98  |            |            |             |           |            | IWC         |
 | 98  |            |            |             |           |            | DJF         |
 | 98  |            |            |             |           |            | CAMS        |
@@ -115,7 +115,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | ISO         |
 | 98  |            |            |             |           |            | SCIATRAN    |
 | 98  |            |            |             |           |            | ARTS        |
-| 98  |            |            |             |           |            | GOME-2      |
+| 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            | ACE-MAESTRO |
 | 98  |            |            |             |           |            | EASOE       |
 | 98  |            |            |             |           |            |SHADOZ       |
@@ -143,8 +143,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  ARIS       
 | 98  |            |            |             |           |            |  GNSS       |
 | 98  |            |            |             |           |            |  EMIC    
-| 98  |            |            |             |           |            |             |
-| 98  |            |            |             |           |            |           
+| 98  |            |            |             |           |            |  POLARIS    |
+| 98  |            |            |             |           |            |  HOPE     
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |           
 | 98  |            |            |             |           |            |             |

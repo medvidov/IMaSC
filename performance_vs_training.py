@@ -126,7 +126,7 @@ class PerformanceVsTraining:
 # )
 
 
-def main(model=None, new_model_name="imasc", output_dir="IMaSC", n_iter=100):
+def main():
     p = PerformanceVsTraining(100, True)
     p.run_test()
 
