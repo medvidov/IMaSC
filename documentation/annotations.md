@@ -115,7 +115,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | ISO         |
 | 98  |            |            |             |           |            | SCIATRAN    |
 | 98  |            |            |             |           |            | ARTS        |
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            | ARL         |
 | 98  |            |            |             |           |            | ACE-MAESTRO |
 | 98  |            |            |             |           |            | EASOE       |
 | 98  |            |            |             |           |            |SHADOZ       |
