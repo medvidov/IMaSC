@@ -18,15 +18,15 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 14  | TOMS       |  CHAMP     |             | CMAM      |            | ƒ       |
 | 15  | MODIS      | AIM        |             |  CTM      |            | GW          |
 | 16  | OMI        | INSAT-3D   |             | MOCAGE    |            | AOD         |
-| 17  | CERES      | SAC-C      |             | MESSy     |            | NCSU        |
+| 17  |            | SAC-C      |             | MESSy     |            | NCSU        |
 | 18  | OPC        | TRMM       |             | NAVGEM    |            | EPA         |
 | 19  | AIS        | Odin       |             | HIRLAM    |            |   NDACC     |
 | 20  | GFAS       | IUE        |             | MIMOSA    |            | MIM         |
 | 21  | CLAES      | GEOS??     |             | CIRA-86   |            | FRP         |
 | 22  | SHIMMER    | Aqua       |             | USMM      |            | LWP         |
 | 23  | MAS        |            |             | BASCOE    |            | EC          |
-| 24  | DIAL       |            |             |           |            | NSD         |
-| 25  | TOVS       |            |             |           |            | SWDN        |
+| 24  | DIAL       |            |             | MOZART    |            | NSD         |
+| 25  | TOVS       |            |             | LABOS     |            | SWDN        |
 | 26  |  SZA       |            |             |           |            | LWDN        |
 | 27  |CPR         |            |             |           |            | OLR         |
 | 28  | RPW        |            |             |           |            | PWV         |
@@ -91,12 +91,12 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 87  | SEVIRI     |            |             |           |            | IWP     |
 | 88  | CMDL       |            |             |           |            | TWP     |
 | 89  | GOME       |            |             |           |            | SEA         |
-| 90  |            |            |             |           |            | Q2DW        |
-| 91  |            |            |             |           |            | MSLP           |
-| 92  |            |            |             |           |            | EESC        |
+| 90  | MAHRSI     |            |             |           |            | Q2DW        |
+| 91  | CARMA      |            |             |           |            | MSLP           |
+| 92  | OMPS       |            |             |           |            | EESC        |
 | 93  |            |            |             |           |            | GHG         |
 | 94  |            |            |             |           |            | PBL         |
-| 95  |            |            |             |           |            | FTIR        |
+| 95  |            |            |             |           |            |         |
 | 96  |            |            |             |           |            | GMD         |
 | 97  |            |            |             |           |            | UTH                                        |
 | 98  |            |            |             |           |            | IWC         |
@@ -111,7 +111,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | WB57F       |
 | 98  |            |            |             |           |            | MACC      |
 | 98  |            |            |             |           |            | NRT         |
-| 98  |            |            |             |           |            | MAHRSI      |
+| 98  |            |            |             |           |            |       |
 | 98  |            |            |             |           |            | ISO         |
 | 98  |            |            |             |           |            | SCIATRAN    |
 | 98  |            |            |             |           |            | ARTS        |
@@ -137,7 +137,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  UTWV       |
 | 98  |            |            |             |           |            |  ASM        |
 | 98  |            |            |             |           |            |  TTOR       |  
-| 98  |            |            |             |           |            |  OMPS       |
+| 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |  MLO    
 | 98  |            |            |             |           |            |  MLP       |
 | 98  |            |            |             |           |            |  ARIS       
@@ -145,7 +145,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  EMIC    
 | 98  |            |            |             |           |            |  POLARIS    |
 | 98  |            |            |             |           |            |  HOPE     
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  JRA        |
 | 98  |            |            |             |           |            |           
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |           
