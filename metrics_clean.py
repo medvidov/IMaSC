@@ -144,6 +144,6 @@ class Metrics:
         print("-------------------")
         return result
 
-# m = Metrics()
-# m.calculate()
-# m.display_metrics()
+m = Metrics()
+m.calculate()
+m.display_metrics()
