@@ -3,6 +3,7 @@ import json
 from collections import defaultdict
 import pprint
 
+
 # Number of alternate analyses to consider. More is slower, and not necessarily better -- you need to experiment on your problem.
 beam_width = 16
 # This clips solutions at each step. We multiply the score of the top-ranked action by this value, and use the result as a threshold. This prevents the parser from exploring options that look very unlikely, saving a bit of efficiency. Accuracy may also improve, because we've trained on greedy objective.

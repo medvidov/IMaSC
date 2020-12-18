@@ -94,8 +94,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 90  | MAHRSI     |            |             |           |            | Q2DW        |
 | 91  | CARMA      |            |             |           |            | MSLP           |
 | 92  | OMPS       |            |             |           |            | EESC        |
-| 93  |            |            |             |           |            | GHG         |
-| 94  |            |            |             |           |            | PBL         |
+| 93  | HSB        |            |             |           |            | GHG         |
+| 94  | ISR        |            |             |           |            | PBL         |
 | 95  |            |            |             |           |            |         |
 | 96  |            |            |             |           |            | GMD         |
 | 97  |            |            |             |           |            | UTH                                        |
