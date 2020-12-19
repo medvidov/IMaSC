@@ -111,7 +111,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            | WB57F       |
 | 98  |            |            |             |           |            | MACC      |
 | 98  |            |            |             |           |            | NRT         |
-| 98  |            |            |             |           |            |       |
+| 98  |            |            |             |           |            | JOSIE      |
 | 98  |            |            |             |           |            | ISO         |
 | 98  |            |            |             |           |            | SCIATRAN    |
 | 98  |            |            |             |           |            | ARTS        |
