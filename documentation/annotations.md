@@ -24,12 +24,12 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 20  | GFAS       | IUE        |             | MIMOSA    |            | MIM         |
 | 21  | CLAES      | GEOS??     |             | CIRA-86   |            | FRP         |
 | 22  | SHIMMER    | Aqua       |             | USMM      |            | LWP         |
-| 23  | MAS        |            |             | BASCOE    |            | EC          |
+| 23  | MAS        | SORCE      |             | BASCOE    |            | EC          |
 | 24  | DIAL       |            |             | MOZART    |            | NSD         |
 | 25  | TOVS       |            |             | LABOS     |            | SWDN        |
-| 26  |  SZA       |            |             |           |            | LWDN        |
-| 27  |CPR         |            |             |           |            | OLR         |
-| 28  | RPW        |            |             |           |            | PWV         |
+| 26  |  SZA       |            |             | FinROSE   |            | LWDN        |
+| 27  |CPR         |            |             | ERA-interim|           | OLR         |
+| 28  | RPW        |            |             | GOCART    |            | PWV         |
 | 29   SMILES      |            |             |           |            | CF          |
 | 30  | MWR        |            |             |           |            | IMK         |
 | 31  |  AIRS      |            |             |           |            | IAA         |
@@ -96,9 +96,9 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 92  | OMPS       |            |             |           |            | EESC        |
 | 93  | HSB        |            |             |           |            | GHG         |
 | 94  | ISR        |            |             |           |            | PBL         |
-| 95  |            |            |             |           |            |         |
-| 96  |            |            |             |           |            | GMD         |
-| 97  |            |            |             |           |            | UTH                                        |
+| 95  | cWASPAM    |            |             |           |            | LATMOSgo        |
+| 96  | HAGAR      |            |             |           |            | GMD         |
+| 97  | GLORIA     |            |             |           |            | UTH                                        |
 | 98  |            |            |             |           |            | IWC         |
 | 98  |            |            |             |           |            | DJF         |
 | 98  |            |            |             |           |            | CAMS        |
@@ -123,7 +123,7 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  FITEXY     |
 | 98  |            |            |             |           |            |  RMSD       |
 | 98  |            |            |             |           |            |  EEOF       |
-| 98  |            |            |             |           |            |  ERA-40     |
+| 98  |            |            |             |           |            |  era-40     |
 | 98  |            |            |             |           |            |  HITRAN     |
 | 98  |            |            |             |           |            |  PDO        |
 | 98  |            |            |             |           |            |  ISCCP      |
@@ -146,8 +146,8 @@ This table only covers acronyms, as full words should be relatively obvious in c
 | 98  |            |            |             |           |            |  POLARIS    |
 | 98  |            |            |             |           |            |  HOPE     
 | 98  |            |            |             |           |            |  JRA        |
-| 98  |            |            |             |           |            |           
-| 98  |            |            |             |           |            |             |
+| 98  |            |            |             |           |            |  IMKIAA    
+| 98  |            |            |             |           |            |  MOSDAC       |
 | 98  |            |            |             |           |            |           
 | 98  |            |            |             |           |            |             |
 | 98  |            |            |             |           |            |           
