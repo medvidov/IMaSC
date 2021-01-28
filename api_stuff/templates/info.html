@@ -28,6 +28,9 @@
 
     <h1>IMaSC Demo</h1>
 
+    <big>Coverage: {{cov * 100}}% </big>
+    <small>(percentage of guesses that were made with at least 50% confidence)</small>
+
     <table>
         <tr>
             <th>Token</th>
@@ -43,11 +46,6 @@
     {% endfor %}
     </table>
 
-
-    <div class="container">
-    <div class="droparea">Drop Here</div>
-    <div class="tablearea" id="tablearea"></div>
-    </div>
 
     </body>
     </html>
