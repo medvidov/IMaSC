@@ -18,7 +18,7 @@ jsonschema==2.6.0
 more-itertools==8.4.0
 murmurhash==1.0.2
 networkx==2.4
-numpy==1.19.1
+numpy==1.15.0
 packaging==20.4
 peewee==2.10.2
 plac==0.9.6
@@ -26,7 +26,6 @@ pluggy==0.13.1
 preshed==3.0.2
 prodigy @ file:///mnt/c/Program%20Files/prodigy-1.8.5/prodigy-1.8.5-cp35.cp36.cp37-cp35m.cp36m.cp37m-linux_x86_64.whl
 py==1.9.0
-pyemd==0.5.1
 PyJWT==1.7.1
 pyparsing==2.4.7
 Pyphen==0.9.5
