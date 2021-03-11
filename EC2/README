@@ -1,0 +1,30 @@
+#Introduction to EC2
+Amazon’s EC2 service offers an alternative source of computing power to run machine learning programs. A few of the programs in this repository (especially ones that train the model) take a long time to run (hours or days), and if you’re trying to run it quickly and over and over again, you’ll need some more computing power. Launching an Amazon EC2 instance lets you run your code remotely using GPU (Graphics Processing Unit) or a server with more CPU, allowing you to get results faster. 
+
+##Configuration
+To get started with EC2, first speak with Mike Javadi and/or Virinder Dhillon.
+
+###Instance Types to Consider
+When familiarizing yourself with EC2, start with small, free-tier, CPU-only instances, like t1.micro and similar.
+If you are interested in GPU, consider g4dn.xlarge instances. Always check the price of an instances before launching it.
+
+###Other Configuration Details
+
+The configuration details we used were: 
+
+AMI:JPL_COMMON_BASE/CentOS-7/us-west-2-EXTERNAL/20210203T111615Z
+
+Instance type: g4dn.xlarge
+
+VPC: default
+
+Storage: size 20 GiB
+
+Tags: Creator (your email) , end_date, Name (name of instance)
+
+Security group: click “existing,” pick AAnT
+
+
+###Best Practices
+Instances that aren't in the free tier can get expensive when left on for a while, so stop your instance when you are not using it (overnight), and terminate your instance when you are finished using it forever.
+
