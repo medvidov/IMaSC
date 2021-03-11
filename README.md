@@ -52,11 +52,11 @@ While reading through data, look out for acronyms or things that have “Satelli
 When you identify a potential token, reference the annotations.md file and see if it’s already in there. If the term is in the document as a spacecraft or instrument, annotate it accordingly. If it’s in the document as something else (“model” or “other”), ignore it.
 
 If you think you’ve found a token but it isn’t in annotations.md, try to classify it on your own:
-Use context. Sentences like “aboard the XXXX” or “on the YYYY” might indicate spacecraft, while “measurements taken by ZZZZ” might indicate instruments
-Often times, terms expressed in the form “ XXX / YYY” like “UARS / MLS” are of the form “ SPACECRAFT / INSTRUMENT “ 
-Google the term along with with “NASA”, like “MLS NASA” and read into several articles to see what entity the term might be associated with
-If you’re really unsure, it’s best to note it somewhere and see if it comes up again; compare contexts it appears in
-If you can find information but the information is ambiguous, like you can’t tell if something is an experiment or an instrument (ex. HALOE), just pick a label and stay consistent with it
+* Use context. Sentences like “aboard the XXXX” or “on the YYYY” might indicate spacecraft, while “measurements taken by ZZZZ” might indicate instruments
+* Often times, terms expressed in the form “ XXX / YYY” like “UARS / MLS” are of the form “ SPACECRAFT / INSTRUMENT “ 
+* Google the term along with with “NASA”, like “MLS NASA” and read into several articles to see what entity the term might be associated with
+* If you’re really unsure, it’s best to note it somewhere and see if it comes up again; compare contexts it appears in
+* If you can find information but the information is ambiguous, like you can’t tell if something is an experiment or an instrument (ex. HALOE), just pick a label and stay consistent with it
 
 
 #### Training
