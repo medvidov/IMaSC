@@ -45,10 +45,30 @@ click the grey no symbol to skip it.
 Currently, IMaSC supports labeling of scientific instruments (i.e. `MLS` ) and the spacecraft (i.e. `Aura satellite` ) that carry them. 
 Using the directions above, label all instances of scientific instruments and spacecraft in the text.
 
+#### Handling Uncertainties While Annotating
+
+While reading through data, look out for acronyms or things that have “Satellite” or something similar for spacecraft, or words that end in “meter” or similar for instruments.
+
+When you identify a potential token, reference the annotations.md file and see if it’s already in there. If the term is in the document as a spacecraft or instrument, annotate it accordingly. If it’s in the document as something else (“model” or “other”), ignore it.
+
+If you think you’ve found a token but it isn’t in annotations.md, try to classify it on your own:
+* Use context. Sentences like “aboard the XXXX” or “on the YYYY” might indicate spacecraft, while “measurements taken by ZZZZ” might indicate instruments
+* Often times, terms expressed in the form “ XXX / YYY” like “UARS / MLS” are of the form “ SPACECRAFT / INSTRUMENT “ 
+* Google the term along with with “NASA”, like “MLS NASA” and read into several articles to see what entity the term might be associated with
+* If you’re really unsure, it’s best to note it somewhere and see if it comes up again; compare contexts it appears in
+* If you can find information but the information is ambiguous, like you can’t tell if something is an experiment or an instrument (ex. HALOE), just pick a label and stay consistent with it
+
+
 #### Training
 
 Train the model with the following command: `prodigy ner.batch-train train_imasc en_core_web_sm -n 100`. To train a model with only one entity type run `prodigy ner.batch-train train_imasc en_core_web_sm -n 100 -l ENTITY`. 
 A flowchart for how to train your specific model can be found [here](https://prodi.gy/prodigy_flowchart_ner-36f76cffd9cb4ef653a21ee78659d366.pdf). About 4000 annotations are needed to train the model.
+
+## The API (Application Programming Interface)
+Included in this repository is a basic API that runs the model on user input data and displays a list of tokens the model found along with coverage data. To use the API, run “python api.py” from the api_stuff directory in the terminal. Your command line should spit out a link you can then use to access the API in your default browser. 
+
+In your browser, either enter text or drop a PDF (a recommended PDF is provided in this repository) and click “submit.”
+
 
 ## Versioning
 
