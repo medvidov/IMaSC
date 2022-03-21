@@ -41,7 +41,7 @@ threadpoolctl==2.1.0
 toolz==0.10.0
 tqdm==4.48.0
 urllib3==1.25.10
-waitress==1.2.1
+waitress==2.1.1
 wasabi==0.7.1
 wcwidth==0.2.5
 zipp==3.1.0
