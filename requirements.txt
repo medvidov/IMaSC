@@ -17,7 +17,7 @@ jsonschema==2.6.0
 more-itertools==8.4.0
 murmurhash==1.0.2
 networkx==2.4
-numpy==1.15.0
+numpy==1.22.0
 packaging==20.4
 peewee==2.10.2
 plac==0.9.6
